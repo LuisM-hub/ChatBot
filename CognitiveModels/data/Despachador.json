@@ -1,0 +1,728 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_Wather"
+    },
+    {
+      "name": "l_HomeAutomation"
+    },
+    {
+      "name": "QnA"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Weather.Historic",
+      "children": [],
+      "inherits": {
+        "domain_name": "Weather",
+        "model_name": "Historic"
+      },
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "Weather.WeatherCondition",
+      "children": [],
+      "inherits": {
+        "domain_name": "Weather",
+        "model_name": "WeatherCondition"
+      },
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "Weather.WeatherRange",
+      "children": [],
+      "inherits": {
+        "domain_name": "Weather",
+        "model_name": "WeatherRange"
+      },
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "HomeAutomation.Location",
+      "children": [],
+      "inherits": {
+        "domain_name": "HomeAutomation",
+        "model_name": "Location"
+      },
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "HomeAutomation.Setting",
+      "children": [],
+      "inherits": {
+        "domain_name": "HomeAutomation",
+        "model_name": "Setting"
+      },
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "HomeAutomation.DeviceName",
+      "inherits": {
+        "domain_name": "HomeAutomation",
+        "model_name": "DeviceName"
+      },
+      "subLists": [
+        {
+          "canonicalForm": "lamp 1",
+          "list": [
+            "lamps 1"
+          ]
+        },
+        {
+          "canonicalForm": "living room light",
+          "list": []
+        },
+        {
+          "canonicalForm": "kitchen light",
+          "list": []
+        },
+        {
+          "canonicalForm": "christmas tree light",
+          "list": []
+        },
+        {
+          "canonicalForm": "peppercorn lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "ceiling lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "living room lamp 1",
+          "list": []
+        },
+        {
+          "canonicalForm": "night sleep light",
+          "list": []
+        },
+        {
+          "canonicalForm": "fish pond light",
+          "list": []
+        },
+        {
+          "canonicalForm": "den light",
+          "list": []
+        },
+        {
+          "canonicalForm": "levis light",
+          "list": []
+        },
+        {
+          "canonicalForm": "light 31",
+          "list": []
+        },
+        {
+          "canonicalForm": "blue lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "christmas lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "tulip light",
+          "list": [
+            "tulip lights"
+          ]
+        },
+        {
+          "canonicalForm": "evening lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "security system",
+          "list": []
+        },
+        {
+          "canonicalForm": "penelope's light",
+          "list": []
+        },
+        {
+          "canonicalForm": "siena's lamp",
+          "list": []
+        },
+        {
+          "canonicalForm": "dining lamp",
+          "list": []
+        },
+        {
+          "canonicalForm": "reading living room light",
+          "list": []
+        },
+        {
+          "canonicalForm": "sophia's light",
+          "list": []
+        },
+        {
+          "canonicalForm": "matthew lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "steeple led bulb",
+          "list": []
+        },
+        {
+          "canonicalForm": "great light",
+          "list": []
+        },
+        {
+          "canonicalForm": "tulips light",
+          "list": []
+        },
+        {
+          "canonicalForm": "hue light",
+          "list": []
+        },
+        {
+          "canonicalForm": "lcd light",
+          "list": []
+        },
+        {
+          "canonicalForm": "pot light 2",
+          "list": []
+        },
+        {
+          "canonicalForm": "hue white lamp 3",
+          "list": []
+        },
+        {
+          "canonicalForm": "david thermo",
+          "list": []
+        },
+        {
+          "canonicalForm": "main light",
+          "list": [
+            "main lamp"
+          ]
+        },
+        {
+          "canonicalForm": "living room lamp 3",
+          "list": []
+        },
+        {
+          "canonicalForm": "hue lamp two",
+          "list": []
+        },
+        {
+          "canonicalForm": "kuelap light",
+          "list": []
+        },
+        {
+          "canonicalForm": "hue white lamp 1",
+          "list": []
+        },
+        {
+          "canonicalForm": "hallway lamp three",
+          "list": []
+        },
+        {
+          "canonicalForm": "david's light",
+          "list": []
+        },
+        {
+          "canonicalForm": "green light",
+          "list": []
+        },
+        {
+          "canonicalForm": "red light",
+          "list": []
+        },
+        {
+          "canonicalForm": "brake lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "dream lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "weekend lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "lightstrip 3",
+          "list": []
+        },
+        {
+          "canonicalForm": "ceiling light",
+          "list": []
+        },
+        {
+          "canonicalForm": "bronze lamp",
+          "list": []
+        },
+        {
+          "canonicalForm": "thermostat three",
+          "list": []
+        },
+        {
+          "canonicalForm": "sink light two",
+          "list": []
+        },
+        {
+          "canonicalForm": "favorites lights",
+          "list": []
+        },
+        {
+          "canonicalForm": "tv light",
+          "list": []
+        },
+        {
+          "canonicalForm": "biube light",
+          "list": []
+        },
+        {
+          "canonicalForm": "couch light",
+          "list": []
+        },
+        {
+          "canonicalForm": "surface pro three",
+          "list": [
+            "surface pro four"
+          ]
+        },
+        {
+          "canonicalForm": "yellow lights",
+          "list": [
+            "yellow light",
+            "yellow lamp",
+            "yellow lamps"
+          ]
+        },
+        {
+          "canonicalForm": "night light",
+          "list": []
+        },
+        {
+          "canonicalForm": "dining thermostat",
+          "list": []
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "HomeAutomation.DeviceType",
+      "inherits": {
+        "domain_name": "HomeAutomation",
+        "model_name": "DeviceType"
+      },
+      "subLists": [
+        {
+          "canonicalForm": "ac",
+          "list": [
+            "air conditioner",
+            "a/c",
+            "a / c",
+            "air conditioning",
+            "air condition"
+          ]
+        },
+        {
+          "canonicalForm": "coffee maker",
+          "list": [
+            "coffee pot",
+            "coffee machine"
+          ]
+        },
+        {
+          "canonicalForm": "coffeemaker",
+          "list": []
+        },
+        {
+          "canonicalForm": "dish washer",
+          "list": [
+            "dish washing machine",
+            "dish-washing machine"
+          ]
+        },
+        {
+          "canonicalForm": "dishwasher",
+          "list": []
+        },
+        {
+          "canonicalForm": "dog feeder",
+          "list": [
+            "feeder"
+          ]
+        },
+        {
+          "canonicalForm": "dvd player",
+          "list": [
+            "dvd players"
+          ]
+        },
+        {
+          "canonicalForm": "fan",
+          "list": [
+            "electric fan",
+            "fans",
+            "ceiling fan",
+            "light-fan"
+          ]
+        },
+        {
+          "canonicalForm": "floor mopping robot",
+          "list": []
+        },
+        {
+          "canonicalForm": "ice maker",
+          "list": []
+        },
+        {
+          "canonicalForm": "lamp",
+          "list": [
+            "lamps"
+          ]
+        },
+        {
+          "canonicalForm": "light",
+          "list": [
+            "lights",
+            "top light",
+            "top lights",
+            "bottom light",
+            "pendant light",
+            "overhead light",
+            "lighting",
+            "spotlights",
+            "pendant lights",
+            "nightlight"
+          ]
+        },
+        {
+          "canonicalForm": "outlet",
+          "list": [
+            "outlets",
+            "switches"
+          ]
+        },
+        {
+          "canonicalForm": "radio",
+          "list": []
+        },
+        {
+          "canonicalForm": "refrigerator",
+          "list": []
+        },
+        {
+          "canonicalForm": "sensor",
+          "list": []
+        },
+        {
+          "canonicalForm": "thermostat",
+          "list": []
+        },
+        {
+          "canonicalForm": "tv",
+          "list": [
+            "television"
+          ]
+        },
+        {
+          "canonicalForm": "washing machine",
+          "list": [
+            "washer"
+          ]
+        },
+        {
+          "canonicalForm": "wifi",
+          "list": [
+            "wifi router",
+            "router"
+          ]
+        },
+        {
+          "canonicalForm": "led bulb",
+          "list": []
+        },
+        {
+          "canonicalForm": "oven",
+          "list": [
+            "toaster"
+          ]
+        },
+        {
+          "canonicalForm": "electric water heater",
+          "list": []
+        },
+        {
+          "canonicalForm": "microwave oven",
+          "list": []
+        },
+        {
+          "canonicalForm": "bread maker",
+          "list": []
+        },
+        {
+          "canonicalForm": "speaker",
+          "list": []
+        },
+        {
+          "canonicalForm": "fridge",
+          "list": []
+        },
+        {
+          "canonicalForm": "humidifier",
+          "list": []
+        },
+        {
+          "canonicalForm": "computer",
+          "list": []
+        },
+        {
+          "canonicalForm": "vacuum cleaner",
+          "list": []
+        },
+        {
+          "canonicalForm": "xbox",
+          "list": []
+        },
+        {
+          "canonicalForm": "hair dryer",
+          "list": [
+            "dryer"
+          ]
+        },
+        {
+          "canonicalForm": "telephone",
+          "list": []
+        },
+        {
+          "canonicalForm": "remote",
+          "list": []
+        },
+        {
+          "canonicalForm": "media",
+          "list": [
+            "media console",
+            "movie"
+          ]
+        },
+        {
+          "canonicalForm": "camera",
+          "list": []
+        },
+        {
+          "canonicalForm": "ipad",
+          "list": [
+            "ipod"
+          ]
+        },
+        {
+          "canonicalForm": "sink",
+          "list": []
+        },
+        {
+          "canonicalForm": "stove",
+          "list": []
+        },
+        {
+          "canonicalForm": "alarms",
+          "list": [
+            "alarm"
+          ]
+        },
+        {
+          "canonicalForm": "showers",
+          "list": [
+            "shower"
+          ]
+        },
+        {
+          "canonicalForm": "sprinkler",
+          "list": [
+            "sprinklers"
+          ]
+        },
+        {
+          "canonicalForm": "cars",
+          "list": [
+            "car"
+          ]
+        },
+        {
+          "canonicalForm": "heaters",
+          "list": [
+            "heater"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "HomeAutomation.SettingType",
+      "inherits": {
+        "domain_name": "HomeAutomation",
+        "model_name": "SettingType"
+      },
+      "subLists": [
+        {
+          "canonicalForm": "backgrounds",
+          "list": []
+        },
+        {
+          "canonicalForm": "brightness",
+          "list": []
+        },
+        {
+          "canonicalForm": "cold",
+          "list": []
+        },
+        {
+          "canonicalForm": "color",
+          "list": []
+        },
+        {
+          "canonicalForm": "contrast",
+          "list": []
+        },
+        {
+          "canonicalForm": "distance",
+          "list": []
+        },
+        {
+          "canonicalForm": "heat",
+          "list": []
+        },
+        {
+          "canonicalForm": "hot",
+          "list": []
+        },
+        {
+          "canonicalForm": "hue",
+          "list": []
+        },
+        {
+          "canonicalForm": "humidity",
+          "list": []
+        },
+        {
+          "canonicalForm": "power levels",
+          "list": [
+            "power level",
+            "power"
+          ]
+        },
+        {
+          "canonicalForm": "saturation",
+          "list": []
+        },
+        {
+          "canonicalForm": "speed",
+          "list": []
+        },
+        {
+          "canonicalForm": "temperature",
+          "list": [
+            "temp"
+          ]
+        },
+        {
+          "canonicalForm": "time",
+          "list": []
+        },
+        {
+          "canonicalForm": "volume level",
+          "list": [
+            "volume",
+            "sound",
+            "sounds"
+          ]
+        },
+        {
+          "canonicalForm": "mode",
+          "list": []
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "geographyV2",
+      "roles": []
+    },
+    {
+      "name": "temperature",
+      "roles": []
+    }
+  ],
+  "utterances": [],
+  "versionId": "Dispatch",
+  "name": "Despachador",
+  "desc": "Dispatch model for Despachador",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "(receive|get|read) [the] {Weather.WeatherCondition} (warning[s]|alert[s]) [for] {datetimeV2}",
+      "intent": "l_Wather"
+    },
+    {
+      "pattern": "[the] {Weather.WeatherRange} {Weather.Historic} {Weather.Historic} (in|at) {geographyV2}",
+      "intent": "l_Wather"
+    },
+    {
+      "pattern": "(what is|what's) the {Weather.WeatherCondition} of {geographyV2} (in|at) {temperature}",
+      "intent": "l_Wather"
+    },
+    {
+      "pattern": "[please] stop the {HomeAutomation.DeviceType} [for me]",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "(is|are) [(the|my)] {HomeAutomation.DeviceType} [{HomeAutomation.Setting}] in [(the|my)] [{HomeAutomation.Location}] [set] [to] {HomeAutomation.Setting}",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "start up [the] {HomeAutomation.DeviceType} [in {HomeAutomation.Location}]",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "(are|is|do[es]) [(the|my)] [{HomeAutomation.Location}] {HomeAutomation.DeviceType} [{HomeAutomation.SettingType}] {HomeAutomation.Setting} [or {HomeAutomation.Setting}]",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "[(which mode|what's)] is (the|my) ({HomeAutomation.DeviceType}|{HomeAutomation.SettingType}) set to",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "make ({HomeAutomation.DeviceName}|{HomeAutomation.DeviceType}) [in {HomeAutomation.Location}] turned on",
+      "intent": "l_HomeAutomation"
+    },
+    {
+      "pattern": "do[es] (the|those) (device[s]|{HomeAutomation.DeviceType}) [{HomeAutomation.Setting}][?]",
+      "intent": "l_HomeAutomation"
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

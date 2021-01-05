@@ -1,0 +1,786 @@
+adjust family room lights to 15 %
+adjust the volume of radio to 25%
+all lights on for 1 hour
+are any spotlights on
+are bedroom lights off
+are living room lights off
+are my crawl space lamps on
+are my lights off in the closet
+are my lights off or on
+are my lights on or off
+are my outlets on
+are my playroom lights on
+are my switches on
+are the back entryway lights on
+are the indoors lights on
+are the lights off in the kitchen
+are the lights on in the library
+are the lights on in the master bathroom
+are the living area lights on
+are the outlets on
+are you able to turn off my light switches
+brighten 30%
+brighten family room lamp by 100
+brighten garage
+brighten kitchen entry light
+brighten light-fan
+brighten living room lamps by ten
+brighten living room lamps to 50
+brighten room lights to 45%
+brighten the bar lights
+brighten the bar lights to 10
+brighten the first light
+brighten the kitchen dining lights
+brighten the kitchen lights
+brighten the kitchen lights to 15
+brighten the lights
+brighten the living room lamps to 15
+brighten the living room lights to 15
+can you make my tv quieter
+can you please turn off lights
+can you please turn on my lamp
+can you start the coffee maker
+can you turn my lights on
+can you turn my tv off
+can you turn off the lights please
+can you turn off the tv
+can you turn on my coffeemaker
+can you turn on my coffeemaker at 6 am
+can you turn on the dishwasher
+can you turn on the light
+can you turn on the lights in bathroom
+change the color of lamp to yellow
+change the lights to blue please
+change the study to bright
+check the status of my house
+check the status of the thermostat please
+check the temperature in the kitchen
+check the temperature in the living room
+decrease my thermostat at 4
+decrease my thermostat by 4 degrees
+decrease my thermostat by 5 degrees
+decrease my thermostat temperature by 10 degrees
+decrease my thermostat temperature by 5 degrees
+decrease the fan speed
+decrease the home temperature by 88 degrees
+decrease the lights brightness
+decrease the temperature of the heat by 5 degrees
+did i leave any fans on
+did i leave any lights on
+did i leave the ac on
+did i leave the light on
+did i leave the lights on
+did i turn off the ac
+did i turn off the lamp
+did i turn on the light
+did i turn on the lights
+dim 20%
+dim bedroom by half
+dim bedroom lamp by 20
+dim bedroom lamp by 3
+dim bedroom lamp by 8
+dim bedroom lights to 50
+dim ceiling light to 50
+dim family room lamps
+dim family room lights to 15%
+dim front light
+dim kitchen entry to 30 %
+dim kitchen light to 50%
+dim kitchen lights by 25
+dim kitchen table lamp
+dim kitchen to 50%
+dim lamp
+dim lamp to 50%
+dim light
+dim living room lamps to 35
+dim living room light
+dim living room light by 50%
+dim living room to 50%
+dim main lamp
+dim media room light
+dim my bathroom light
+dim my outside lights
+dim my red light
+dim room lights to 78%
+dim the bar lights to darker
+dim the bar lights to red
+dim the bed lights by 10
+dim the bedroom lamp
+dim the family room light to 50 %
+dim the kitchen lights to 10
+dim the lamp by 3 at 6 pm
+dim the led bulb
+dim the light
+dim the light 140%
+dim the light 185%
+dim the light at 12
+dim the lights
+dim the lights in the living room
+dim the living room floor lamp to 12%
+dim the living room light to 50%
+dim the living room to 50%
+dim the nightstand light by 60%
+dim the office light
+dim the stairway pendant light
+dim the stairway pendant light by 70
+dim the table lights by 10
+dim the table lights to darker
+dim the table lights to red
+dim the weekend lights
+disable lightstrip 3
+for hub front porch light off
+home switch off the fan
+how bright is the master bedroom light
+how cold is it in the family room
+how cold is it in the porch
+how cold is it inside
+how hot is it inside
+i need the bedroom lights on please
+i need the bread maker turned off
+i need the lights in the dining room turned on
+i need the lights on at 9 pm
+i need to turn the humidifier to medium
+i need you to start the dishwasher
+i want to know the status of kitchen's light
+i want to make study 2 fahrenheit warmer
+increase fan speed
+increase heat by 7
+increase lamp brightness
+increase light by 5%
+increase my thermostat by 12 degrees
+increase my thermostat temperature by 20 degrees
+increase temperature by 5 degrees
+increase the brightness of bedroom's lamp by half
+increase the fan power
+increase the fan power to medium
+increase the second heat by 9
+increase the temperature by 10 percent
+increase the temperature by 5 degrees
+increase the temperature of the heater by 3 degrees please
+increase the temperature of the heater by 4 degrees please
+increase the tv volume
+increase thermostat by 3 degrees
+increase thermostat temperature by 5 degrees
+increase thermostat temperature by two degrees
+increase thermostat to 68 degrees
+increase thermostat to 73 degrees
+intensify lighting by 10%
+intensify lighting by 50%
+intensify lighting by half
+is it off
+is my a/c on
+is my air conditioning on
+is my bar thermostat on
+is my bread maker off
+is my city center light on or off
+is my coffee maker on
+is my coffee maker running
+is my fan on
+is my fan set to medium
+is my light on
+is my radio working now
+is my tv volume set to 20
+is the a/c on
+is the a/c on in my house
+is the a/c working
+is the ac in the balcony on
+is the ac set to refrigeration mode
+is the air conditioner on
+is the air conditioning on
+is the bathroom fan on
+is the device off
+is the device on
+is the dishwasher running
+is the electric water heater running
+is the fan in the garage running
+is the fan on in the living room
+is the fan on in the master bedroom
+is the front entry switched on
+is the front yard a/c on
+is the kitchen outlets on
+is the lamp in the lounge on
+is the light on in the dining room
+is the light on in the kitchen
+is the living room light on
+is the nook lamp on
+is the patio a/c on
+is the temperature 68 degrees
+is the temperature set to 75 degrees
+kitchen overhead off
+kitchen sink off
+light off
+lights off the table
+listen up turn off the air condition
+louder the tv
+lower air conditioning by one degree
+lower light-fan
+lower my thermostat by 10 degrees
+lower my thermostat temperature by 10 degrees
+lower the ac by five degrees
+lower the brightness in study
+lower the kitchen light
+lower the lamp
+lower the radio volume
+lower the temperature of the ac by 4 degrees
+lower the temperature of the refrigerator by 5 degrees
+make bedroom light brighter
+make bedroom lights brighter
+make dining room lights darker
+make everything turned on
+make hue white lamp 3 turned on
+make it 2 degrees warmer
+make it 3 degrees warmer
+make it colder by 10 degrees
+make it colder in here
+make it colder please
+make it cooler
+make it cooler outside
+make it warm
+make it warmer
+make it warmer in the home office
+make it warmer in the pass through
+make living room's every light on
+make my brake lights darker
+make my coffee maker off
+make my coffee maker on for 5 minutes
+make my dream lights brighter
+make my house cooler
+make my kitchen lights brighter
+make my lights brighter
+make my living room light brighter
+make my red light brighter
+make my study a little warmer
+make my study's temperature higher
+make my tulip lights darker
+make my whole house colder
+make sure stove is off
+make sure the coffee maker is turned on
+make sure the oven is on
+make the ac in living room set to refrigeration mode
+make the ac warm
+make the air conditioner set to 29 degrees.
+make the bread maker off
+make the bread maker on for 10 minutes
+make the kitchen warmer
+make the light brighter
+make the light brighter by 48%
+make the lights brighter
+make the living area warmer
+make the oven set to 100 centigrade
+make the oven set to 100 degrees
+make the radio louder
+make the radio sounds quieter
+make the room cooler
+make the speaker volume higher
+make the speaker volume lower
+make the temperature at 77 degrees
+make the temperature in dining room higher
+make the tv sounds a little quieter
+make the tv sounds louder
+open pot light 2
+please make it five degrees warmer in here
+please stop the bread maker for me
+please switch off the living room tv
+please turn off the kitchen lights
+please turn off the light
+please turn off the lights
+please turn off the living room lights
+please turn off the tv
+please turn on kitchen light
+please turn on master bathroom lights
+please turn on my coffeemaker
+please turn on my kitchen lights
+please turn on the coffeemaker to 6 am
+please turn on the dishwasher
+please turn on the kitchen light
+please turn on tv in the kitchen
+please turn the camera on
+please turn the living room lights off
+please turn the second kitchen outlets on
+please turn the yellow lights on till 9:30
+put the microwave oven on heating mode
+put the temperature higher
+put the tv on silent mode
+put the tv's sound on medium
+raise fridge by 10 fahrenheit
+raise fridge by 2 degrees
+raise temperature to 73 degrees
+raise the brightness 10%
+raise the brightness in study
+raise the temperature by 3 degrees
+raise the temperature of the refrigerator by 5 degrees
+set ac soft downstairs
+set ac temperature low
+set air conditioner power to low
+set bedroom to 20 kelvin
+set dining temperature at 73 degrees
+set fan to strong
+set lamp to yellow
+set lights fantasy
+set lights off in family
+set lights off in living room
+set lights off in the main room
+set lights on at 11 pm
+set lights purple rain
+set lights red
+set lights to a pretty productive brightness
+set lights to dusk in kitchen
+set lights to low light in master bedroom
+set living room lights to dusk
+set living room lights to relax
+set living room to 18 centigrade
+set living room to 25 degrees
+set my couch to 78
+set my temperature to 68 degrees
+set my temperature to 72 degrees
+set my thermostat to 72 degrees
+set my thermostat to 73
+set my thermostat to 74 degrees celsius
+set office lamp brightness to 21 percent
+set office lights brightness 23%
+set study light at 57%
+set study room temperature at 74
+set temperature to 68
+set temperature to 72 degrees for 30 minutes
+set the ac to the strongest
+set the air conditioner to heating mode
+set the bedroom light to 79 degrees
+set the bronze lamp to purple
+set the light to green
+set the light's location in living room
+set the microwave oven to the defrosting mode
+set the speaker to form a surround sound
+set the temperature of my home living room thermostat to 55 degrees
+set the temperature to 30 degrees
+set the thermostat at 77 degrees
+set the thermostat to 62 degrees
+set upstairs lights normal
+shut down surface pro four
+shut down the computer
+shut down the first lamp
+shut down the oven
+shut down the radio
+shut off tv
+start coffee maker
+start coffee pot
+start my car
+start oven
+start running the microwave oven
+start running the oven
+start sink light two
+start the coffee maker please
+start the computer
+start the dryer
+start the dryer over at three hundred fifty degrees
+start the dvd player
+start the ice maker
+start the movie
+start up my coffee machine
+start up my coffee maker
+start up the tv in living room
+stop bar lamp
+stop running the microwave oven
+stop the bread maker
+stop the lamp
+stop thermostat three
+switch bedroom lights off
+switch my lights off
+switch my living room light off
+switch my study light on
+switch off kitchen lights
+switch off main light
+switch off my bedroom light
+switch off the light
+switch off the lights
+switch off the second lights
+switch on living room ac
+switch on the lamp in nancy's bedroom
+switch on the speaker
+switch on xbox for 2 hours
+tell me the brightness
+tell me the color of study's lamp
+tell me the radio's volume
+tell me the temperature
+the light is off, right
+the outdoors lights on
+the vacuum cleaner off
+the vacuum cleaner on
+trigger office lights on
+tune the light to yellow at 5 pm
+tune the temp higher
+tune the temp lower
+tune the tv volume to 60
+turn basement stairs light up
+turn bedroom light up
+turn bottom light up
+turn david 's light off
+turn dining room light down
+turn dining room light off
+turn dining room light up
+turn down 10 percent
+turn down great room lights
+turn down living room light at 9 am
+turn down my bathroom light by 50 percent
+turn down my light
+turn down my light to 10 pm
+turn down my thermostat by 2 degrees
+turn down my tulips light
+turn down study light 135%
+turn down the ac by 5 degrees
+turn down the ac temperature
+turn down the ac's power
+turn down the basement lights
+turn down the brightness of lamp to 5
+turn down the city center thermostat
+turn down the fan at nine thirty
+turn down the first ac by 5 degrees
+turn down the lamp in the living room
+turn down the lcd light
+turn down the light by 160%
+turn down the light in the living room
+turn down the second thermostat by 6 degrees
+turn down the temperature 10 degrees
+turn down the temperature 9 degrees
+turn down the temperature by 2 degrees
+turn down the temperature by 23%
+turn down the temperature by 45%
+turn down the temperature of my thermostat by 10 degrees
+turn down the temperature on the ac
+turn down the temperature to 75 celsius
+turn down the thermostat by 3 degrees
+turn down the thermostat power
+turn down the thermostat to 68 degrees
+turn down the thermostat to 72 degrees
+turn down the volume
+turn down the volume level
+turn down thermostat temperature by 1 degree
+turn entry lamp off
+turn fan's power down
+turn fireplace back lights on
+turn floor lamp up
+turn gameroom lights on
+turn hallway lamp three on
+turn hub basement light on
+turn hub bedroom lights on
+turn hub couch light off
+turn hub front light off
+turn hub front porch light off
+turn hub front porch lights on
+turn hub kitchen on
+turn hub living room light on
+turn hue light down
+turn hue light up
+turn hue white lamp 1 down
+turn hue white lamp 1 up
+turn hue white lamp 3 up
+turn ipad on
+turn kitchen lights to white
+turn kitchen west lamp onto 50 %
+turn lamp off
+turn light off
+turn lights off
+turn lights off in bedroom
+turn lights off please
+turn lights on to 9 pm
+turn living room lamp 3 off
+turn living room light on
+turn my bottom light down
+turn my bottom light up
+turn my david thermo down
+turn my david thermo up
+turn my downstairs light up
+turn my fan up
+turn my front door light down
+turn my front door light up
+turn my green light up
+turn my hue white lamp 1 up
+turn my hue white lamp 3 up
+turn my kuelap light on
+turn my lamp to red
+turn my light brighter
+turn my living room light off
+turn my sink up
+turn my study room light down
+turn my top light up
+turn my tv down
+turn night light on
+turn off a lamp
+turn off a/c
+turn off all home light
+turn off all lights
+turn off all my lights
+turn off all the lights
+turn off all the lights in the dining room
+turn off all the office lights
+turn off david 's light
+turn off dining lights
+turn off family room lamp please
+turn off family room lights
+turn off fan light
+turn off front door light
+turn off front porch lights
+turn off garage light
+turn off great light
+turn off guest patio lights
+turn off hue lamp two
+turn off in the pendant lights
+turn off ipod
+turn off joe 's room lights
+turn off kitchen overhead light
+turn off lamp at 3 pm
+turn off light 31
+turn off lights in house
+turn off lights in joe 's room
+turn off lights in the master
+turn off living room lamp 1
+turn off matthew lights
+turn off media console
+turn off my great room light
+turn off my light
+turn off my lights
+turn off my outlets
+turn off my room lights
+turn off my tulip light
+turn off outdoor lights
+turn off outside front lights
+turn off oven
+turn off penelope 's light
+turn off radio
+turn off steeple led bulb
+turn off table lights
+turn off the ac at 11 o'clock
+turn off the ac at five fourty
+turn off the ac in the living room at 11 o'clock
+turn off the air conditioner to 10 pm
+turn off the christmas lights
+turn off the coffee maker
+turn off the coffee maker at 10 am
+turn off the couch light
+turn off the den light
+turn off the dvd player
+turn off the family room lights
+turn off the first light
+turn off the humidifier
+turn off the light
+turn off the light at 11 pm
+turn off the light for 50 minutes
+turn off the light when 10 pm
+turn off the lights
+turn off the lights in office
+turn off the lights in the living room
+turn off the lights in the livingroom
+turn off the lights please
+turn off the lights when i go to bed
+turn off the livingroom lamp
+turn off the night sleep light
+turn off the outlets for 2 hours
+turn off the outside lights
+turn off the peppercorn lights
+turn off the reading living room light
+turn off the remote
+turn off the toaster
+turn off the tv
+turn off the tv at 5 o'clock
+turn off the tv at nine o'clock
+turn off the tv when 3:30
+turn off the upstairs hallway night light
+turn off the vacuum cleaner when 9am
+turn off tv
+turn off zac 's bedroom light
+turn on alarm
+turn on all lights
+turn on all lights in master bedroom room
+turn on all master bedroom lights
+turn on all my lights
+turn on basement lights
+turn on bedroom light
+turn on bedside lamp to 20 percent
+turn on camera
+turn on ceiling lights
+turn on coffee maker
+turn on coffee pot
+turn on deck lights
+turn on dining lamp
+turn on evening lights
+turn on family room fan
+turn on family room lamp
+turn on fan
+turn on fish pond light
+turn on florida room lights
+turn on hallway light
+turn on kitchen table light to 50%
+turn on laundry room light
+turn on levis light at 50%
+turn on light
+turn on light in hallway
+turn on light in living room to 6 am
+turn on lights
+turn on lights at bathroom
+turn on lights in bedroom at 10 pm
+turn on lights in dining room
+turn on lights in master bedroom room
+turn on living room floor lamp
+turn on living room lamp 1 to 25%
+turn on living room lights
+turn on living room overhead light
+turn on master bedroom lamp
+turn on my coffee maker
+turn on my coffeemaker
+turn on my computer
+turn on my garage light
+turn on my lights
+turn on my thermostat
+turn on my tv in living room
+turn on radio
+turn on scene kitchen lights
+turn on security system
+turn on shower
+turn on siena ' s lamp
+turn on sprinklers
+turn on the a/c at 5 pm
+turn on the ac at 8:30
+turn on the ac for 45 minutes
+turn on the ac till 9:20
+turn on the ac to 26 degrees
+turn on the air conditioner
+turn on the bedroom light on at six o clock
+turn on the christmas tree light
+turn on the coffee maker
+turn on the dining room light
+turn on the dishwasher
+turn on the dishwasher at 30%
+turn on the dog feeder
+turn on the fan in family room
+turn on the front outside lights
+turn on the guest patio night light
+turn on the indoors light
+turn on the lamp for 1 hour
+turn on the lamp in my room
+turn on the light
+turn on the light for 5 minutes
+turn on the light to 11 pm
+turn on the lights in kitchen at 10 pm
+turn on the lights in the bedroom
+turn on the lights in the guest room
+turn on the lights masterbedroom at 10%
+turn on the living room ceiling fan
+turn on the living room fan from 9 to 10
+turn on the living room table lamp
+turn on the nightlight
+turn on the radio at 7:30
+turn on the sink lights
+turn on the third ac
+turn on the tv for 2 hours
+turn on the upstairs hallway light
+turn on tv
+turn on tv room lamp east
+turn on xbox
+turn overhead light brighter
+turn overhead light off
+turn radio volume down to 20
+turn sink light down
+turn sophia 's light off
+turn table lights off
+turn the ac down to 68 degrees
+turn the ac up 4 degrees
+turn the bedroom lights off
+turn the blue lights off
+turn the bread maker off
+turn the camera off
+turn the fan down to low
+turn the fan to medium
+turn the fan to medium at 9
+turn the first tv down
+turn the heat up to 68 degrees
+turn the ice maker off
+turn the lamp off
+turn the light at 185%
+turn the light down at 9 pm
+turn the light off
+turn the lights on
+turn the lights on at 5
+turn the lights to 30 for 30 minutes
+turn the lights up to 32 percent
+turn the lights up to 62 %
+turn the lights up to 92 percent
+turn the lights yellow
+turn the masterbedroom light to 50% at 5
+turn the outdoors lights on
+turn the oven off
+turn the room light up to 29 %
+turn the room up 100 %
+turn the second heat up to 72 degrees to 6 pm
+turn the second outlets off
+turn the temperature down one degree
+turn the temperature up 10 degrees
+turn the temperature up 3 degrees
+turn the thermostat down
+turn the third light on from 9 pm to 10 pm
+turn thermostat up
+turn top light down
+turn top light up
+turn tulip light up
+turn up light to 80% to 9 pm
+turn up livingroom light 165%
+turn up master bathroom lights
+turn up my thermostat by 10 degrees
+turn up office light
+turn up study room light 200%
+turn up the fan in the living room
+turn up the heat to 72
+turn up the heat to seventy two
+turn up the lamp 35%
+turn up the light 30%
+turn up the light by 1 percent
+turn up the light by 10% at 6 am
+turn up the light by 17%
+turn up the light by 18%
+turn up the light by 20 percent
+turn up the light to 80 celsius to 9 pm
+turn up the lights at 8:45
+turn up the lights in the living room
+turn up the power of air conditioner
+turn up the radio volume to 30
+turn up the temperature by 4 degrees
+turn up the temperature by 5 celsius for 30 minutes
+turn up the temperature by 66%
+turn up the temperature in my living room by 5 degrees
+turn up the temperature of my thermostat by 10 degrees
+turn up the temperature of my thermostat by 5 degrees
+turn up the temperature to 80 celsius
+turn up the thermostat
+turn up the tv
+turn yard lights off
+volume down
+what does the bedroom thermostat read
+what does the dining thermostat read
+what does the outdoor thermostat read
+what is my playroom switch set to
+what is temperature on the a/c
+what is temperature on the ac
+what is the brightness of the living room lamp
+what is the brightness setting on the lamp
+what is the speed of my fan
+what is the temperature in my bedroom
+what is the temperature of my a/c
+what lamps are on
+what mode is my thermostat set to
+what percentage are my lights set to
+what 's my entertainment center ac set to
+what 's my garage lamp set to
+what 's the temperature in my house
+what 's the temperature in the bar
+what temperature is my thermostat set to
+what temperature is the thermostat set to
+what‘s the temperature of fridge
+what's the ac power level
+what's the color of my lamp
+what's the state of my radio
+what's the volume level of the tv in my bedroom
+what's the volume now
+what's the volume of the speaker
+which mode is the ac set to
+which mode is the air conditioner set to
+which mode is the microwave oven in
+which mode is the oven set to
+will you raise the brightness of the lamp by 10 %

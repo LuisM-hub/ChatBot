@@ -1,0 +1,50 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Wather",
+      "appId": "162db44c-3212-4c65-bd7c-8ddb6f16e59d",
+      "authoringKey": "4989ed1c95d1457ca55331bbb1bd43a0",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Weather",
+      "id": "1"
+    },
+    {
+      "intentName": "l_HomeAutomation",
+      "appId": "58846f55-b2b4-49c4-8580-3a7e8df1fbe7",
+      "authoringKey": "4989ed1c95d1457ca55331bbb1bd43a0",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "HomeAutomation",
+      "id": "2"
+    },
+    {
+      "intentName": "QnA",
+      "includePrompts": true,
+      "kbId": "f7c656b6-1908-4076-90e0-b0939e2c9a56",
+      "subscriptionKey": "afad548eee5846b09875a68019726197",
+      "type": "qna",
+      "name": "DTChat",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "c5542a02-f85e-4a21-89f7-f93de7deff00",
+  "authoringKey": "4989ed1c95d1457ca55331bbb1bd43a0",
+  "version": "Dispatch",
+  "region": "eastus",
+  "type": "dispatch",
+  "name": "Despachador"
+}

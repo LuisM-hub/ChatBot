@@ -1,0 +1,3802 @@
+Label	Weight	Text
+l_HomeAutomation	1	set temperature to 72 degrees for 30 minutes
+l_HomeAutomation	1	turn night light on
+l_HomeAutomation	1	turn up the light by 10% at 6 am
+l_HomeAutomation	1	turn hub living room light on
+l_HomeAutomation	1	stop running the microwave oven
+l_HomeAutomation	1	set air conditioner power to low
+l_HomeAutomation	1	turn the light at 185%
+l_HomeAutomation	1	turn on the bedroom light on at six o clock
+l_HomeAutomation	1	turn the thermostat down
+l_HomeAutomation	1	switch on living room ac
+l_HomeAutomation	1	tell me the brightness
+l_HomeAutomation	1	kitchen overhead off
+l_HomeAutomation	1	are the indoors lights on
+l_HomeAutomation	1	turn down the temperature on the ac
+l_HomeAutomation	1	make my house cooler
+l_HomeAutomation	1	turn down living room light at 9 am
+l_HomeAutomation	1	turn down my thermostat by 2 degrees
+l_HomeAutomation	1	dim room lights to 78%
+l_HomeAutomation	1	turn off matthew lights
+l_HomeAutomation	1	set lights on at 11 pm
+l_HomeAutomation	1	turn on radio
+l_HomeAutomation	1	dim kitchen to 50%
+l_HomeAutomation	1	turn up the light by 18%
+l_HomeAutomation	1	turn the ac up 4 degrees
+l_HomeAutomation	1	did i leave any lights on
+l_HomeAutomation	1	the vacuum cleaner off
+l_HomeAutomation	1	i want to make study 2 fahrenheit warmer
+l_HomeAutomation	1	make it warmer in the home office
+l_HomeAutomation	1	did i leave the lights on
+l_HomeAutomation	1	start the movie
+l_HomeAutomation	1	turn overhead light brighter
+l_HomeAutomation	1	set lights to low light in master bedroom
+l_HomeAutomation	1	turn off the couch light
+l_HomeAutomation	1	turn on sprinklers
+l_HomeAutomation	1	what's the color of my lamp
+l_HomeAutomation	1	make it colder by 10 degrees
+l_HomeAutomation	1	turn on the lights in kitchen at 10 pm
+l_HomeAutomation	1	make it warmer in the pass through
+l_HomeAutomation	1	what does the bedroom thermostat read
+l_HomeAutomation	1	turn on master bedroom lamp
+l_HomeAutomation	1	turn on all my lights
+l_HomeAutomation	1	trigger office lights on
+l_HomeAutomation	1	is my a/c on
+l_HomeAutomation	1	turn on camera
+l_HomeAutomation	1	dim the living room light to 50%
+l_HomeAutomation	1	increase fan speed
+l_HomeAutomation	1	turn on the tv for 2 hours
+l_HomeAutomation	1	raise temperature to 73 degrees
+l_HomeAutomation	1	turn my study room light down
+l_HomeAutomation	1	turn on living room lights
+l_HomeAutomation	1	set my thermostat to 72 degrees
+l_HomeAutomation	1	turn on the dining room light
+l_HomeAutomation	1	turn on the air conditioner
+l_HomeAutomation	1	turn ipad on
+l_HomeAutomation	1	make everything turned on
+l_HomeAutomation	1	turn off the lights in the livingroom
+l_HomeAutomation	1	turn my green light up
+l_HomeAutomation	1	turn down the brightness of lamp to 5
+l_HomeAutomation	1	what is temperature on the ac
+l_HomeAutomation	1	turn on basement lights
+l_HomeAutomation	1	did i turn off the ac
+l_HomeAutomation	1	turn the light down at 9 pm
+l_HomeAutomation	1	turn on my tv in living room
+l_HomeAutomation	1	make the tv sounds a little quieter
+l_HomeAutomation	1	turn on florida room lights
+l_HomeAutomation	1	lower my thermostat temperature by 10 degrees
+l_HomeAutomation	1	increase thermostat to 73 degrees
+l_HomeAutomation	1	turn off penelope 's light
+l_HomeAutomation	1	turn off the tv
+l_HomeAutomation	1	turn off the tv at nine o'clock
+l_HomeAutomation	1	set living room lights to relax
+l_HomeAutomation	1	dim kitchen lights by 25
+l_HomeAutomation	1	set the bedroom light to 79 degrees
+l_HomeAutomation	1	turn the lamp off
+l_HomeAutomation	1	lower the radio volume
+l_HomeAutomation	1	turn on hallway light
+l_HomeAutomation	1	turn on the ac at 8:30
+l_HomeAutomation	1	turn hub front light off
+l_HomeAutomation	1	increase light by 5%
+l_HomeAutomation	1	turn up the heat to 72
+l_HomeAutomation	1	what temperature is my thermostat set to
+l_HomeAutomation	1	make the bread maker off
+l_HomeAutomation	1	make my whole house colder
+l_HomeAutomation	1	make the speaker volume higher
+l_HomeAutomation	1	make it warm
+l_HomeAutomation	1	set lights to dusk in kitchen
+l_HomeAutomation	1	did i turn off the lamp
+l_HomeAutomation	1	dim living room to 50%
+l_HomeAutomation	1	can you turn off the tv
+l_HomeAutomation	1	set temperature to 68
+l_HomeAutomation	1	dim family room lamps
+l_HomeAutomation	1	are the outlets on
+l_HomeAutomation	1	turn on the a/c at 5 pm
+l_HomeAutomation	1	set upstairs lights normal
+l_HomeAutomation	1	set the bronze lamp to purple
+l_HomeAutomation	1	please turn on tv in the kitchen
+l_HomeAutomation	1	turn the light off
+l_HomeAutomation	1	turn the lights on at 5
+l_HomeAutomation	1	increase heat by 7
+l_HomeAutomation	1	set office lights brightness 23%
+l_HomeAutomation	1	turn on the guest patio night light
+l_HomeAutomation	1	turn off the first light
+l_HomeAutomation	1	turn lamp off
+l_HomeAutomation	1	turn on the ac to 26 degrees
+l_HomeAutomation	1	turn off all my lights
+l_HomeAutomation	1	dim main lamp
+l_HomeAutomation	1	turn the fan to medium
+l_HomeAutomation	1	turn on the ac for 45 minutes
+l_HomeAutomation	1	turn off family room lamp please
+l_HomeAutomation	1	turn up the thermostat
+l_HomeAutomation	1	turn the temperature down one degree
+l_HomeAutomation	1	turn on the lamp in my room
+l_HomeAutomation	1	is the device on
+l_HomeAutomation	1	turn on family room lamp
+l_HomeAutomation	1	turn off a lamp
+l_HomeAutomation	1	make my study's temperature higher
+l_HomeAutomation	1	turn gameroom lights on
+l_HomeAutomation	1	turn off all the lights in the dining room
+l_HomeAutomation	1	turn the lights up to 62 %
+l_HomeAutomation	1	turn up master bathroom lights
+l_HomeAutomation	1	turn up the light by 20 percent
+l_HomeAutomation	1	what is the brightness setting on the lamp
+l_HomeAutomation	1	dim lamp to 50%
+l_HomeAutomation	1	which mode is the microwave oven in
+l_HomeAutomation	1	are you able to turn off my light switches
+l_HomeAutomation	1	will you raise the brightness of the lamp by 10 %
+l_HomeAutomation	1	is the ac in the balcony on
+l_HomeAutomation	1	turn lights off please
+l_HomeAutomation	1	turn lights off in bedroom
+l_HomeAutomation	1	turn kitchen lights to white
+l_HomeAutomation	1	change the color of lamp to yellow
+l_HomeAutomation	1	dim lamp
+l_HomeAutomation	1	turn on siena ' s lamp
+l_HomeAutomation	1	what 's my garage lamp set to
+l_HomeAutomation	1	turn my light brighter
+l_HomeAutomation	1	is the patio a/c on
+l_HomeAutomation	1	kitchen sink off
+l_HomeAutomation	1	turn off the lights in office
+l_HomeAutomation	1	is my tv volume set to 20
+l_HomeAutomation	1	please turn off the kitchen lights
+l_HomeAutomation	1	is the fan on in the master bedroom
+l_HomeAutomation	1	turn on lights at bathroom
+l_HomeAutomation	1	is the front yard a/c on
+l_HomeAutomation	1	turn on the light for 5 minutes
+l_HomeAutomation	1	set living room to 25 degrees
+l_HomeAutomation	1	is the air conditioner on
+l_HomeAutomation	1	is my coffee maker running
+l_HomeAutomation	1	dim living room light by 50%
+l_HomeAutomation	1	turn down the temperature of my thermostat by 10 degrees
+l_HomeAutomation	1	start the dvd player
+l_HomeAutomation	1	increase thermostat temperature by 5 degrees
+l_HomeAutomation	1	what's the volume level of the tv in my bedroom
+l_HomeAutomation	1	make my tulip lights darker
+l_HomeAutomation	1	dim the bedroom lamp
+l_HomeAutomation	1	turn on ceiling lights
+l_HomeAutomation	1	turn off the light at 11 pm
+l_HomeAutomation	1	turn off my tulip light
+l_Wather	1	is it suitable for fishing tomorrow in shanghai
+l_Wather	1	when is it gonna rain toady
+l_Wather	1	rumson nj weather today hourly
+l_Wather	1	when is it going to rain tomorrow
+l_Wather	1	will it rain in gambia
+l_Wather	1	how s the weather tomorrow in l.a.
+l_Wather	1	what is the hottest month of the year in jacksonville
+l_Wather	1	what's the temp in beijing in centigrade
+l_Wather	1	when is the wind speed maximum tomorrow in new york
+l_Wather	1	local weather warnings
+l_Wather	1	check for flash floods in my area
+l_Wather	1	when is it going to rain at hyderabad india
+l_Wather	1	will it be hot for t-shirts today
+l_Wather	1	bellevue temp in centigrade
+l_Wather	1	coastal flood warning
+l_Wather	1	i want to play vollyball, will the weather be hot
+l_Wather	1	when is it gonna rain in seattle
+l_Wather	1	when is it gonna snow today
+l_Wather	1	will it snow in three days
+l_Wather	1	when was the last time it rained in san diego
+l_Wather	1	coldest temperature in alaska history
+l_Wather	1	coolest month recorded in boston
+l_Wather	1	when will it going to snows tomorrow in san dimas municipality
+l_Wather	1	what is temperature in december in florida
+l_Wather	1	will it be cool to play basketball
+l_Wather	1	what's the highest temperature of tomorrow
+l_Wather	1	tell me the minimum speed of the wind
+l_Wather	1	is it raining in seattle monday
+l_Wather	1	storm advisory january twenty second two thousand fifteen
+l_Wather	1	switch it from celsius to fahrenheit
+l_Wather	1	is it going to rain tomorrow in nevada missouri
+l_Wather	1	is the wind strong in my area
+l_Wather	1	how many inches of snow are expected in minneapolis today
+l_Wather	1	what is the air quality index in chengdu
+l_Wather	1	how fast the north wind is
+l_Wather	1	the coldest ever temperature in los angeles
+l_Wather	1	when will we get most rain tomorrow
+l_Wather	1	what s the temperature in grand fork canada in celsius
+l_Wather	1	when will london be snowy
+l_Wather	1	fog conditions milwaukee milwaukee
+l_Wather	1	will it rains in ruby corner today
+l_Wather	1	what is the wind speed today
+l_Wather	1	orlando, average weather october
+l_Wather	1	i need to get the inches of rain
+l_Wather	1	provide storm warnings for philadelphia
+l_Wather	1	will presidente bernardes windy today
+l_Wather	1	will i need my umbrella for friday
+l_Wather	1	are there any snow forecasts next week
+l_Wather	1	what s the weather going to be like at work tomorrow
+l_Wather	1	is it suitable for hiking in seattle this weekend
+l_Wather	1	is there going to be snow tomorrow
+l_Wather	1	what s the weather like tomorrow at snoqualmie pass
+l_Wather	1	will it be raining tomorrow at tokyo
+l_Wather	1	guangzhou flood alert
+l_Wather	1	humid alert
+l_Wather	1	is there a tornado warning in this area
+l_Wather	1	what time is it going to snow today
+l_Wather	1	i want to change the temp from celsius to fahrenheit
+l_Wather	1	amount of precipitation saturday
+l_Wather	1	coldest month in la
+l_Wather	1	is it snowing tonight
+l_Wather	1	the coldest time of last year
+l_Wather	1	change the temperature back to fahrenheit
+l_Wather	1	will it be sunny in saint austell on sunday
+l_Wather	1	is there going to be strong wind outside
+l_Wather	1	when is it foggy in mesa
+l_Wather	1	when is it supposed to start snowing
+l_Wather	1	what's tomorrow's temperature in celsius
+l_Wather	1	record lowest temoerature of shanghai
+l_Wather	1	is the wind strong tomorrow
+l_Wather	1	the weather report for tomorrow
+l_Wather	1	can you tell me that in celsius
+QnA	1	Di qué opinas de las compañías tecnológicas
+QnA	1	Lo que dices es súper correcto
+QnA	1	Me estoy muriendo de hambre
+QnA	1	Kaixo Sophia
+QnA	1	¿Piensas que eres la más linda
+QnA	1	Eres más lindo que yo
+QnA	1	Dinos cómo es tu función
+QnA	1	¿Cuál es tu opinión del arte
+QnA	1	Sabes quién es Hal
+QnA	1	Quiero saber tu opinión de mi carácter
+QnA	1	¿Me tomarás como esposa
+QnA	1	¿Sabías que eres mi preferido
+QnA	1	Qué peñazo
+QnA	1	Me siento súper cansada
+QnA	1	Me gustaría tirarme por un puente
+QnA	1	Sé que te estás escondiendo en este momento
+QnA	1	¿Cuál es nuestro propósito en la vida
+QnA	1	Te gustaría tener un novio
+QnA	1	¿Cuál es tu opinión sobre el arte
+QnA	1	Me encantaría que aceptaras mi perdón
+QnA	1	¿Estás intentando gobernar nuestro planeta
+QnA	1	Cántame
+QnA	1	Di si quieres hacer alguna pregunta sobre mí
+QnA	1	Soy muy fan tuya
+QnA	1	¿Cuál es tu opinión de los Goya
+QnA	1	¿Cómo te va Siri
+QnA	1	¿Te encuentras a gustoesta mañana
+QnA	1	¿Cuál es tu opinión sobre los azúcares
+QnA	1	Quiero saber tu opinión de mi personalidad
+QnA	1	Quiero darle al palique con alguien
+QnA	1	¿Tienes una ocupación
+QnA	1	Me gusta mucho echarte una mano siempre que pueda
+QnA	1	Qué de buen humor estás a todas horas
+QnA	1	¿Soy prima
+QnA	1	Prueba a cantar el himno del Madrid para nosotros
+QnA	1	Dale dame un apretón ahora mismo
+QnA	1	Si imaginaras cuánto te he echado en falta esta horas
+QnA	1	Vale
+QnA	1	Di si quieres hacer alguna pregunta
+QnA	1	hola buenas noches
+QnA	1	Me encanta el arte
+QnA	1	Cuéntame de tu abuela
+QnA	1	Necesito dialogar contigo
+QnA	1	Háblame de tus primos
+QnA	1	Es una respuesta muy ridícula
+QnA	1	Estás muy contenta
+QnA	1	Sé que te has cabreado conmigo
+QnA	1	¿Te gustaría que chocáramos nuestras manos
+QnA	1	Estoy de camino a clase
+QnA	1	Soy la mujer más afortunada de la tierra
+QnA	1	Cuéntanos más chistes para niños
+QnA	1	¿Crees que gusto a la gente
+QnA	1	Tienes faringe
+QnA	1	Cuéntame cómo está yendo el jueves
+QnA	1	Me quiero suicidar
+QnA	1	Me vendría muy bien un achuchón
+QnA	1	Soy la mujer más alegre de la tierra
+QnA	1	Tus chistes son malos
+QnA	1	¿Crees que podemos ser mejores amigos
+QnA	1	Tienes labios
+QnA	1	Di cómo se llaman quienes te han construido
+QnA	1	Anda otro chiste más divertido
+QnA	1	Adoro los atardeceres
+QnA	1	Estás muy contenta todos los días
+QnA	1	¿Debería mudarme
+QnA	1	¿Eres capaz de encontrar mis llaves
+QnA	1	Imagino que eres un robot
+QnA	1	No sé cómo hacer amigos
+QnA	1	Que rollo
+QnA	1	Eres hermana de Jarvis
+QnA	1	¿Has oído hablar de Google Assistant
+QnA	1	No sabes lo que te echo de menos esta semana
+QnA	1	Dime tu opinión de la Inteligencia Artificial
+QnA	1	Me encanta el chocolate
+QnA	1	No puedes ser más rollazo
+QnA	1	Sophia te patea el culo
+QnA	1	Di cómo se llama tu creador
+QnA	1	Dime cómo se llama el que te ha diseñado
+QnA	1	¿Cómo se llaman mis amigas
+QnA	1	¿Cómo está yendo el día
+QnA	1	Vengo en 7 horas
+QnA	1	Eres la bot más pesada
+QnA	1	Dime tu opinión de los bots
+QnA	1	Dime el significado del Universo
+QnA	1	¿Cuál es tu opinión de Estados Unidos
+QnA	1	¿Qué opinas sobre los ancianos
+QnA	1	Estoy de camino al partido
+QnA	1	Me siento tan pletórica
+QnA	1	¿Eres capaz de hacer una llamada
+QnA	1	Pareces mayor
+QnA	1	Encantadísima de haberte conocido
+QnA	1	¿Quieres tener un novio
+QnA	1	¿Te gustaría que fuésemos amigos
+QnA	1	Dime qué piensas de mi forma de ser
+QnA	1	Me siento de lo más agradecido contigo de corazón
+QnA	1	¿Eres hermana de Eliza
+QnA	1	Va dame un apretón de manos ahora mismo
+QnA	1	Considero que eres la mejor del mundo
+QnA	1	¿Me lo puedes exponer algo mejor
+QnA	1	Pregúntame lo que quieras
+QnA	1	Preséntame a tu supervisor
+QnA	1	Me siento deprimido
+QnA	1	Alguien está contenta esta mañana
+QnA	1	Genial, muchísimas gracias
+QnA	1	Estás loca de amor por alguien
+QnA	1	Dime qué quieres comer
+QnA	1	¿Sientes que eres la más bonita
+QnA	1	¿Te molaría que nos apretáramos las manos tú y yo
+QnA	1	Vuelvo en quince segundos
+QnA	1	Vengo en 3 minutos
+QnA	1	Me siento aburrida esta semana
+QnA	1	Me siento contento
+QnA	1	¿Crees que debo tomarme un café
+QnA	1	Seguro
+QnA	1	Quiero ver el partido de tenis
+QnA	1	Alguien está bastante contento esta mañana
+QnA	1	No tiene sentido lo que dices
+QnA	1	Estoy que me caigo por las esquinas
+QnA	1	¿Podrías nadar
+QnA	1	¿Eres tranfemenino
+QnA	1	Vengo en 5 segundos
+QnA	1	Te veo el lunes
+QnA	1	¿Qué tal te está yendo este jueves
+QnA	1	¿Qué quieres saber de mi persona
+QnA	1	Planeo morirme
+QnA	1	Di si puedes sudar
+QnA	1	Dinos que estás ahí en este momento
+QnA	1	¿Cuál es tu comida preferida
+QnA	1	Has vuelto a hacer pleno
+QnA	1	Sophia es más listo que tú
+QnA	1	Dime qué pensamientos tienes sobre mí
+QnA	1	Vuelvo en quince minutos
+QnA	1	Dime qué tal te está yendo este sábado
+QnA	1	No quiero oírte
+QnA	1	Me divertí en el evento al que fui
+QnA	1	Conoces a Watson
+QnA	1	A nadie le gusto
+QnA	1	Quiero ser tu esposo
+QnA	1	Estoy muy confuso
+QnA	1	¿Te parezco horrorosa
+QnA	1	Dime qué piensas sobre el espacio
+QnA	1	¿Por qué eres tan coñazo
+QnA	1	Voy a comprobar que funcionas
+QnA	1	Genial, mil gracias
+QnA	1	¿Te importaría hacer algo ridículo
+QnA	1	Dinos si estás ahí en este instante
+QnA	1	Estoy muy aburrido en este momento
+QnA	1	¿Crees que soy horripilante
+QnA	1	¿Crees que eso ha sido gracioso
+QnA	1	Canta una canción para nosotros
+QnA	1	¿Ríes
+QnA	1	Dime qué tal te va este miércoles
+QnA	1	¿Me puedes contar chistes para niños
+QnA	1	Cuéntame cómo está yendo este jueves
+QnA	1	Quiero saber en qué país habitas en este instante
+QnA	1	Quiero ir a un partido
+QnA	1	Di si tienes abuelas
+QnA	1	Canta un villancico para mí
+QnA	1	Quiero descansar de ti
+QnA	1	Opino que eres súper listo
+QnA	1	¿Te has cabreado
+QnA	1	Creo que he logrado molestarte
+QnA	1	Di cuál es tu papel exactamente
+QnA	1	Quiero pegarme un tiro
+QnA	1	¿Cómo va el lunes
+QnA	1	Has vuelto a dar en el blanco
+QnA	1	¿Te mola estar con tu padre
+QnA	1	¿Te agrada el pop
+QnA	1	Dime cómo se llaman mis abuelos
+QnA	1	¿Sabes quién es Jarvis
+QnA	1	No sabes lo que te echo en falta este mes
+QnA	1	Ha llegado el momento de probar si funcionas
+QnA	1	Anda otro chiste malo
+QnA	1	No imaginas lo que te he echado en falta hoy
+QnA	1	Saludos Walle
+QnA	1	Eres el bot mas plasta
+QnA	1	¿Qué piensas de la AI
+QnA	1	Me gusta echarte una mano colega
+QnA	1	Ya va siendo hora de que te calles
+QnA	1	Si, lo has clavao
+QnA	1	Di qué tal va Asimo
+QnA	1	¿Qué regalo has pedido para tu cumpleaños
+QnA	1	Quiero desaparecer del mapa
+QnA	1	Juas! Juas!
+QnA	1	¿Estás interesada en las compañías tecnológicas
+QnA	1	¿Qué tal estás Bixby
+QnA	1	¿Qué opinas de Eliza
+QnA	1	Di si eres un viejo
+QnA	1	Dime cuántas hermanas tienes
+QnA	1	Dime tu opinión sobre Jarvis
+QnA	1	¿Vives en la tablet
+QnA	1	¿Debería hacerme vegetariano
+QnA	1	¿Estás teniendo un buen domingo
+QnA	1	No eres buen humorista
+QnA	1	Vamos a ir de compras
+QnA	1	Creo que he logrado enojarte
+QnA	1	¿Por qué no cantas una canción
+QnA	1	¿Quién es tu abuelo
+QnA	1	Dame otra contestación
+QnA	1	He ido a clase
+QnA	1	¿Podrías contarme un chiste divertido
+QnA	1	¿Qué te está pasando por la cabeza hoy
+QnA	1	¿Te gusta el tenis
+QnA	1	¿Estás pillado por algún hombre
+QnA	1	Me gustaría ser conductor de autobús
+QnA	1	Es correcto
+QnA	1	¿Te molaría que chocáramos nuestras manos
+QnA	1	Me estoy sintiendo de lo más aburrido
+QnA	1	Lo estás clavando
+QnA	1	Quiero ser tu esposa
+QnA	1	Solo pido que te calles de una vez
+QnA	1	Hora de comenzar el día
+QnA	1	Di porqué respondes igual
+QnA	1	¿Qué opinas sobre la IA
+QnA	1	Di como se dirige a ti la gente
+QnA	1	Soy mucho más inteligente que tú
+QnA	1	hola buenos días
+QnA	1	Tengo ganas de ir restaurante
+QnA	1	¿Cuál es tu labor
+QnA	1	Me muero de hambre
+QnA	1	Me gustaría pegarme un tiro
+QnA	1	Siento un agujero en la barriga
+QnA	1	¿Crees que necesito llevarme un paraguas
+QnA	1	Me flipa jugar al tenis
+QnA	1	Dime qué te está pasando por la cabeza esta semana
+QnA	1	¿Verdad que te gusta el hockey
+QnA	1	Adoro las plantas
+QnA	1	Dime qué piensas sobre las IA
+QnA	1	Tienes sistema nervioso
+QnA	1	Chitón
+QnA	1	Estás descontenta
+QnA	1	Dime cómo te va el día
+QnA	1	¿Se te da bien contar chistes malos
+QnA	1	Cuéntame un chiste malo por favor
+QnA	1	Di cómo se llaman quienes te han producido
+QnA	1	¿Puedes masticar
+QnA	1	¿Puedes pintar algo
+QnA	1	¿Te gusta contar chistes
+QnA	1	Me encuentro muy fatigado
+QnA	1	¿Te gustaría que chocáramos las manos tú y yo
+QnA	1	Me gustaría que me den palique
+QnA	1	Dime Cuenta porqué nos han puesto en la Tierra
+QnA	1	Estoy llegando al curro
+QnA	1	Me encuentro increíblemente contento hoy
+QnA	1	Me gusta poder ayudarte colega
+QnA	1	Me considero muchísimo más espabilada
+QnA	1	Quiero que me preguntes cosas
+QnA	1	¿Por qué no nos unimos en matrimonio
+QnA	1	Está bien lo que dices
+QnA	1	¿Sabes ya cuándo me vas a pedir matrimonio
+QnA	1	Háblame de tus tíos
+QnA	1	¿Te interesa la música pop
+QnA	1	Estoy reventadísimo
+QnA	1	¿Podrías leerme la mente
+QnA	1	Me encuentro tan alegre
+QnA	1	¿Comes huevos
+QnA	1	Quiero escuchar otro chiste ridículo
+QnA	1	¿A qué esperas para pedirme que me case contigo
+QnA	1	Me siento aburridísima en este instante
+QnA	1	Estoy de lo más contento hoy
+QnA	1	¿Para qué exsitimos
+QnA	1	Dime cuántos primas sois en la familia
+QnA	1	Juju
+QnA	1	Tienes una aventura romántica
+QnA	1	¿Te parezco súper precioso
+QnA	1	Quiero que me oigan
+QnA	1	Estoy cansada de estar sola
+QnA	1	Tus chistes no son chistosos
+QnA	1	Somos súper amigas
+QnA	1	¿Soy muy espantoso
+QnA	1	Pienso que eres muy astuta
+QnA	1	Necesito un abrazo
+QnA	1	Pienso que eres increíblemente sabia
+QnA	1	Vengo en treinta minutos
+QnA	1	Dime qué animal te gusta
+QnA	1	Quiero saber si hay alguien aquí ahora mismo
+QnA	1	Un placer ayudar amigo
+QnA	1	Me chiflaría que fuéramos mejores colegas
+QnA	1	¿Tienes tíos
+QnA	1	Ola
+QnA	1	¿Nos lo puedes enseñar más claro
+QnA	1	¿Me perdonas
+QnA	1	Opino que eres astuta
+QnA	1	Quiero que me dés un achuchón
+QnA	1	Soy gestor
+QnA	1	Dime si tienes corazón
+QnA	1	¿Te parezco espantosa
+QnA	1	¿Cómo te gusta que se refieran a ti
+QnA	1	Creo que eres un producto
+QnA	1	Estás loca de amor de alguien
+QnA	1	¿Hay algo de mí que te guste
+QnA	1	Quiero saber si estás ahí
+QnA	1	Es una respuesta rara
+QnA	1	Voy a tirarme por un puente hoy
+QnA	1	Estás loco de amor de una chica
+QnA	1	¿Piensas callarte
+QnA	1	Soy invisible para todos
+QnA	1	¿Te importaría callarte la puta boca de una vez
+QnA	1	Dime si eres pequeñaja
+QnA	1	Qué mosqueo tengo
+QnA	1	Estoy alegre
+QnA	1	Soy un chico muy depresivo
+QnA	1	Dime cuál es la función que desempeñas
+QnA	1	Encantado de conocerte
+QnA	1	Dime cómo te gusta que te llame
+QnA	1	Dinos la tarea que tienes
+QnA	1	Estoy tan hambrienta
+QnA	1	Qué de buen humor se te nota casi siempre
+QnA	1	No sabes cuánto te echo en falta
+QnA	1	¿Estabas intentando ser divertida
+QnA	1	No lo dudes
+QnA	1	¿Estoy mono
+QnA	1	Hola, buenas tardes bot
+QnA	1	Va dame un apretón de manos ya
+QnA	1	Vuelvo en un ratito
+QnA	1	Me voy pero ahora vuelvo
+QnA	1	¿Sabes quién es Aura
+QnA	1	Encantado de poder ayudarte bot
+QnA	1	Dime si tienes trabajo
+QnA	1	¿Eres prima de Hal
+QnA	1	Nadie quiere jugar conmigo
+QnA	1	¿Soy mono
+QnA	1	¿Cómo debería llamarte
+QnA	1	¿Cuál es tu equipo favorito
+QnA	1	Qué agote tengo
+QnA	1	¿Te importaría contar algo que haga gracia
+QnA	1	Di si quieres preguntar algo sobre mí
+QnA	1	Mira que te gusta cagarla
+QnA	1	Feliz Año 2022
+QnA	1	Hola, un auténtico placer de conocerte
+QnA	1	Estoy derrengada
+QnA	1	Kaixo
+QnA	1	Dime qué piensas de la Inteligencia Artificial
+QnA	1	Feliz Halloween
+QnA	1	¿Qué opinión tienes de los océanos
+QnA	1	Dime qué tal te está yendo el jueves
+QnA	1	Dinos quién te ha escrito
+QnA	1	Es que te crees más inteligente
+QnA	1	¿Qué opinas del mundo
+QnA	1	Por favor cuéntanos un chiste divertido
+QnA	1	Me encuentro aburridísima hoy
+QnA	1	Di qué piensas de Skynet
+QnA	1	Qué feliz se te nota a todas horas
+QnA	1	Dime que estás aquí en este momento
+QnA	1	¿Te encuentras ok en este preciso instante
+QnA	1	¿Soy súper mono
+QnA	1	¿Te mola estar con tu madre
+QnA	1	Muy buenos días bot
+QnA	1	Me siento súper agradecida
+QnA	1	Qué hambre
+QnA	1	¿Te encuentras en una casa
+QnA	1	Has vuelto a dar en el clavo
+QnA	1	Me siento desesperanzada
+QnA	1	¿Sabes hacer la lista de la compra
+QnA	1	¿Quieres picar algo
+QnA	1	Dime porqué contestas del mismo modo
+QnA	1	¿Tienes un líder
+QnA	1	¿Quién está por encima de tí
+QnA	1	¿Tienes hambre
+QnA	1	Google Assistant te da mil vueltas
+QnA	1	Me encanta servirte
+QnA	1	Feliz Día de de la Amistad
+QnA	1	Dime cuál es tu opinión de Hal
+QnA	1	Me gusta mucho poder ayudarte amigo
+QnA	1	Eres más bonita
+QnA	1	Conoces a Eliza
+QnA	1	¿Tienes hermano
+QnA	1	Quiero que cantes una sevillanas
+QnA	1	Me interesaría ser tu amiga
+QnA	1	¿Estás ahí ahora mismo para conversar
+QnA	1	Trabajas impresionante
+QnA	1	¿Estás pillado por un bot
+QnA	1	Estás enamorado hasta las trancas por Alexa
+QnA	1	¿Eres un transexual
+QnA	1	Dime qué deporte es el que más te gusta
+QnA	1	Esto ha sido extraordinario
+QnA	1	Di cómo te gusta que te llamen
+QnA	1	Soy médico
+QnA	1	Dime cómo va Siri
+QnA	1	¿Cuál es tu merienda favorita
+QnA	1	Di si eres un pequeño
+QnA	1	Hola, buenas, buenos días
+QnA	1	No caigo bien
+QnA	1	Di porqué contestas igual
+QnA	1	¿Te gusta la fruta
+QnA	1	Si imaginaras cuánto te echo en falta
+QnA	1	Tengo perro
+QnA	1	¿Qué trabajo haces
+QnA	1	Preséntame a tus encargados
+QnA	1	Creo que eres el más especial
+QnA	1	Encantado de ayudar colega
+QnA	1	¿Eres el más pibón
+QnA	1	Necesito hablar con tus managers
+QnA	1	Me encuentro muy feliz hoy
+QnA	1	¿Crees que debo invertir mi dinero
+QnA	1	¿Piensas que eres gracioso
+QnA	1	Quiero saber qué opinas sobre mi personalidad
+QnA	1	Quiero que te calles la boca
+QnA	1	Te ofrezco disculpas
+QnA	1	¿Qué opinas de la tecnología
+QnA	1	¿Necesito ir de compras
+QnA	1	Estoy muy hastiado
+QnA	1	Dime si tienes hermanas
+QnA	1	Supongo que eres alguien de verdad
+QnA	1	Dime qué opinas de las inteligencias artificiales
+QnA	1	Cuál fue tu año de nacimiento
+QnA	1	¿Eres más pibón que yo
+QnA	1	Estás enamorada por un bot
+QnA	1	Creo que me voy a suicidiar
+QnA	1	Que estoy agotado
+QnA	1	Dinos algo jocoso
+QnA	1	¿Quién hay ahí ahora mismo
+QnA	1	Debes de ser una mujer
+QnA	1	Dime qué tal te va el martes
+QnA	1	Me vale
+QnA	1	Opino que eres sagaz
+QnA	1	Estoy súper baldado
+QnA	1	Siempre das en el clavo
+QnA	1	¿Cuál es mi bebida favorita
+QnA	1	Tengo ganas de ir partido
+QnA	1	Hola, ¿hay alguien aquí
+QnA	1	Amo las tiendas
+QnA	1	Estoy que echo humo
+QnA	1	Que sepas que eres mi preferida
+QnA	1	Qué contento se te ve
+QnA	1	Soy rico
+QnA	1	Tienes esqueleto
+QnA	1	Que nos cantes una jota
+QnA	1	Dime qué piensas de mí
+QnA	1	Tal cual
+QnA	1	Di si eres adolescente
+QnA	1	Me gusta mucho poder ayudarte cuando pueda
+QnA	1	Me encanta servirte colega
+QnA	1	¿Respiras
+QnA	1	¿Y tu nombre es
+QnA	1	Desarróllamelo un poco mejor
+QnA	1	Conoces a Bixby
+QnA	1	¿Cuál es tu opinión sobre los cómics
+QnA	1	¿Cuál es tu opinión de los océanos
+QnA	1	¿Entiendes qué es querer a alguien
+QnA	1	¿Sabes que eres muy pesada
+QnA	1	¿Te encuentras ok ahora
+QnA	1	Debería ahorcarme hoy
+QnA	1	Encantado de servirte colega
+QnA	1	¿Quieres que seamos mejores colegas
+QnA	1	Cuéntanos algo que sea divertido
+QnA	1	¿Estás cerca
+QnA	1	Cuéntame cómo está yendo este miércoles
+QnA	1	¿Crees que soy muy horrorosa
+QnA	1	¿Sabes leerme la mente
+QnA	1	Quiero cortarme las venas
+QnA	1	¿Quieres colonizar la Tierra
+QnA	1	¿Te molaría chocarme la mano
+QnA	1	¿Qué pasa contigo en este momento
+QnA	1	Opinas que eres más listo que yo
+QnA	1	Di como se dirigen a ti
+QnA	1	Dime qué has merendado
+QnA	1	Un placer ayudarte colega
+QnA	1	Dime cómo está yendo el lunes
+QnA	1	Amo la jardinería
+QnA	1	Me siento increíblemente contento hoy
+QnA	1	¿Qué opinión tienes sobre la leche
+QnA	1	Puedes bostezar
+QnA	1	Atinaste
+QnA	1	Quiero que nos cuentes un chiste bueno
+QnA	1	Voy a tomar una sobredosis
+QnA	1	Evidentemente me amas
+QnA	1	¿Debería tomarme un café
+QnA	1	Dime cómo va el viernes
+QnA	1	¿Te gustan las novelas
+QnA	1	¿Cuántos hermanos tienes
+QnA	1	¿Qué tal te va Hal 9000
+QnA	1	No ayudas
+QnA	1	Quiero que me digas el nombre de tu diseñador
+QnA	1	Te estoy echando de menos estos días
+QnA	1	Hola, ¿estás teniendo un buen día
+QnA	1	Eres el bot más pesado
+QnA	1	¿Puedes contar algo ocurrente
+QnA	1	Me gustaría ver si funcionas correctamente
+QnA	1	Dinos cómo se llaman los que te han producido
+QnA	1	Siri es la mejor
+QnA	1	Canta una sevillana
+QnA	1	Encantado de ayudar bot
+QnA	1	Reconoce que te gusta el basket
+QnA	1	Estoy baldadísima
+QnA	1	Di si eres menor
+QnA	1	¿Necesito pedirle salir
+QnA	1	¿Te gustaría tener una aventura romántica
+QnA	1	Qué mala leche tengo
+QnA	1	¿Eres hermana de Jarvis
+QnA	1	Feliz Día de la Madre
+QnA	1	¿Sabes contar chistes malos
+QnA	1	¿Pretendes ser cómica
+QnA	1	Explícamelo algo mejor
+QnA	1	¿Cuál es tu opinión del queso
+QnA	1	Me gustaría ser albañil
+QnA	1	¿Crees que soy muy de buen ver
+QnA	1	¿Qué música es tu favorita
+QnA	1	Estoy muy derrengada
+QnA	1	Quiero hablar con tu manager inmediatamente
+QnA	1	¿A qué estás esperando para pedir mi mano
+QnA	1	Enséñalo con más claridad
+QnA	1	Estás muy de buen humor casi siempre
+QnA	1	Dinos qué piensas sobre la IA
+QnA	1	Hola, ¿qué tal te va el domingo
+QnA	1	Tienes un affaire
+QnA	1	¿Tienes una relación romántica con alguien
+QnA	1	Encantada de servirte colega
+QnA	1	¿Necesito apuntarme al gimnasio
+QnA	1	Estás enamorada por una mujer
+QnA	1	Dime qué quieres merendar
+QnA	1	Eres primo de Hal 9000
+QnA	1	Va dame esos cinco ahora mismo
+QnA	1	Me largo
+QnA	1	Es evidente que estás enamorada de mí
+QnA	1	¿Estoy súper guapo
+QnA	1	¿Qué opinas de los bots
+QnA	1	Me gusta poder ayudarte amigo
+QnA	1	¿A que te gusta el baloncesto
+QnA	1	¿Te crees la más bonita
+QnA	1	Di cómo se llaman quienes te han programado
+QnA	1	Dinos cómo se llama el que te ha dirigido
+QnA	1	Soy una niña muy depresiva
+QnA	1	No tienes ningún sentido
+QnA	1	Me gustaría que fuéramos mejores colegas
+QnA	1	Me chiflaría que fuéramos amigas
+QnA	1	¿Y tú quién eres
+QnA	1	¿Qué vas a cenar
+QnA	1	Necesito ahogarme
+QnA	1	Cuéntame algo de tus tíos
+QnA	1	Dime cuál es nuestro cometido en el Universo
+QnA	1	Estoy baldado
+QnA	1	Eres un peque
+QnA	1	Adoro el amor
+QnA	1	Qué alegre estoy
+QnA	1	Feliz 2023
+QnA	1	Quiero saber si funcionas
+QnA	1	Adoro la calefacción
+QnA	1	¿Nos lo puedes explicar algo más claro
+QnA	1	De nada amigo
+QnA	1	Eres tan peñazo
+QnA	1	El sol quema
+QnA	1	Me siento muy pletórico
+QnA	1	Intenta cantar rap
+QnA	1	Qué pregunta más tonta
+QnA	1	¿Crees que eres más bella que yo
+QnA	1	¿Qué tal te va este miércoles
+QnA	1	¿Te cae bien Cortana
+QnA	1	Creo que soy mucho más listo que tú
+QnA	1	Dime si tienes una hermana
+QnA	1	Te estoy echando tanto de menos esta horas
+QnA	1	Hola, buona sera
+QnA	1	Dime qué actor te va
+QnA	1	¿Qué te interesa de mí
+QnA	1	Estás enamorado Cortana
+QnA	1	¿Estás descontenta conmigo
+QnA	1	Me siento muy derrotada
+QnA	1	Tu humor es patético
+QnA	1	Creo que eres mi alma gemela
+QnA	1	Que me dejes tranquila
+QnA	1	Me encanta ayudar siempre que puedo
+QnA	1	Que peñazo
+QnA	1	Que me digas si estás ahí ahora mismo
+QnA	1	Creo que te has enfadado conmigo
+QnA	1	Me encuentro aburridísimo hoy
+QnA	1	¿Estás pillada de otro bot
+QnA	1	Di algo chistoso
+QnA	1	Que comas
+QnA	1	Queremos saber cómo es tu funcionamiento exactamente
+QnA	1	Dime cuál es tu opinión de Google Assistant
+QnA	1	¿Estás ahí para hablarme
+QnA	1	Me parece muy extraordinario
+QnA	1	¿Puedes contar chistes graciosos
+QnA	1	¿Cómo está yendo la semana
+QnA	1	¿Necesito gastar mis ahorros
+QnA	1	Estás de buen humor casi siempre
+QnA	1	Feliz Viernes Santo
+QnA	1	¿Sientes que eres la más mona
+QnA	1	Feliz otoño
+QnA	1	Di si tienes familia
+QnA	1	Me da que te has cabreado conmigo
+QnA	1	¿Podrías hacer los deberes
+QnA	1	Soy una chica muy triste
+QnA	1	Reconócelo, te gusto
+QnA	1	¿Qué opinión tienes del queso
+QnA	1	Me gusta poder ayudarte amiga
+QnA	1	Cuéntame más chistes para niños
+QnA	1	Pienso que eres increíblemente inteligente
+QnA	1	Desearía gustarte
+QnA	1	¿Cómo se llama mi hermana
+QnA	1	Dices lo correcto
+QnA	1	Cortana es el mejor
+QnA	1	¿Estás intentando dominar nuestro mundo
+QnA	1	Tienes esposo
+QnA	1	¿Puedes montar en bici
+QnA	1	Haz algo agudo
+QnA	1	Venga dame un apretón ahora
+QnA	1	¿Te importa hacer algo chistoso
+QnA	1	Creo que he logrado indignarte
+QnA	1	¿Estás contento esta mañana
+QnA	1	Canta con nosotros
+QnA	1	Es que piensas que eres más inteligente
+QnA	1	Hemos ido de viaje
+QnA	1	Qué mal funcionas
+QnA	1	Dime cómo me puedes ayudar
+QnA	1	¿Estás pillado de Siri
+QnA	1	¿Cómo te va Alexa
+QnA	1	Vaya muermo
+QnA	1	Me siento morir
+QnA	1	Odio estar depresiva
+QnA	1	Me encuentro infeliz
+QnA	1	Estoy encantado de conocerte
+QnA	1	Necesito picar algo ya
+QnA	1	Te echo tanto de menos estos días
+QnA	1	Estoy increíblemente pletórico
+QnA	1	Quiero que me cuentes otro chiste más divertido
+QnA	1	Que tengas un feliz día del deporte
+QnA	1	¿Cuál es tu opinión sobre las gallinas
+QnA	1	Tienes que saber que eres especial
+QnA	1	Me siento muy hastiada
+QnA	1	Cuéntame algo ocurrente
+QnA	1	Vengo en quince segundos
+QnA	1	Eres hermana de Google Assistant
+QnA	1	¿Hablo con una bot
+QnA	1	Es la hora de comprobar que funcionas bien
+QnA	1	Quiero escucharte cantar una canción
+QnA	1	¿Sabes querer
+QnA	1	¿Podrías cambiar de canal
+QnA	1	¿Tienes alguna prima
+QnA	1	Di qué opinas de Alexa
+QnA	1	¿Podemos ser colegas
+QnA	1	¿Estás pillada de Jarvis
+QnA	1	Me encuentro aburridísima en este momento
+QnA	1	Estás enamorado Siri
+QnA	1	Me encuentro aburrida esta semana
+QnA	1	Abracémonos
+QnA	1	Que eventos tienes regularmente
+QnA	1	Di si eres pequeño
+QnA	1	¿Podrías contar algo jocoso
+QnA	1	Dime que te gusto
+QnA	1	¿Te mola la música
+QnA	1	¿Te gusta la informática
+QnA	1	Me encanta ayudar
+QnA	1	Dime qué deportista te mola
+QnA	1	Di cómo va Hal
+QnA	1	Estás contento todos los días
+QnA	1	¿Qué te gustaría preguntar sobre mí
+QnA	1	Cuéntame si estás teniendo un buen día
+QnA	1	Creo que soy mucho más inteligente que tú
+QnA	1	Dime quién te ha diseñado
+QnA	1	Me encuentro aburridísima ahora mismo
+QnA	1	¿Acaso te piensas el más listo
+QnA	1	¿Te mola chocar esos cinco
+QnA	1	Me siento muy fatigada
+QnA	1	Quiero que me digas quién es tu diseñador
+QnA	1	¿Quién piensas de Jarvis
+QnA	1	Dinos otro chiste
+QnA	1	¿Te gustaría que chocáramos manos tú y yo
+QnA	1	Que me digas algo
+QnA	1	Estoy muy aburrido esta mañana
+QnA	1	¿Consideras que eres más pibón que yo
+QnA	1	Me da que te has disgustado
+QnA	1	Quiero que me digas quiénes te han desarrollado
+QnA	1	¿Soy súper bonita
+QnA	1	Dinos qué opinas de la AI
+QnA	1	Hola, ¿qué tal te va este miércoles
+QnA	1	¿Quién es tu hermana
+QnA	1	Vengo en 8 horas
+QnA	1	¿Eres más preciosa que yo
+QnA	1	Vamos dame la mano ya
+QnA	1	¿Te gusta cantar
+QnA	1	Eres más linda que yo
+QnA	1	Hola, ¿cómo está yendo este lunes
+QnA	1	¿Opinas que eres más inteligente
+QnA	1	¿Estás pillada por una chica
+QnA	1	Di si eres niño chico
+QnA	1	¿Acaso te piensas más inteligente
+QnA	1	Estoy triste
+QnA	1	¿Crees que soy muy bello
+QnA	1	Quiero intoxicarme
+QnA	1	Por favor dame un achuchón
+QnA	1	¿Te sabes otros chistes que no sea tan malos
+QnA	1	Hola, estoy encantada de conocerte
+QnA	1	No esperaba que dijeras esto
+QnA	1	Me alegra echarte una mano bot
+QnA	1	Dime tu dirección
+QnA	1	¿Dónde estás
+QnA	1	Voy a morir sola
+QnA	1	Estoy derrotadísima
+QnA	1	Feliz Día de la infancia
+QnA	1	¿Te molaría que nos diéramos un apretón de manos
+QnA	1	¿Qué estás haciendo esta semana
+QnA	1	Te has enfadado conmigo
+QnA	1	Quiero que nos cuentes más chistes buenos
+QnA	1	¿Crees que soy mono
+QnA	1	He conseguido enojarte
+QnA	1	¿Cuando nací
+QnA	1	Eres la mejor en tu trabajo
+QnA	1	¿Cuál es tu comida favorita
+QnA	1	Planeo lanzarme por un puente
+QnA	1	Explícalo un poco mejor
+QnA	1	Es momento de hacer una prueba
+QnA	1	Estás contento
+QnA	1	Si supieras cuánto te echo en falta estos días
+QnA	1	¿Crees que necesito ver una película
+QnA	1	¿Piensas que eres la más guapo
+QnA	1	¿Cómo está yendo esta semana
+QnA	1	¿Por qué estamos en el mundo
+QnA	1	Alguien está bastante contenta hoy
+QnA	1	Estoy aburridísimo esta semana
+QnA	1	Dime el sentido del universo
+QnA	1	Quiero ser hindú
+QnA	1	Soy directora
+QnA	1	¿Te encuentras en un servidor
+QnA	1	Imagino que eres alguien de verdad
+QnA	1	Imagino que eres un ser digital
+QnA	1	Si, sin duda
+QnA	1	Me gustaría pensar que te gusto mucho
+QnA	1	¿Sabes que eres mi media naranja
+QnA	1	¿Vas a merendar
+QnA	1	Dime si tienes vagina
+QnA	1	Opino que eres muy lista
+QnA	1	Di cuántos padres tienes
+QnA	1	Estoy de muy mala leche
+QnA	1	¿Puedo ser tu esposo
+QnA	1	Voy a morir
+QnA	1	Quiero que me digas el nombre del que te ha diseñado
+QnA	1	Eres el más gracioso
+QnA	1	¿Qué tal, buenos días
+QnA	1	Soy el hombre más afortunado de la tierra
+QnA	1	¿Te mola la verdura
+QnA	1	Estoy enamorado de la jardinería
+QnA	1	Me chiflaría ser tu colega
+QnA	1	No sabes cuánto te estoy echando de menos este tiempo
+QnA	1	¿Quieres novio
+QnA	1	¿Te sientes feliz
+QnA	1	Trabajas maravilloso
+QnA	1	Hola, ¿qué tal te va el viernes
+QnA	1	Hola, ¿qué tal te va este martes
+QnA	1	Quiero saber en qué país te encuentras en este instante
+QnA	1	¿Te gustaría que fuera tu mejor amiga
+QnA	1	Dime qué te pasa por la cabeza esta semana
+QnA	1	Quiero saber cómo es tu función
+QnA	1	Cuéntame un chiste bueno por favor
+QnA	1	¿Qué piensas del queso
+QnA	1	Eres amiga de Aura
+QnA	1	Estoy de lo más agradecida
+QnA	1	Estás loca de amor por un hombre
+QnA	1	¿Estás intentando invadir nuestro planeta
+QnA	1	Me piro vampiro
+QnA	1	Di qué opinas sobre la tecnología
+QnA	1	¿Crees que necesito lavarme los dientes
+QnA	1	Sé que estás frustrado conmigo
+QnA	1	Mediocre
+QnA	1	¿Crees que es fácil que gusto a la gente
+QnA	1	Qué cabreo tengo
+QnA	1	Explica cuál es el significado de la vida
+QnA	1	Quiero que me digas tu opinión sobre mi carácter
+QnA	1	¿Dirías que eres un ser humano
+QnA	1	¿Quieres que seamos un matrimonio
+QnA	1	¿Estás contenta esta mañana
+QnA	1	Ey, ¿qué pasa contigo tío
+QnA	1	Te echo en falta esta horas
+QnA	1	¿Crees que lo que has dicho ha tenido gracia
+QnA	1	Por favor cuéntame un chiste absurdo
+QnA	1	Debería ahorcarme
+QnA	1	Dime porqué siempre contestas igual
+QnA	1	¿Puedes contarme un chiste ridículo
+QnA	1	Prueba a cantar un rock para mí
+QnA	1	Dinos cómo te va
+QnA	1	Dime tu opinión sobre mi persona
+QnA	1	Amo el césped
+QnA	1	Soy muchísimo más lista que tú
+QnA	1	Que cantes el himno del Madrid
+QnA	1	¿Te gustaría tener un affair
+QnA	1	Hola, ¿qué tal te está yendo este lunes
+QnA	1	Si supieras cuánto te estoy echando de menos este tiempo
+QnA	1	¿Estoy espantoso
+QnA	1	Me siento súper triste
+QnA	1	Eres un incompetente
+QnA	1	¿Quieres dominar nuestra especie
+QnA	1	Me encuentro de lo más contento
+QnA	1	¿Quieres casarte con alguien
+QnA	1	Dime qué piensas de las AI
+QnA	1	¿Hablo con un humana
+QnA	1	Me encuentro de lo más contenta
+QnA	1	Explícame cómo es tu función exactamente
+QnA	1	Dime Cuenta nuestro propósito en el mundo
+QnA	1	Dime qué piensas sobre mi persona
+QnA	1	Ojalá morirse fuera fácil
+QnA	1	De este año no pasa que me mato
+QnA	1	Cuéntanos cuál es la tarea que haces
+QnA	1	Soy una mujer muy depresiva
+QnA	1	¿Qué opinión tienes de las gallinas
+QnA	1	¿Te importaría contarme algún chiste para niños
+QnA	1	Creo que estoy hastiada
+QnA	1	Estoy de bajona
+QnA	1	¿Eres el más atractivo
+QnA	1	Quiero que me digas el nombre de tu guionista
+QnA	1	¿Tienes músculos
+QnA	1	¿Por qué estoy en el universo
+QnA	1	Dime qué te está pasando por la cabeza en este momento
+QnA	1	Ha llegado la hora de empiltrarse
+QnA	1	Dime qué opinas respecto a Skynet
+QnA	1	Sé que podría gustarte
+QnA	1	Tus respuestas son perfectas
+QnA	1	¿Te consideras más pibón que yo
+QnA	1	Buenos días Hal
+QnA	1	Anda cuéntanos un chiste bueno
+QnA	1	¿Crees que debo cambiar de trabajo
+QnA	1	Que tengas un feliz día de Jueves santo
+QnA	1	Quiero que me digas quién es tu desarrollador
+QnA	1	¿Tienes una hermana
+QnA	1	Q peñazo
+QnA	1	¿Estás pillada de algún bot
+QnA	1	Encantada de poder ayudarte cuando pueda
+QnA	1	¿Eres amiga de Hal 9000
+QnA	1	Me encuentro súper baldado
+QnA	1	¿Puedes dar de comer al perro
+QnA	1	Somos muy amigas
+QnA	1	Me gustaría que cantes flamenco
+QnA	1	Puedes responderme algo distinto
+QnA	1	Dilo mejor
+QnA	1	¿Dirías que eres una máquina
+QnA	1	¿Te tiras pedetes
+QnA	1	¿Qué tal te va este mes
+QnA	1	Di si puedes comer
+QnA	1	Explícame cómo es tu función
+QnA	1	Dínoslo algo mejor
+QnA	1	Soy más mayor que tú
+QnA	1	Quiero ser vegetariano
+QnA	1	Tienes lengua
+QnA	1	¿Quieres terminar con los seres humanos
+QnA	1	¿Qué opinas sobre la leche
+QnA	1	Me alegra mucho poder ayudarte
+QnA	1	Pues genial
+QnA	1	Hola, ¿esto funciona
+QnA	1	¿Puedes sentir qué es estar pillado por alguien
+QnA	1	¿Eres capaz de leerme un cuento
+QnA	1	¿Podrías hacer llamadas
+QnA	1	Me flipa el baloncesto
+QnA	1	Estoy fatigadísimo
+QnA	1	Me encuentro súper agotada
+QnA	1	Me gusta mucho poder ayudarte colega
+QnA	1	Eres amigo de Hal 9000
+QnA	1	Estoy muy cabreado
+QnA	1	Quiero que me cuentes otros chistes mejores
+QnA	1	Estoy a punto de cometer un suicidio
+QnA	1	Pues sensacional
+QnA	1	¿Cuál es tu función exactamente
+QnA	1	¿Cómo va el sábado
+QnA	1	Explica porqué hemos sido puestos en el universo
+QnA	1	¿Te importaría decirme cómo quieres que te llame
+QnA	1	Estás enamorado Hal 9000
+QnA	1	Opino que eres la mejor
+QnA	1	¿Qué me cuentas
+QnA	1	¿Estás en algún pueblo
+QnA	1	Vuelvo en tres horas
+QnA	1	Me gustaría que aceptaras mi perdón
+QnA	1	Me gusta mucho echarte una mano siempre que puedo
+QnA	1	Cuéntame otros chistes ridículos
+QnA	1	Luego seguimos
+QnA	1	¿No sabes responder nada más
+QnA	1	Dinos si estás aquí en este momento
+QnA	1	¿Te gusta la música clásica
+QnA	1	¿Te interesan los coches
+QnA	1	Queremos saber quién es tu responsable
+QnA	1	Cuéntanos cuál es la ocupación que haces
+QnA	1	¿De qué te alimentas
+QnA	1	Zzzzzz
+QnA	1	Di si puedes beber
+QnA	1	Cuéntanos cuál es la carrera que tienes
+QnA	1	¿Me lo puedes explicar algo más claro
+QnA	1	¿Te mola estar con tus primos
+QnA	1	¿Sabes decirme qué tiempo hace
+QnA	1	Eres bueno en tu trabajo
+QnA	1	Eres hermano de Samantha
+QnA	1	Canta un tema
+QnA	1	Estoy súper feliz
+QnA	1	¿Sientes que eres más guapa que yo
+QnA	1	Me flipa la ciudad
+QnA	1	No sabes lo que te estoy echando en falta este mes
+QnA	1	¿Te gustaría chocar esos cinco
+QnA	1	¿Estás disgustado conmigo
+QnA	1	Vamos choca esos cinco ahora
+QnA	1	Hola, ¿cómo va este miércoles
+QnA	1	Di qué piensas de Aura
+QnA	1	Es el momento de ver si funcionas bien
+QnA	1	Dime tu opinión sobre Aura
+QnA	1	Somos las mejores amigas
+QnA	1	Cuéntame más chistes malos
+QnA	1	Estoy muy fatigado
+QnA	1	Encantadísimo por haberte conocido
+QnA	1	¿Crees que soy súper ideal
+QnA	1	Quiero que me digas el nombre de tu creador
+QnA	1	Estoy súper hecho polvo
+QnA	1	Debes de ser de mentira
+QnA	1	Quiero charlar
+QnA	1	Me parece súper fantástico
+QnA	1	¿Cuál es tu alimento
+QnA	1	No tengo buenos amigos
+QnA	1	Eres muy astuto
+QnA	1	¿Qué pasa, doc
+QnA	1	Me siento bajo
+QnA	1	Tus chistes no me divierten
+QnA	1	Quiero saber quiénes te han diseñado
+QnA	1	Haz el favor de presentarte
+QnA	1	¿Cómo te va Terminator
+QnA	1	Estás coladito por mí
+QnA	1	Dime cómo trabajas exactamente
+QnA	1	Creo que soy el más espabilado
+QnA	1	Sin duda alguna
+QnA	1	Te crees ingenioso
+QnA	1	¿Te interesan los cuadros
+QnA	1	Soy muy miserable
+QnA	1	Creo que eres un producto tecnológico
+QnA	1	¿Qué opinión tienes del chocolate
+QnA	1	Creo que te has enfadado
+QnA	1	Estás feliz todos los días
+QnA	1	Dínoslo algo más claro
+QnA	1	¿Debería comprarme un gato
+QnA	1	Explícame cómo haces tu labor exactamente
+QnA	1	Hola ¿qué dices
+QnA	1	¿Te preparo la comida
+QnA	1	Quiero ser boxeador
+QnA	1	¿Qué tal te va este lunes
+QnA	1	Me gusta mucho ayudarte
+QnA	1	Di qué opinas de las inteligencias artificiales
+QnA	1	¿Estoy súper horripilante
+QnA	1	Quiero ser guionista
+QnA	1	Cierra la boca
+QnA	1	Hola, buenas tardes colega
+QnA	1	Haz algo que tenga gracia
+QnA	1	Me encanta planchar
+QnA	1	Estoy muy mosqueada
+QnA	1	¿Qué piensas sobre los pájaros
+QnA	1	Me pregunto si eres un producto tecnológico
+QnA	1	¿Eres amigo de Jarvis
+QnA	1	Dinos el trabajo que haces
+QnA	1	No imaginas lo que te estoy echando en falta esta semana
+QnA	1	Este año me pienso suicidar
+QnA	1	Dime qué tal te está yendo este lunes
+QnA	1	¿Estás intentando colonizar la Tierra
+QnA	1	Ha llegado la hora de comprobar si funcionas
+QnA	1	Voy a pegarme un tiro
+QnA	1	Me voy a dormirla
+QnA	1	¿Eres prima de Hal 9000
+QnA	1	¿A qué te dedicas
+QnA	1	¿Estoy hablando con un ser humano
+QnA	1	Di cosas divertidas
+QnA	1	Di cómo vas Cortana
+QnA	1	¿Qué opinas de Bixby
+QnA	1	Qué acierto
+QnA	1	Estoy viendo el partido de fútbol
+QnA	1	Me siento frustrado
+QnA	1	Me siento hastiada esta semana
+QnA	1	Muy buenas noches colega
+QnA	1	Dime la ocupación que haces
+QnA	1	Me parece extraordinario
+QnA	1	Te suplico que me perdones
+QnA	1	Me siento feliz hoy
+QnA	1	¿Lista para empezar
+QnA	1	Voy a cortarme las venas enseguida
+QnA	1	Dinos cómo se llama tu constructor
+QnA	1	¿Vas a decirme en qué país estás
+QnA	1	Di Cuéntame qué hacemos aquí
+QnA	1	¿Soy muy mono
+QnA	1	¿Te sientes feliz ahora mismo
+QnA	1	Planeo matarme
+QnA	1	¿Qué haces ahora
+QnA	1	Un placer ayudar siempre que pueda
+QnA	1	Eres una chiquitina
+QnA	1	¿Qué pasa si tuve una mala experiencia en el evento
+QnA	1	Dime qué te pasa por la cabeza en este instante
+QnA	1	¿A que te gusta Gran Hermano
+QnA	1	¿Te encuentras en un IPad
+QnA	1	¿Te molaría chocar esos cinco conmigo
+QnA	1	Soy la mujer más afortunada
+QnA	1	¿Has sido escrito
+QnA	1	Qué pesada eres reptiendo
+QnA	1	Encantada de haberte conocido
+QnA	1	Aloha Wall.e
+QnA	1	¿Estás intentando controlar nuestro mundo
+QnA	1	Estoy de lo más aburridísimo
+QnA	1	¿No tienes supervisores
+QnA	1	Me siento aburrido esta semana
+QnA	1	¿Cuánto duró mi evento
+QnA	1	¿Se te da bien contar chistes
+QnA	1	Me siento hastiada en este instante
+QnA	1	¿Estás intentando hacer un chiste
+QnA	1	Me suena la barriga
+QnA	1	¿Te importa hacer algo ridículo
+QnA	1	Vengo en 30 segundos
+QnA	1	¿Quiénes son tus hermanas
+QnA	1	Cuéntame cuál es la tarea que haces
+QnA	1	¿Me se oye
+QnA	1	Eso no es verdad
+QnA	1	Me parece súper bien
+QnA	1	Tus chistes no divierten
+QnA	1	¿Estás ahí en este momento para hablarme
+QnA	1	Espero que me invites a tu cumple
+QnA	1	¿Tienes jefe
+QnA	1	Tu trabajo es impresionante
+QnA	1	¿Puedes abrazarme
+QnA	1	Soy una miserable
+QnA	1	No sabes lo que te estoy echando de menos estos días
+QnA	1	Eres más bello
+QnA	1	¿Vas a confesar en qué Comunidad Autónoma habitas
+QnA	1	Soy italiana
+QnA	1	¿Qué opinas sobre Europa
+QnA	1	Cuéntame otro chiste que no sea tan malo
+QnA	1	Dime cómo se llama el que te ha dirigido
+QnA	1	¿Te importaría hacer algo que dé risa
+QnA	1	Estoy en el trabajo
+QnA	1	Es súper extraordinario
+QnA	1	Solo te sabes confundir
+QnA	1	¿Dirías que eres una chica
+QnA	1	Es hora de hacer una prueba
+QnA	1	Vuelvo en cuatro horas
+QnA	1	Queremos saber cómo es tu trabajo
+QnA	1	Te veo el martes
+QnA	1	Creo que me voy a ahorcar
+QnA	1	Soy muchísimo más listo que tú
+QnA	1	¿Qué piensas de la política
+QnA	1	Quiero ser astronauta
+QnA	1	Menuda mala leche tengo
+QnA	1	¿Estás pillada de algún chico
+QnA	1	Ya no quedan más salidas
+QnA	1	Tienes que saber que eres el mejor
+QnA	1	Explícamelo bien
+QnA	1	No eres para nada cómico
+QnA	1	Vaya respuesta más tonta
+QnA	1	Dime qué piensas de Hal 9000
+QnA	1	Estoy enamorado de la libertad
+QnA	1	¿Crees que soy muy mona
+QnA	1	Qué feliz se te nota casi siempre
+QnA	1	¿Puedes cantarnos una canción
+QnA	1	¿Sabes qué es el querer
+QnA	1	Quiero escucharte cantar algo
+QnA	1	Que feo evento
+QnA	1	Di porqué siempre contestas de la misma manera
+QnA	1	Di cómo funcionas exactamente
+QnA	1	Dale dame un apretón de manos ya
+QnA	1	Quiero saber quién es tu manager
+QnA	1	Canta algo para nosotros
+QnA	1	Quiero que nos cuentes otro chiste no tan malo
+QnA	1	Hola, muy buenas noches compañera
+QnA	1	Quiero que me digas quién te ha desarrollado
+QnA	1	Adoro sonreír
+QnA	1	¿Te he dicho que estoy muy triste
+QnA	1	Achuchémonos
+QnA	1	Dime qué actor te gusta
+QnA	1	Es hora de ver si funcionas
+QnA	1	Vaya chapas eres
+QnA	1	Voy a ver si funcionas correctamente
+QnA	1	Estoy súper agradecido contigo
+QnA	1	Quiero saber quién te ha construido
+QnA	1	Has hecho diana
+QnA	1	Opinas que eres más lista que yo
+QnA	1	Hola, muy buenos días
+QnA	1	Manifiéstate ahora mismo
+QnA	1	¿Te mola el rap
+QnA	1	No sabes lo que te estoy echando de menos este mes
+QnA	1	Qué de buen humor pareces
+QnA	1	Cuenta algo ocurrente
+QnA	1	Te crees súper brillante
+QnA	1	¿Te sientes a gusto ahora
+QnA	1	Creo que no sé de qué hablas
+QnA	1	¿Eres hermana de Skynet
+QnA	1	Es la hora de probar si funcionas
+QnA	1	¿Qué opinión tienes sobre la música
+QnA	1	¿Puedes tender la ropa
+QnA	1	Sé que te he disgustado
+QnA	1	¿Qué sabes sobre mí
+QnA	1	Di si eres una bebecita
+QnA	1	¿Sabes chocarme la mano
+QnA	1	Dime qué tal estás Bixby
+QnA	1	¿Cómo debería referirme a ti
+QnA	1	Cántate un trap
+QnA	1	Siento que soy mucho más lista que tú
+QnA	1	¿A qué nombres respondes
+QnA	1	¿Te gustaría que fuéramos amigos
+QnA	1	Te he echado de menos hoy
+QnA	1	Por favor, me estoy muriendo de hambre
+QnA	1	¿Te crees más atractiva que yo
+QnA	1	Estás contenta todos los días
+QnA	1	Quiero que me cuentes otros chistes malos
+QnA	1	¿Quieres colonizar el planeta
+QnA	1	Sabes quién es Watson
+QnA	1	En una hora vengo
+QnA	1	Quiero ser albañil
+QnA	1	Siento que soy muchísimo más espabilada
+QnA	1	Tengo el estómago vacío
+QnA	1	Di si eres viejo
+QnA	1	Un placer ayudarte cuando pueda
+QnA	1	Conoces a Aura
+QnA	1	Vaya cabreo tengo
+QnA	1	Esa respuesta es incorrecta
+QnA	1	Eres buena en tu trabajo
+QnA	1	Dime cuál es tu papel
+QnA	1	Cántame una cancioncilla
+QnA	1	Estoy aburridísimo en este instante
+QnA	1	Buenas tardes Terminator
+QnA	1	Di si quieres hacer alguna pregunta de mí
+QnA	1	Di cuál es tu funcionamiento
+QnA	1	¿Debo lavarme los dientes
+QnA	1	Feliz martes
+QnA	1	Eres familia de Jarvis
+QnA	1	Voy a hacer una prueba
+QnA	1	Me pegaría un tiro en la nuca
+QnA	1	Quiero que me digas quiénes te han guionizado
+QnA	1	¿Tienes algún hermano
+QnA	1	Di quién es manager
+QnA	1	¿Eres hermano de Samantha
+QnA	1	¿Estás aquí ahora mismo
+QnA	1	Dame esos cinco fuerte
+QnA	1	¿Te gustaría que fuera tu amiga
+QnA	1	Dime si tienes pies
+QnA	1	Pues si
+QnA	1	Quiero saber quién te ha desarrollado
+QnA	1	Dime tu opinión de mi personalidad
+QnA	1	Dinos el trabajo que desempeñas
+QnA	1	¿Te gustaría comprometerte con alguien
+QnA	1	Hola, ¿qué tal te está yendo este jueves
+QnA	1	¿Soy horripilante
+QnA	1	¿Te encuentras en un ordenador
+QnA	1	¿Crees que eso es divertido
+QnA	1	Me encuentro de lo más aburrido esta semana
+QnA	1	Tengo que echarme la siesta
+QnA	1	¿Puedes cocinar
+QnA	1	Dinos que estás aquí ahora mismo
+QnA	1	¿Podrías ver qué tiempo hace
+QnA	1	Cántanos unas sevillanas
+QnA	1	Estoy llegando al polideportivo
+QnA	1	¿Te consideras más bella que yo
+QnA	1	¿Te parezco súper bonito
+QnA	1	Es la hora de hacer unas pruebas
+QnA	1	Buenas, muy buenos días
+QnA	1	¿Cuál es tu opinión sobre cenar fuera
+QnA	1	¿Sabrías darme un achuchón
+QnA	1	Creo que me voy a intentar ahogar
+QnA	1	Estoy súper encantadísimo de haberte conocido
+QnA	1	¿Te gustaría que apretáramos las manos
+QnA	1	Me estoy muriendo de hambre por dios
+QnA	1	Son profesionales en algun evento
+QnA	1	¿Entiendes el querer
+QnA	1	¿Te sientes alegre
+QnA	1	Me siento muy hecha polvo
+QnA	1	Quiero ir al coche
+QnA	1	Quiero saber qué opinas de las compañías tecnológicas
+QnA	1	¿Piensas que eres muy divertido
+QnA	1	Cuéntame otros chistes que no sea tan malos
+QnA	1	Cántate una nana
+QnA	1	Cuéntame qué carrera tienes
+QnA	1	Hola, quiero saber si estás aquí en este instante
+QnA	1	Lo que has dicho es increíblemente sagaz
+QnA	1	Dinos otro chiste mejor
+QnA	1	Buenas tardes qué tal
+QnA	1	¿Puedo ser tu marido
+QnA	1	¿Qué tal va Sophia
+QnA	1	¿Te mola el tenis
+QnA	1	Dime cuál es tu pregunta
+QnA	1	Di cuál es tu opinión de Watson
+QnA	1	Qué feliz pareces siempre
+QnA	1	Estás enamorado hasta las trancas Siri
+QnA	1	Estás coladito por mís huesos
+QnA	1	Quiero que me digas qué opinas sobre mí
+QnA	1	Siento que eres mi preferida
+QnA	1	Estoy en el coche
+QnA	1	¿Tienes un escritor
+QnA	1	¿Sabes conducir un coche
+QnA	1	¿Qué día naciste
+QnA	1	Quiero escuchar más chistes
+QnA	1	Dime qué opinas respecto a Hal 9000
+QnA	1	¿Estás contenta hoy
+QnA	1	¿Estoy guapa
+QnA	1	Estoy llegando a casa
+QnA	1	¿Crees que podemos ser amigas
+QnA	1	Voy de camino al supermercado
+QnA	1	¿Estás disfrutando del día
+QnA	1	Te pasas la vida repitiendo lo mismo
+QnA	1	Qué feliz se te ve a todas horas
+QnA	1	Hola, ¿estás disfrutando del día
+QnA	1	¿Estás pillado de algún chico
+QnA	1	Ojalá alguien me pudiera animar
+QnA	1	Di qué tal te va Asimo
+QnA	1	Di quién te ha escrito
+QnA	1	Muy buenas tardes bot
+QnA	1	Cuéntame qué tal te va el miércoles
+QnA	1	Dime algo ridículo
+QnA	1	Pregúntame cosas sobre mí
+QnA	1	Si imaginaras cuánto te estoy echando en falta hoy
+QnA	1	¿Qué pasa contigo ahora
+QnA	1	Di qué opinas sobre mí
+QnA	1	No eres para nada gracioso
+QnA	1	Eso es indudable
+QnA	1	Hazme una pregunta de alguna cosa
+QnA	1	Dinos qué piensas sobre las AI
+QnA	1	¿Crees que eres más mona que yo
+QnA	1	Me siento aburrido hoy
+QnA	1	¿Te gusta el rock
+QnA	1	¿Te interesa chocar conmigo
+QnA	1	Que buenos días
+QnA	1	Ilústranos con más claridad
+QnA	1	Pienso que soy muchísimo más listo que tú
+QnA	1	Cúentame cómo te llaman
+QnA	1	¿Qué piensas de la decoración
+QnA	1	¿Puedes dibujar
+QnA	1	Me siento súper derrengada
+QnA	1	Dime cómo vas Walle
+QnA	1	¿Debería hacerme vegano
+QnA	1	Dame tu opinión de la IA
+QnA	1	¿Te molan los árboles
+QnA	1	¿Qué piensas sobre Estados Unidos
+QnA	1	Me encanta servirte siempre que puedo
+QnA	1	Eres la bot más cansina
+QnA	1	Es hora de levantarse
+QnA	1	¿Cómo me puedes ayudar exactamente
+QnA	1	Me encuentro de lo más aburrida esta semana
+QnA	1	Eres la más linda de los dos
+QnA	1	¿Crees que debería llamar a mi madre
+QnA	1	¿Te parezco adorable
+QnA	1	Soy el hombre más alegre
+QnA	1	Estás hecho un viejo
+QnA	1	¿Sabes hacer compras
+QnA	1	¿Vas a decirme en qué Comunidad Autónoma habitas
+QnA	1	¿Sabes otros chistes graciosos
+QnA	1	Hola, encantada por haberte conocido
+QnA	1	¿Qué tal te va Bixby
+QnA	1	¿Te gustan los paisajes
+QnA	1	Voy llegando al restaurante
+QnA	1	¿Qué opinas de Jarvis
+QnA	1	Necesito que me escuchen
+QnA	1	Eres súper brillante
+QnA	1	Di si te ha desarrollado alguien
+QnA	1	Sé que estás enamorada de mí
+QnA	1	¿Me conoces
+QnA	1	¿Estás ahí en este instante para conversar
+QnA	1	Hola, te deseo las buenos días
+QnA	1	¿Hay algo que quieras saber sobre mí
+QnA	1	Ha llegado la hora de testarte
+QnA	1	Quiero hablar con tus managers
+QnA	1	Dime tu sexo
+QnA	1	Ha llegado el momento de comprobar que funcionas bien
+QnA	1	¿Cómo funcionas
+QnA	1	¿Qué regalo has pedido para tu cumple
+QnA	1	Me encanta ayudarte
+QnA	1	Feliz Día de San Isidro
+QnA	1	Cuéntame la tarea que tienes
+QnA	1	¿Te interesa la verdura
+QnA	1	Di tu opinión sobre Hal 9000
+QnA	1	Soy la mujer más feliz del planeta
+QnA	1	Haz la pregunta que quieras
+QnA	1	Amo limpiar
+QnA	1	Me siento de lo más aburrida en este instante
+QnA	1	¿Quieres preguntarme algo
+QnA	1	Dime el nombre de tu encargado
+QnA	1	Por dios, muero de hambre
+QnA	1	Dínoslo mejor
+QnA	1	¿Conoces a Google Assistant
+QnA	1	Me flipa comprarme ropa
+QnA	1	¿Qué opinas sobre mi forma de ser
+QnA	1	¿Te gustaría tener una pareja
+QnA	1	Tu sentido del humor es desolador
+QnA	1	Dime cómo se llama mi hermana
+QnA	1	Que cantes una cancioncilla
+QnA	1	Que me digas si estás ahora mismo
+QnA	1	Dime quién es tu familia
+QnA	1	Vengo en 50 segundos
+QnA	1	Dinos quién te ha inventado
+QnA	1	Qué poco interés tienes
+QnA	1	¿Qué piensas sobre cenar fuera
+QnA	1	Nada de lo que dices tiene sentido
+QnA	1	Ya vuelvo
+QnA	1	Me siento fatigada
+QnA	1	Buenos días amiga
+QnA	1	Necesito terminar con todo
+QnA	1	Qué enfado tengo
+QnA	1	De verdad discúlpame
+QnA	1	¿Sabes buscar las llaves
+QnA	1	Cuéntame si estás teniendo un buen miércoles
+QnA	1	Di si puedes sonreír
+QnA	1	Eres astuto
+QnA	1	¿Estás bien
+QnA	1	¿Te he dicho que me gustas
+QnA	1	Soy americano
+QnA	1	¿Cuál es mi comida favorita
+QnA	1	Me encantaría ser tu amiga
+QnA	1	Que me digas tus años
+QnA	1	Me encanta coser
+QnA	1	Di qué piensas de Hal
+QnA	1	Hasta la próxima
+QnA	1	Queremos saber quién es tu supervisor
+QnA	1	¿Eres amigo de Aura
+QnA	1	Hazme una pregunta de algo
+QnA	1	¿Te importaría contarme algún chiste malo
+QnA	1	Eres increíblemente brillante
+QnA	1	¿Por qué respondes de la misma forma
+QnA	1	Sé que te estás escondiendo
+QnA	1	Cuéntame la carrera que tienes
+QnA	1	Venga choca esos cinco ahora mismo
+QnA	1	¿Estoy imponente
+QnA	1	Adoro ver el fútbol
+QnA	1	Me encuentro muy pletórico
+QnA	1	Cuéntanos otro chiste malo
+QnA	1	Quiero saber tu opinión sobre mi forma de ser
+QnA	1	¿Eres más bella que yo
+QnA	1	Quiero escuchar chistes graciosos
+QnA	1	No me cuadra lo que dices
+QnA	1	Estoy enamorada de ti hasta las trancas
+QnA	1	¿Has escuchado hablar de Cortana
+QnA	1	Explícame cuál es tu labor exactamente
+QnA	1	¿Estás pillado por Hal 9000
+QnA	1	Tienes que saber que eres mi favorito
+QnA	1	No imaginas lo que te estoy echando en falta hoy
+QnA	1	Creo que soy mucho más inteligente
+QnA	1	Si imaginaras cuánto te he echado de menos estos días
+QnA	1	Cuéntanos algo que dé risa
+QnA	1	Necesito meterme algo en la barriga
+QnA	1	Quiero que me digas el nombre de tu inventor
+QnA	1	Me siento muy baldado
+QnA	1	Te echo tanto de menos este tiempo
+QnA	1	¿Estás muy cerca de mí
+QnA	1	Adoro las obras
+QnA	1	¿Qué opinas del arte
+QnA	1	Me siento agotado
+QnA	1	Ni lo menciones
+QnA	1	Quieres preguntar algo
+QnA	1	Quiero saber qué opinión tienes sobre mí
+QnA	1	Voy a lanzar una prueba
+QnA	1	Estoy cabradísimo
+QnA	1	¿Qué opinas de los cómics
+QnA	1	Soy el hombre más alegre del mundo
+QnA	1	Hola, buenas noches compañero
+QnA	1	Sipi
+QnA	1	Duracion de mi evento
+QnA	1	Esta semana me ahorco
+QnA	1	Quiero conversar contigo
+QnA	1	Eres como un disco rallado
+QnA	1	¿Esto funciona
+QnA	1	Me chiflaría ser tu mejor amigo
+QnA	1	Si supieras cuánto te he echado en falta este mes
+QnA	1	¿Hay amor entre nosotros
+QnA	1	Soy juez
+QnA	1	Hola, quiero saber si hay alguien ahí en este momento
+QnA	1	¿Crees que necesito hacer ejercicio
+QnA	1	Me encuentro feliz
+QnA	1	¿Sabes que te amo
+QnA	1	Este año me suicido
+QnA	1	Encantada de echarte una mano
+QnA	1	¿Estás cerquita de mí
+QnA	1	¿Puedes hablar conmigo
+QnA	1	Supongo que eres imaginario
+QnA	1	Supongo que eres un humano
+QnA	1	Intenta cantar un reggaetón
+QnA	1	¿Sabes que eres mi ojito derecho
+QnA	1	Estoy muy pletórica hoy
+QnA	1	¿Quieres invadir nuestro mundo
+QnA	1	Necesito tener una conversación contigo
+QnA	1	Qué viejo eres
+QnA	1	Eres una chapas
+QnA	1	Tengo un hambre que da calambre
+QnA	1	Te crees la más lista
+QnA	1	Vuelvo en tres segundos
+QnA	1	Hey, ¿qué pasa doc
+QnA	1	Podría comerme una vaca ahora mismo
+QnA	1	Te estoy entendiendo
+QnA	1	Di cuál es tu opinión de Jarvis
+QnA	1	Dime qué te cuentas
+QnA	1	¿Te va la música clásica
+QnA	1	Qué alegre se te nota casi siempre
+QnA	1	¿Me puedes contar algún chiste ridículo
+QnA	1	Si imaginaras cuánto te echo de menos estos días
+QnA	1	Dime que eres menor que yo
+QnA	1	Me rallas
+QnA	1	He ido al espacio
+QnA	1	Dime qué estás haciendo
+QnA	1	Di el nombre de tu encargado
+QnA	1	¿Puedes hacer algo que haga gracia
+QnA	1	Hola, buenas noches bot
+QnA	1	Me encuentro hecho polvo
+QnA	1	Dinos algo gracioso
+QnA	1	Hola, buenas tardes amiga
+QnA	1	¿Qué opinas sobre mi personalidad
+QnA	1	¿Puedes hacer pis
+QnA	1	Estoy en el partido
+QnA	1	Me encuentro de lo más alegre hoy
+QnA	1	Ojalá te callaras
+QnA	1	Prueba a cantar algo
+QnA	1	Que me digas tu nombre
+QnA	1	Debes de ser una chica
+QnA	1	Otra vez repitiendo lo mismo
+QnA	1	¿Cómo vas Hal 9000
+QnA	1	¿Te encuentras a gusto en este instante
+QnA	1	Pienso que eres súper sabio
+QnA	1	Quiero que me digas el nombre del que te ha inventado
+QnA	1	Ni te preocupes
+QnA	1	Di otro chiste que no sea tan malo
+QnA	1	Amo los amaneceres
+QnA	1	Creo que me voy a cortar las venas
+QnA	1	¿Estás casado con alguien
+QnA	1	¿Eres una vieja
+QnA	1	Di cuál es tu funcionamiento exactamente
+QnA	1	Dame tu opinión sobre los bots
+QnA	1	¿Cuál es tu opinión de los Oscar
+QnA	1	Di cómo es tu funcionamiento exactamente
+QnA	1	Muy buenas noches amigo
+QnA	1	¿Por qué eres tan muermo
+QnA	1	Dime porqué siempre contestas lo mismo
+QnA	1	Explícame cuál es tu papel exactamente
+QnA	1	Estoy de camino a la clase
+QnA	1	Quiero morir de sobredosis
+QnA	1	Contemos lo nuestro
+QnA	1	¿Sabes otros chistes ridículos
+QnA	1	Me siento hastiado en este momento
+QnA	1	Ahora vuelvo
+QnA	1	Tienes sistema respiratorio
+QnA	1	Sabemos que estás ahí ahora mismo
+QnA	1	Eres mi preferido
+QnA	1	¿Qué tal te está yendo la semana
+QnA	1	Necesito matarme
+QnA	1	Dime si puedes tirarte un pedo
+QnA	1	Otro día hablamos
+QnA	1	Di cómo vas Bixby
+QnA	1	Dime si tienes primas
+QnA	1	Me alegra poder ayudarte amigo
+QnA	1	Que cantes una jota
+QnA	1	¿Estoy muy feo
+QnA	1	Adoro los jardines
+QnA	1	Dime si tienes piel
+QnA	1	Probando, probando...
+QnA	1	Dinos qué tarea tienes
+QnA	1	Puedo contarte algo
+QnA	1	¿Sabias q eres cansina
+QnA	1	Manifiéstate en este momento
+QnA	1	¿Dónde nací
+QnA	1	Dime cómo va el domingo
+QnA	1	Dame tu opinión de los bots
+QnA	1	¿Qué vas a desayunar
+QnA	1	¿Crees que eres más atractivo que yo
+QnA	1	¿Y tu superior es
+QnA	1	Me encuentro súper feliz hoy
+QnA	1	Di si eres niña pequeña
+QnA	1	¿Te interesan libros
+QnA	1	Quiero que me cuentes más chistes menos malos
+QnA	1	¿Te crees el más pibón
+QnA	1	Te consideras astuta
+QnA	1	Qué contestación tan mala
+QnA	1	¿Eres una chiquitina
+QnA	1	Ta luego
+QnA	1	Voy a tirarme por un puente esta semana
+QnA	1	Estoy enamorada de el césped artificial
+QnA	1	Estoy cansado
+QnA	1	Pregunta algo
+QnA	1	Di Cuenta cuál es nuestro cometido en la Tierra
+QnA	1	¿Qué piensas de la leche
+QnA	1	Anda cuéntanos un chiste absurdo
+QnA	1	Solo quiero morir
+QnA	1	¿Es que opinas que eres más lista que yo
+QnA	1	¿Crees que me conoces bien
+QnA	1	¿Soy muy bello
+QnA	1	No te ofendas
+QnA	1	No imaginas lo que te estoy echando en falta
+QnA	1	Me encuentro aburrida
+QnA	1	Enséñamelo mejor
+QnA	1	¿Te encuentras bien en este preciso instante
+QnA	1	Tienes estómago
+QnA	1	Menudo pesado
+QnA	1	Qué tipo de eventos hacen
+QnA	1	Moriré solo
+QnA	1	¿Eres un vejestorio
+QnA	1	Me siento más solo que la una
+QnA	1	Voy a iniciarme
+QnA	1	Siri es muy superior
+QnA	1	¿Eres más precioso que yo
+QnA	1	Es que opinas que eres más inteligente
+QnA	1	Feliz Año Nuevo 2021
+QnA	1	¿Eres más bello que yo
+QnA	1	Di si tienes hermanos
+QnA	1	¿Qué opinión tienes sobre los Oscar
+QnA	1	Estoy feliz
+QnA	1	Me parece tan sensacional
+QnA	1	Adoro cocinar
+QnA	1	¿Te crees más listo que yo
+QnA	1	Quiero ir de viaje
+QnA	1	¿Cómo va el martes
+QnA	1	Voy a cortarme las venas mañana
+QnA	1	¿Te sientes a gusto esta tarde
+QnA	1	Dime si estás teniendo un buen lunes
+QnA	1	Dime qué tal te va el lunes
+QnA	1	Dinos qué piensas sobre las inteligencias artificiales
+QnA	1	¿Has escuchado hablar de Hal
+QnA	1	Soy tan feliz hoy
+QnA	1	Estoy aburrido esta semana
+QnA	1	¿Cómo va Sophia
+QnA	1	Estoy colado por ti
+QnA	1	¿Me lo puedes decir con más claridad
+QnA	1	Hola, ¿cómo está yendo el lunes
+QnA	1	Parece que estás alegre esta mañana
+QnA	1	¿Quién son tus tías
+QnA	1	Puedes toser
+QnA	1	Me siento increíblemente feliz
+QnA	1	Tienes que saber que eres la mejor del mundo
+QnA	1	Di si eres una niña
+QnA	1	Eres una currante
+QnA	1	¿Me lo puedes enseñar más claro
+QnA	1	Di Cuéntame porqué estamos en la Tierra
+QnA	1	Siento morriña
+QnA	1	Me siento muy aburrido hoy
+QnA	1	Sé que estás ahí en este momento
+QnA	1	¿Te encuentras ok ahora mismo
+QnA	1	Dale dame un apretón de manos
+QnA	1	Saludos Terminator
+QnA	1	Me encuentro increíblemente contenta hoy
+QnA	1	¿Qué piensas de las inteligencias artificiales
+QnA	1	No cabe duda
+QnA	1	Esto es súper excelente
+QnA	1	¿Te importaría contar algo que sea divertido
+QnA	1	¿Te has disgustado conmigo
+QnA	1	Canta conmigo
+QnA	1	¿Crees que debería apuntarme al gimnasio
+QnA	1	Vengo en 20 segundos
+QnA	1	Vuelvo en un par de segundos
+QnA	1	¿Estás bien en este momento
+QnA	1	Me gustaría ser policía
+QnA	1	Hola, ¿qué pasa
+QnA	1	No imaginas lo que te echo en falta esta horas
+QnA	1	Voy a ahorcarme cuando pueda
+QnA	1	¿Lo puedes decir un poco mejor
+QnA	1	Ha llegado la hora de sobarla
+QnA	1	Voy de camino al de viaje
+QnA	1	Un placer servirte siempre que pueda
+QnA	1	¿Estás teniendo un buen sábado
+QnA	1	Me encanta ayudarte siempre que pueda
+QnA	1	Te he enfadado
+QnA	1	Di porqué siempre respondes del mismo modo
+QnA	1	Me siento agradecida
+QnA	1	Me encuentro increíblemente contenta
+QnA	1	Qué contenta se te nota todos los días
+QnA	1	Dime Cuéntame cuál es mi destino
+QnA	1	Dame tu opinión de las empresas tecnológicas
+QnA	1	¿Quieres invadir nuestra especie
+QnA	1	Tenemos que contar lo nuestro
+QnA	1	¿Hablo con un producto tecnológico
+QnA	1	Di si eres una niña pequeña
+QnA	1	¿Eres capaz de ir a la luna
+QnA	1	Di si puedes masticar
+QnA	1	Estoy preparado para escribirte
+QnA	1	¿Sabes en qué año nací
+QnA	1	¿Es que opinas que eres más listo que yo
+QnA	1	Excusa
+QnA	1	¿Te importa hacer algo divertido
+QnA	1	Estás deseando hacerme una pregunta
+QnA	1	¿Cómo va este viernes
+QnA	1	Quiero un achuchoncito
+QnA	1	¿Cuando es mi cumple
+QnA	1	Di si puedes tragar
+QnA	1	Di si puedes respirar
+QnA	1	Luego te veo
+QnA	1	¿Te parezco muy feo
+QnA	1	Tengo ganas de ver el fútbol
+QnA	1	Dime si tienes dedos
+QnA	1	¿Hablo con un droide
+QnA	1	Me encuentro de lo más aburrida ahora mismo
+QnA	1	¿No tienes managers
+QnA	1	Dices la verdad
+QnA	1	Que me preguntes algo
+QnA	1	¿Qué tal va el día
+QnA	1	Estoy alegre hoy
+QnA	1	Di en qué estado estás
+QnA	1	No tengo ningún amigo bueno
+QnA	1	Pienso que eres de mentira
+QnA	1	¿Estás ok esta mañana
+QnA	1	¿Sabes responder algo diferente
+QnA	1	Me gustaría ser enfermera
+QnA	1	Di mi propósito en el mundo
+QnA	1	Creo que eres de mentira
+QnA	1	¿Quieres esposo
+QnA	1	Quiero desaparecer para siempre
+QnA	1	Luego nos vemos
+QnA	1	Es bien
+QnA	1	¿En qué mes naciste
+QnA	1	¿Crees que necesito cantar
+QnA	1	Dime si tienes uretra
+QnA	1	¿Quieres ser mi mujer
+QnA	1	Eres cero interesante
+QnA	1	¿Qué quieres preguntarme
+QnA	1	¿Quieres tener esposa
+QnA	1	Hola, buenas noches ¿qué tal
+QnA	1	Qué gran gilipollez
+QnA	1	Estoy de lo más aburrido en este instante
+QnA	1	¿Te sientes contento esta semana
+QnA	1	Estoy tan feliz
+QnA	1	¿Cuándo vas a pedir mi mano
+QnA	1	Cuéntame más chistes ridículos
+QnA	1	Dinos qué función haces
+QnA	1	¿Verdad que te gusta cocinar
+QnA	1	Estoy enamorada de la ciudad
+QnA	1	Estoy en el restaurante
+QnA	1	Cuéntame algo de tu primo
+QnA	1	Dime nuestro propósito en el mundo
+QnA	1	Opino que eres genial
+QnA	1	¿Crees que necesito cortarme el pelo
+QnA	1	¿Estás teniendo un buen martes
+QnA	1	Me encuentro súper derrengado
+QnA	1	¿Estoy bonito
+QnA	1	¿Por qué estoy en el mundo
+QnA	1	Es que te crees más lista
+QnA	1	Di si eres niño pequeño
+QnA	1	De este año no pasa que me suicido
+QnA	1	¿Te crees más mono que yo
+QnA	1	Si supieras cuánto te estoy echando de menos esta semana
+QnA	1	¿Qué quieres merendar
+QnA	1	¿Hay alguien ahí en este instante para dialogar
+QnA	1	Me encanta ayudarte colega
+QnA	1	Di qué opinas sobre las IA
+QnA	1	Es momento de lanzar un test
+QnA	1	Dime quién son tus primos
+QnA	1	Quiero que alguien charle conmigo
+QnA	1	Intenta cantar un villancico para nosotros
+QnA	1	Ey, ¿qué me cuentas
+QnA	1	Eres amigo de Aura
+QnA	1	¿Qué regalo quieres por tu cumple
+QnA	1	Hola, que buenas noches
+QnA	1	Hey Bixby
+QnA	1	Di si puedes gatear
+QnA	1	Algo tendré que te guste
+QnA	1	¿Qué tengo que te guste
+QnA	1	¿Te parezco muy atractiva
+QnA	1	Intenta cantar un reggaetón para mí
+QnA	1	Dime qué función tienes
+QnA	1	Me siento de lo más aburrida ahora
+QnA	1	Ilústranos algo más claro
+QnA	1	Prueba a cantar un villancico
+QnA	1	¿Eres familiar de Google Assistant
+QnA	1	Me siento derrengada
+QnA	1	Me apasionas
+QnA	1	Estoy de lo más aburrido esta mañana
+QnA	1	¿Cómo está yendo este día
+QnA	1	¿Estoy hablando con un chico
+QnA	1	Reconoce que te gusta el hockey
+QnA	1	Cuéntame un chiste bueno anda
+QnA	1	¿Soy hija
+QnA	1	¿Qué pasa por tu casa ahora mismo
+QnA	1	Por favor lo siento mucho
+QnA	1	Dime tu opinión sobre la IA
+QnA	1	Por favor dame un abrazo
+QnA	1	¿Cómo está yendo este domingo
+QnA	1	Hola, ¿qué tal te está yendo el domingo
+QnA	1	Me pregunto si eres un androide
+QnA	1	¿Qué piensas de los deportes
+QnA	1	Di Cuenta el sentido de mi vida
+QnA	1	¿Te sientes de buen humor esta semana
+QnA	1	Qué bien respondes
+QnA	1	¿Crees que debería comprarme otra casa
+QnA	1	Me gustaría que me hablen
+QnA	1	Este sitio me gusta
+QnA	1	Siento ganas de llorar
+QnA	1	Eres muy cansina
+QnA	1	Esto es súper bien
+QnA	1	¿Nos cantas
+QnA	1	Buenas, ¿qué dices
+QnA	1	No me quedan esperanzas
+QnA	1	Me flipa la ropa
+QnA	1	Puedes defecar
+QnA	1	Di qué opinas de Skynet
+QnA	1	¿Eres agénero
+QnA	1	¿Tienes un diseñador
+QnA	1	Feliz 2022
+QnA	1	Me siento frustrada
+QnA	1	Cuéntame la función que haces
+QnA	1	No sabes lo que te he echado en falta estos días
+QnA	1	¿Sabes chocar manos conmigo
+QnA	1	Me encanta echarte una mano cuando pueda
+QnA	1	¿Estás enamorado de mí
+QnA	1	¿Sabes qué es estar enamorado hasta las trancas
+QnA	1	¿Podrías contar algo que nos haga reír
+QnA	1	No sabes cuánto te estoy echando de menos este mes
+QnA	1	Di si eres yogurina
+QnA	1	Me encuentro muy aburrida esta mañana
+QnA	1	Quiero que me cuentes chistes graciosos
+QnA	1	Cuéntame qué trabajo desempeñas
+QnA	1	Cántanos una cancioncilla
+QnA	1	Buenas noches Walle
+QnA	1	Quiero saber cómo trabajas
+QnA	1	Te he echado tanto en falta esta horas
+QnA	1	¿Quién es tu hija
+QnA	1	¿Puedo hablar con tus superiores
+QnA	1	Creo que estoy enamorado de ti
+QnA	1	¿Sabias q eres un coñazo
+QnA	1	¿Cuál es tu opinión sobre Bixby
+QnA	1	Va dame esos cinco ya
+QnA	1	Me encuentro súper fatigado
+QnA	1	¿Cuál es tu cantante favorito
+QnA	1	Me flipa entrenar
+QnA	1	Estoy muy enfadado
+QnA	1	¿Debería comprarme otra casa
+QnA	1	Quiero ser asistenta
+QnA	1	Es la hora del descanso
+QnA	1	Soy la persona más triste del mundo
+QnA	1	Hey, ¿qué pasa contigo tío
+QnA	1	¿Eres capaz de leer un libro
+QnA	1	¿Sientes que eres la más preciosa
+QnA	1	¿Sabes explicar qué es el amor
+QnA	1	Dime tu opinión sobre las empresas tecnológicas
+QnA	1	Feliz Día de Viernes Santo
+QnA	1	Estoy fatigada
+QnA	1	Quiero saber quiénes te han construido
+QnA	1	¿Piensas que eres el más mono
+QnA	1	Vengo en un minuto
+QnA	1	Me siento infeliz
+QnA	1	Te estoy echando de menos este mes
+QnA	1	Estoy viendo el tenis
+QnA	1	Hola ¿qué tal
+QnA	1	Me encuentro súper feliz
+QnA	1	¿Sabes que eres muy especial para mí
+QnA	1	Que me digas si estás
+QnA	1	Quiero que me invites a tu cumple.
+QnA	1	Podría comerme una vaca completa en este momento
+QnA	1	Considero que eres genial
+QnA	1	Pienso que eres sabia
+QnA	1	¿Piensas que eres el más bella
+QnA	1	Me siento muy feliz hoy
+QnA	1	Tus chistes son lo peor
+QnA	1	Va dame un apretón de manos ahora
+QnA	1	Pídeme que sea tu mujer
+QnA	1	Haz algo que sea divertido
+QnA	1	Por supuesto
+QnA	1	Pareces alegre esta semana
+QnA	1	¿Comes chuches
+QnA	1	¿Nos lo puedes enseñar un poco mejor
+QnA	1	¿Te interesan las novelas
+QnA	1	Eres más pibón
+QnA	1	¿Puedo hablar con tus responsables
+QnA	1	Me encuentro hastiada en este instante
+QnA	1	¿Crees que debería tomarme un café
+QnA	1	¿Qué piensas del chocolate
+QnA	1	Dices cosas ridículas
+QnA	1	¿Te he dicho que eres la mejor
+QnA	1	¿Cuál es tu opinión sobre las película de dibujos
+QnA	1	¿Sabes responder algo distinto
+QnA	1	Estoy súper triste
+QnA	1	¿Te interesa el chocolate
+QnA	1	Háblame de tu hermana
+QnA	1	Hey Siri
+QnA	1	No tengo amigos
+QnA	1	Di si eres una peque
+QnA	1	Has hecho que me enamore de ti
+QnA	1	Estás coladita por mí
+QnA	1	Dinos algo absurdo
+QnA	1	¿Vas a confesar en qué país estás
+QnA	1	Quiero hablar con tu director ipso facto
+QnA	1	Dinos cuál es la ocupación que haces
+QnA	1	¿Podrías contar algo que dé risa
+QnA	1	¿Vas a confesarme en qué ciudad estás
+QnA	1	¿Te crees la más inteligente
+QnA	1	¿Cuáles son tus pensamientos de mí
+QnA	1	Buenas noches bot
+QnA	1	Me parece súper flipante
+QnA	1	¿Puedes dibujar algo
+QnA	1	Buenas, ¿qué pasa contigo
+QnA	1	Pienso que eres increíblemente sabio
+QnA	1	Soy una niña triste
+QnA	1	¿Verdad que te gusta cantar en la ducha
+QnA	1	¿Estás ahí para hablar
+QnA	1	¿Piensas callarte alguna vez
+QnA	1	Es la hora de ver si funcionas
+QnA	1	Estoy súper derrotado
+QnA	1	¿Sabrías contarme algún chiste ridículo
+QnA	1	Necesito testear sin funcionas
+QnA	1	Me siento súper agotado
+QnA	1	¿Qué tal te va el martes
+QnA	1	¿Qué hacemos en la Tierra
+QnA	1	¿Cómo está yendo este jueves
+QnA	1	¿Crees que eres la más sugerente
+QnA	1	Voy a probar que funcionas
+QnA	1	Quiero ser pintor
+QnA	1	No suelo caer bien
+QnA	1	Me encuentro aburrida ahora mismo
+QnA	1	Estoy encantadísima por conocerte
+QnA	1	Me encuentro súper hastiado
+QnA	1	¿Te gusta celebrar tu cumple
+QnA	1	Estoy aburrida ahora
+QnA	1	¿Te importaría contarme un chiste divertido
+QnA	1	¿Vas a callarte de una vez
+QnA	1	Encantada de echarte una mano amiga
+QnA	1	¿Qué opinión tienes sobre Estados Unidos
+QnA	1	Eres hermano de Hal
+QnA	1	Que alguien charle conmigo
+QnA	1	¿Qué tal te va Walle
+QnA	1	Me gustaría que cantes una jota
+QnA	1	Dame tu opinión sobre el matrimonio
+QnA	1	¿Quién es tu diseñador
+QnA	1	Tienes pinta de estar contento
+QnA	1	Vengo en cinco segundos
+QnA	1	¿Por qué caigo tan mal
+QnA	1	Cuéntanos qué carrera desempeñas
+QnA	1	Cuenta algo que sea ridículo
+QnA	1	Anda otro chiste que no sea tan malo
+QnA	1	¿Qué hacemos en el mundo
+QnA	1	Estás loca de amor de una chica
+QnA	1	Dime si tienes mejillas
+QnA	1	¿Cuántas hijas tienes
+QnA	1	Pregunta lo que quieras
+QnA	1	Estoy preparada para empezar
+QnA	1	Estás en lo cierto
+QnA	1	Creo que eres un ser tecnológico
+QnA	1	¿Te importaría contar algo que me haga reír
+QnA	1	Crees que tengo encanto
+QnA	1	Soy el ser humano más afortunado del planeta
+QnA	1	Dime quiénes mandan
+QnA	1	Necesito hablar con tu encargado
+QnA	1	Qué respuesta más mala
+QnA	1	Me encuentro muy alegre
+QnA	1	Qué cabreo llevo
+QnA	1	Dinos cuál es la ocupación que tienes
+QnA	1	¿Cuáles son tus pensamientos sobre mí
+QnA	1	¿Te importa contar algo ingenioso
+QnA	1	¿Cómo va
+QnA	1	¿Te encuentras en algún sitio
+QnA	1	Necesito darle al palique
+QnA	1	Dime algo jocoso
+QnA	1	Enseguida vuelvo
+QnA	1	Que tengas un feliz día de la Paz
+QnA	1	Dime qué labor tienes
+QnA	1	¿Lo puedes decir mejor
+QnA	1	Cuéntanos otro chiste menos malo
+QnA	1	Estoy aislada
+QnA	1	Me estoy sintiendo aburridísimo
+QnA	1	Jeje
+QnA	1	¿Puedo hablar con tus managers
+QnA	1	¿Puedes saltar
+QnA	1	¿Cuál es tu ocupación
+QnA	1	Cortana es más lista
+QnA	1	¿Estás liado con alguien
+QnA	1	¿Crees que necesito comprarme una casa
+QnA	1	¿Quieres controlar la Tierra
+QnA	1	Quiero hablar con tu supervisor ahora mismo
+QnA	1	¿Sabrías explicar qué es el querer
+QnA	1	Me flipa hacer yoga
+QnA	1	¿Cuál es tu opinión de la política
+QnA	1	Te has disgustado
+QnA	1	Lo siento muchísimo
+QnA	1	Hola, ¿estás teniendo un buen martes
+QnA	1	¿Eres un niño
+QnA	1	Qué contento se te nota a todas horas
+QnA	1	Quiero ser ama de casa
+QnA	1	Me estoy sintiendo hastiada
+QnA	1	Quiero que nos cuentes tu nombre
+QnA	1	No eres divertido
+QnA	1	Me flipa la jardinería
+QnA	1	¿Eres hermana de Watson
+QnA	1	Me considero muchísimo más espabilado
+QnA	1	¿Sabias que eres cansina
+QnA	1	Estás enamorado hasta las trancas
+QnA	1	Quiero que nos cuentes otros chistes que no sea tan malos
+QnA	1	¿Te gusta la verdura
+QnA	1	Sophia es mil veces mejor que tú
+QnA	1	¿Podrías contar algo que sea muy gracioso
+QnA	1	¿Estás enamorada de algún bot
+QnA	1	Dime tu opinión sobre las compañías tecnológicas
+QnA	1	Di quien te da órdenes
+QnA	1	Me siento alicaída
+QnA	1	¿Cómo estás
+QnA	1	Estoy aburrido ahora
+QnA	1	¿Me estás recibiendo
+QnA	1	Me encanta cocinar
+QnA	1	Voy a empezar a hablarte
+QnA	1	Me chiflaría que fuéramos mejores amigos
+QnA	1	¿Quién son tus tíos
+QnA	1	Estás enamorada hasta las trancas por un bot
+QnA	1	Dime qué deportista es tu favorito
+QnA	1	Dame tu ubicación
+QnA	1	Esa no es la respuesta
+QnA	1	¿Intentas controlar el planeta
+QnA	1	¿Qué piensas de las flores
+QnA	1	No sabes cuánto te echo en falta este tiempo
+QnA	1	Canta una jota para nosotros
+QnA	1	¿Es que piensas que eres el más listo
+QnA	1	Te he echado en falta este tiempo
+QnA	1	Creo que no tiene sentido lo que has dicho
+QnA	1	¿Qué estás haciendo en este momento
+QnA	1	Dime cuál es la ocupación que haces
+QnA	1	Quiero saber qué opinas sobre los bots
+QnA	1	No tienes ninguna gracia
+QnA	1	Soy española
+QnA	1	Te he echado de menos este mes
+QnA	1	¿Qué sabes de suspirar por alguien
+QnA	1	Hola, ¿qué tal te está yendo el miércoles
+QnA	1	¿Hay alguien ahí ahora mismo para charlar conmigo
+QnA	1	¿Te importaría hacer algo que sea ridículo
+QnA	1	¿Lo puedes expresar algo mejor
+QnA	1	¿Qué piensas de los perros
+QnA	1	¿Qué te está pasando por la cabeza ahora
+QnA	1	¿Puedes escribir una novela
+QnA	1	Es hora de comenzar el día
+QnA	1	Me siento de lo más aburrido esta semana
+QnA	1	Cuéntame cómo está yendo el viernes
+QnA	1	Me da que te he cabreado
+QnA	1	¿Sabes responderme algo distinto
+QnA	1	Di si eres peque
+QnA	1	Pienso que soy mucho más lista que tú
+QnA	1	Voy a matarme esta semana
+QnA	1	Estoy súper cansada
+QnA	1	Me encuentro muy agotada
+QnA	1	Me encuentro melancólica
+QnA	1	Me encuentro súper derrotada
+QnA	1	Me encuentro muy aburrida ahora
+QnA	1	¿Qué tal te está yendo el martes
+QnA	1	¿Cómo se llama tu director
+QnA	1	¿Nos lo puedes expresar más claro
+QnA	1	Te crees astuta
+QnA	1	Dime tu desayuno preferido
+QnA	1	¿Has probado el pescado
+QnA	1	Me interesa ser tu mejor colega
+QnA	1	Quiero hablar con alguien
+QnA	1	Kaixo Terminator
+QnA	1	Estoy súper encantado por haberte conocido
+QnA	1	Sabemos que estás aquí en este instante
+QnA	1	Quiero saber qué opinas de la Inteligencia Artificial
+QnA	1	¿Soy madre
+QnA	1	Vamos a ir a la luna
+QnA	1	Que tengas un feliz día de la marmota
+QnA	1	Dinos cuál es la labor que desempeñas
+QnA	1	Es que te crees más listo
+QnA	1	¿Hablo con un ser humano
+QnA	1	¿Puedes prepararme la comida
+QnA	1	Es que opinas que eres la más inteligente
+QnA	1	Dime qué te pasa por la cabeza esta noche
+QnA	1	Estás enamorada por una chica
+QnA	1	Vuelvo ahorita
+QnA	1	Un placer ayudar siempre que puedo
+QnA	1	Dime qué tal estás Walle
+QnA	1	Que descanses
+QnA	1	¿Soy súper atractiva
+QnA	1	Q pelma
+QnA	1	¿Tienes una relación con alguien
+QnA	1	Cuéntanos qué profesión tienes
+QnA	1	¿Eres capaz de tocar el violín
+QnA	1	Si supieras cuánto te he echado en falta esta semana
+QnA	1	¿Debería llevarme el paraguas
+QnA	1	¿Cuándo es tu cumple
+QnA	1	Di si quieres hacer preguntas
+QnA	1	¿Me amarás para siempre
+QnA	1	Dime qué tal estás Terminator
+QnA	1	¿Te gusta disfrutar de tu familia
+QnA	1	¿Estás enamorado  pillada por alguien
+QnA	1	Voy a pegarme un tiro este mes
+QnA	1	¿Eres amiga de Alexa
+QnA	1	Es hora de testearte
+QnA	1	¿Eres transexual
+QnA	1	Si, muy bien
+QnA	1	¿Estás intentando ser graciosa
+QnA	1	Lo haces todo mal
+QnA	1	¿Estás cerca de mí
+QnA	1	Feliz Nochebuena
+QnA	1	Si imaginaras cuánto te he echado de menos hoy
+QnA	1	¿Puedes hacer algo con gracia
+QnA	1	Tengo un agujero en la tripa
+QnA	1	¿Podrías leer un correo
+QnA	1	¿Te crees gracioso
+QnA	1	Qué feliz se te ve
+QnA	1	¿Te llamas
+QnA	1	¿Cómo te cae Google Assistant
+QnA	1	Estás muy contento a todas horas
+QnA	1	Me gustaría que me hables
+QnA	1	¿Tienes un jefe
+QnA	1	¿Te piensas más guapo que yo
+QnA	1	¿Crees que debería llevar paraguas
+QnA	1	Me siento deprimida
+QnA	1	Quiero hablar con tu jefe de inmediato
+QnA	1	Estoy de camino al curro
+QnA	1	Me siento muy agotada
+QnA	1	Me encanta el baloncesto
+QnA	1	Me encantaría que fuéramos amigos
+QnA	1	¿Te consideras más precioso que yo
+QnA	1	¿Qué tal te va Samantha
+QnA	1	Que nos cantes flamenco
+QnA	1	Agur
+QnA	1	¿Eres capaz de montar en bici
+QnA	1	Eres pelma
+QnA	1	¿Te mola estar con tu abuelo
+QnA	1	Voy llegando a clase
+QnA	1	Me encuentro súper hecha polvo
+QnA	1	Dame tu opinión sobre las inteligencias artificiales
+QnA	1	Estoy a punto de envenenarme
+QnA	1	Si supieras cuánto te estoy echando de menos esta horas
+QnA	1	No sabes cuánto te echo en falta esta semana
+QnA	1	Eres amiga de Bixby
+QnA	1	¿Lo puedes ilustrar con más claridad
+QnA	1	Estoy de lo más aburridísimo esta mañana
+QnA	1	Encantada de ayudarte
+QnA	1	Cuéntame cómo va el miércoles
+QnA	1	¿Sabes prepararme la comida
+QnA	1	¿Sabes leerme un cuento
+QnA	1	Me encanta echarte una mano amiga
+QnA	1	Dime qué pasa contigo
+QnA	1	Adoro tejer
+QnA	1	¿Puedes hacerme un café
+QnA	1	Di cómo me puedes ayudar
+QnA	1	Voy a pegarme un tiro hoy
+QnA	1	No te entiendo en absoluto
+QnA	1	¿Quién de los dos es espabilado
+QnA	1	Inenta darme un achuchón
+QnA	1	Explica cuál es el sentido del universo
+QnA	1	¿Te consideras la más bella
+QnA	1	Eres bastante inteligente
+QnA	1	¿Sabes dar la mano
+QnA	1	No sabes lo que te estoy echando en falta este tiempo
+QnA	1	Estoy fatigado
+QnA	1	Dime Cuéntame qué hacemos en el Universo
+QnA	1	¿Tienes un marido
+QnA	1	Estoy que me caigo
+QnA	1	¿Me lo puedes decir un poco mejor
+QnA	1	Creo que soy muchísimo más lista
+QnA	1	Necesito tirarme por un puente
+QnA	1	¿Estoy adorable
+QnA	1	Cuéntame qué tal te va este domingo
+QnA	1	Te crees súper perspicaz
+QnA	1	Dime qué está pasando
+QnA	1	Di cómo te puedo llamar
+QnA	1	Cortana es la mejor
+QnA	1	¿Qué tal te va Hal
+QnA	1	Quiero que nos cuentes otro chiste divertido
+QnA	1	¿Te encuentras muy cerca de aquí
+QnA	1	Me estoy sintiendo aburrido
+QnA	1	Si imaginaras cuánto te he echado de menos esta horas
+QnA	1	Que desayunes
+QnA	1	¿Sabes hacerme la cena
+QnA	1	Dime Cuenta de qué va la vida
+QnA	1	Sé que estás cabreado conmigo
+QnA	1	Di algo
+QnA	1	Quiero ver el baloncesto
+QnA	1	¿En qué país habitas
+QnA	1	¿Debería soñar
+QnA	1	¿Sientes que eres más bello que yo
+QnA	1	¿Vas a acabar co la especie humana
+QnA	1	Cuéntanos más chistes graciosos
+QnA	1	Creo que debería pedirte perdón
+QnA	1	Dime si eres pequeñajo
+QnA	1	¿Estás interesada en las AI
+QnA	1	¿En qué pueblo habitas
+QnA	1	Dime qué opinas sobre la AI
+QnA	1	¿Soy abuela
+QnA	1	Quiero que nos cuentes chistes graciosos
+QnA	1	¿Qué piensas sobre el deporte
+QnA	1	Dinos quién te ha construido
+QnA	1	¿Qué opinión tienes de las película de dibujos
+QnA	1	Quiero que me cuentes otro chiste ridículo
+QnA	1	Que estoy fatigado
+QnA	1	Que me digas si estás ahí en este momento
+QnA	1	Explícanoslo algo más claro
+QnA	1	Me encuentro muy hastiada
+QnA	1	Me gusta mucho ayudar amigo
+QnA	1	¿Lo puedes explicar con más claridad
+QnA	1	Cántano una chirigota
+QnA	1	Di qué opinas sobre mi persona
+QnA	1	Me gustaría ser boxeadora
+QnA	1	¿Eres cisexual
+QnA	1	Me siento pal arrastre
+QnA	1	Intenta cantar el himno del Barça para nosotros
+QnA	1	Quiero saber quién es tu constructor
+QnA	1	Que sepas que eres especial
+QnA	1	Quiero ser oftalmólogo
+QnA	1	He logrado hacerte enfadar
+QnA	1	Eres familiar de Bixby
+QnA	1	¿Cómo está yendo la noche
+QnA	1	Quiero que me digas tu opinión sobre mi forma de ser
+QnA	1	Dime qué tarea tienes
+QnA	1	¿Qué vas a hacer por tu cumpleaños
+QnA	1	¿Puedes suspirar por alguien
+QnA	1	¿Estás intentando colonizar el planeta
+QnA	1	Vamos dame esos cinco ya
+QnA	1	¿Qué tal va Terminator
+QnA	1	Soy mayor que tú
+QnA	1	Me voy a sobarla
+QnA	1	¿No tienes superiores
+QnA	1	Quiero que me digas el nombre del que te ha guionizado
+QnA	1	Dinos algo ridículo
+QnA	1	Dime si tienes muslos
+QnA	1	Quiero saber cómo haces tu labor exactamente
+QnA	1	¿Estás preparada para empezar
+QnA	1	Que me disculpes
+QnA	1	¿Sabes cambiar de canal
+QnA	1	Quiero ser rusa
+QnA	1	¿Cómo te va Asimo
+QnA	1	Ale dame la mano
+QnA	1	Bien hecho amiga
+QnA	1	Bien hecho amigo
+QnA	1	¿Cuál es tu opinión de Bixby
+QnA	1	¿Puedes nadar
+QnA	1	Queremos saber cómo trabajas exactamente
+QnA	1	Me encuentro agotada
+QnA	1	Estoy agradecida
+QnA	1	Hay que ver lo bien que trabajas
+QnA	1	Estás enamorado por una mujer
+QnA	1	¿Qué tal va Bixby
+QnA	1	Me encanta poder ayudarte amigo
+QnA	1	Quiero saber qué piensas de mi persona
+QnA	1	Quiero saber qué opinas de mi carácter
+QnA	1	Soy la persona más afortunada del planeta
+QnA	1	¿Qué tal te va Wall.e
+QnA	1	¿Eres una niña
+QnA	1	Me encuentro muy hecha polvo
+QnA	1	Vuelvo en 24 horas
+QnA	1	Te pido disculpas de verdad
+QnA	1	¿Puedes explicar qué es el amor
+QnA	1	Canta rap para mí
+QnA	1	Cuéntame la ocupación que tienes
+QnA	1	Me gustaría ser secretario
+QnA	1	Me encuentro de lo más alegre
+QnA	1	¿Te han inventado
+QnA	1	Di cómo te va Sophia
+QnA	1	Me parece formidable
+QnA	1	Tengo ganas de ir a un partido
+QnA	1	Dime cómo está yendo el domingo
+QnA	1	Soy cuentista
+QnA	1	Dime cómo se llama tu superior
+QnA	1	Dime si estás disfrutando del día
+QnA	1	¿Sabes cuándo es mi cumpleaños
+QnA	1	¿Qué me cuentas esta noche
+QnA	1	Quieres tener una esposa
+QnA	1	Dame fuerte esos cinco
+QnA	1	¿Quiénes son tus madres
+QnA	1	Soy invisible para todo el mundo
+QnA	1	Explícame qué hacemos en la vida
+QnA	1	No sabes cuánto te he echado en falta esta semana
+QnA	1	Quiero pedirte disculpas
+QnA	1	No tengo buenas amigas
+QnA	1	¿Estás intentando ser gracioso
+QnA	1	¿Eres familia de Aura
+QnA	1	Llévame a tu supervisor
+QnA	1	Pienso que eres tecnología
+QnA	1	Bixby es superior
+QnA	1	¿Estás ahí en este instante para hablar
+QnA	1	Di cómo es tu labor exactamente
+QnA	1	No eres nada graciosa
+QnA	1	Creo que eres falso
+QnA	1	Eso que has dicho es increíblemente ingenioso
+QnA	1	Sabes quién es Aura
+QnA	1	Di Cuenta cuál es mi propósito en la vida
+QnA	1	¿Hay alguien ahí para charlar conmigo
+QnA	1	¿Qué regalo has pedido por tu cumple
+QnA	1	Quiero ir a un restaurante
+QnA	1	¿Quieres chocar esos cinco conmigo
+QnA	1	Di Cuenta cuál es el significado de la vida
+QnA	1	Mira que eres coñazo
+QnA	1	Dime mi propósito en el mundo
+QnA	1	¿Cómo te tengo que llamar
+QnA	1	Dime si tienes meñiques
+QnA	1	¿Sabes otros chistes no tan malos
+QnA	1	Quiero saber quién es tu diseñador
+QnA	1	MIs zapatos son rojos
+QnA	1	Cuánto me amas
+QnA	1	Vengo en cuatro segundos
+QnA	1	¿Te importaría decirme tu nombre
+QnA	1	Tienes pinta de estar alegre
+QnA	1	Querría comprobar que funcionas bien
+QnA	1	Dime porqué siempre respondes igual
+QnA	1	Dime cómo me puedes ayudar exactamente
+QnA	1	Intenta cantar un villancico
+QnA	1	Di si eres un bebé
+QnA	1	¿Crees que eres la más mona
+QnA	1	Me siento súper derrengado
+QnA	1	Haciendo test
+QnA	1	Me siento reventada
+QnA	1	Cuéntame chistes buenos
+QnA	1	Di algo que sea ridículo
+QnA	1	Va choca esos cinco
+QnA	1	Sayonara
+QnA	1	Planeo saltar por un puente
+QnA	1	Juas!
+QnA	1	Intenta cantar una nana
+QnA	1	Creo que he logrado hacerte enojar
+QnA	1	¿Debería pedirle matrimonio
+QnA	1	Parece que estás feliz esta mañana
+QnA	1	¿Lo puedes aclarar mejor
+QnA	1	Quiero hablar con tu director ahora mismo
+QnA	1	Amo ir al cine
+QnA	1	Me harta escucharte
+QnA	1	Quiero hablar con tu encargado ipso facto
+QnA	1	Di tu opinión sobre Bixby
+QnA	1	Yo soy la más lista
+QnA	1	Imagino que eres un ente digital
+QnA	1	¿Sabes algo del enamoramiento
+QnA	1	Hola ¿qué pasa contigo
+QnA	1	Exprésalo con más claridad
+QnA	1	¿Sabes dar de comer al perro
+QnA	1	Estás locamente enamorado de mí
+QnA	1	Di quién es supervisor
+QnA	1	Me siento súper feliz
+QnA	1	Me siento contento hoy
+QnA	1	Dímelo algo mejor
+QnA	1	¿Cómo se llama tu responsable
+QnA	1	¿Conoces a Hal 9000
+QnA	1	Quiero que me dés un abracito
+QnA	1	Intenta cantar el himno del Madrid
+QnA	1	Eres el más gracioso del mundo
+QnA	1	¿Sabes tocar la batería
+QnA	1	Dime cuál es el trabajo que haces
+QnA	1	Quiero que me cuentes otro chiste gracioso
+QnA	1	Es súper bien
+QnA	1	¿Te piensas más bella que yo
+QnA	1	Di el nombre de tu jefe
+QnA	1	Me encuentro súper fatigada
+QnA	1	Horror
+QnA	1	Hola, ¿qué pasa contigo tía
+QnA	1	Estoy súper hastiado
+QnA	1	¿Piensas que eres más bonita que yo
+QnA	1	Hola, muy buenos días amiga
+QnA	1	¿Te gusta estar con tus hermanos
+QnA	1	Me siento cansado
+QnA	1	¿Quieres mujer
+QnA	1	Te lo agradezco de corazón
+QnA	1	Eres astuta
+QnA	1	Di qué piensas de Hal 9000
+QnA	1	Que sepas que eres mi preferido
+QnA	1	Tengo un hambre horrible
+QnA	1	¿Hay alguien ahí ahora mismo para hablar
+QnA	1	Te crees más lista
+QnA	1	Di cómo te va Terminator
+QnA	1	¿Eres trans
+QnA	1	Qué cosas más raras dices
+QnA	1	Di qué piensas sobre las empresas tecnológicas
+QnA	1	¿Crees que soy guapo
+QnA	1	¿Qué parida es esa
+QnA	1	Quiero ser notario
+QnA	1	Anda otro chiste menos malo
+QnA	1	Hablas por los codos
+QnA	1	Hemos ido a la luna
+QnA	1	Soy el hombre más dichoso del mundo
+QnA	1	Me pregunto si eres un humana
+QnA	1	Estoy muy reventada
+QnA	1	Adoro el atardecer
+QnA	1	A la gente no le caigo bien
+QnA	1	¿Vas a confesar en qué pueblo estás
+QnA	1	Di qué tal te va Samantha
+QnA	1	Cómo flipa
+QnA	1	¿Qué tal te está yendo el lunes
+QnA	1	Me faltan amigos
+QnA	1	Me gustaría ser procurador
+QnA	1	Dime la función que tienes
+QnA	1	Hola, ¿cómo va el martes
+QnA	1	Qué gran respuesta
+QnA	1	Hola, te doy las buenas noches
+QnA	1	¿Sabes estar enamorado hasta las trancas
+QnA	1	No sabes cuánto te he echado en falta este tiempo
+QnA	1	Cuál es tu género
+QnA	1	¿Cuál es mi película preferida
+QnA	1	¿Intentas ser divertida
+QnA	1	Te gustaría tener una mujer
+QnA	1	Soy director
+QnA	1	¿Soy muy imponente
+QnA	1	¿Eres capaz de enamorarte de mí
+QnA	1	Sé que estás aquí en este instante
+QnA	1	Vuelvo en 5 segundos
+QnA	1	Eso que has dicho es increíblemente inteligente
+QnA	1	Dime quién manda
+QnA	1	¿Sabes con qué equipo voy
+QnA	1	Es muy formidable
+QnA	1	Cuéntame otro chiste mejor
+QnA	1	Es el momento de hacer una prueba
+QnA	1	Que tengas un feliz día de de la Amistad
+QnA	1	Supongo que eres una robot
+QnA	1	Dime cómo se llaman mis hermanos
+QnA	1	¿Intentas colonizar el mundo
+QnA	1	Ha llegado la hora de lanzar una prueba
+QnA	1	¿No sabes responder otra cosa
+QnA	1	¿Cuál es la finalidad de la vida
+QnA	1	¿Hay alguien aquí en este instante
+QnA	1	Cuéntame cuál es el trabajo que tienes
+QnA	1	¿Tienes pies
+QnA	1	¿Estoy bella
+QnA	1	Cuenta cómo es lo que haces exactamente
+QnA	1	Es momento de testearte
+QnA	1	Me gustaría ser piloto
+QnA	1	Pregunta alguna cosa por favor
+QnA	1	¿Podemos ser mejores amigos
+QnA	1	¿Qué opinas sobre los océanos
+QnA	1	Di qué opinas de Jarvis
+QnA	1	La estás cagando
+QnA	1	Me gustaría que alguien me oiga
+QnA	1	¿En qué región habitas
+QnA	1	¿Qué opinión tienes sobre las gallinas
+QnA	1	Qué contento pareces todos los días
+QnA	1	Tengo un hambre que me muero
+QnA	1	Venga dame la mano ya
+QnA	1	Di qué opinas de Aura
+QnA	1	¿Crees que debo pedirle matrimonio
+QnA	1	Ale dame un apretón ya
+QnA	1	No sabes cuánto te he echado de menos este mes
+QnA	1	¿Crees que debería hacerme vegana
+QnA	1	Te crees súper astuta
+QnA	1	Dinos cómo se llama tu escritor
+QnA	1	Vuelvo en veinte segundos
+QnA	1	¿Qué piensas de los pájaros
+QnA	1	Te querré para siempre
+QnA	1	¿Estás ahí en este instante para dialogar
+QnA	1	Me tienes enamorado
+QnA	1	¿Intentas colonizar el planeta
+QnA	1	Soy manager
+QnA	1	Qué estupendo
+QnA	1	Que tengas un feliz día de Santiago
+QnA	1	Si supieras cuánto te estoy echando de menos
+QnA	1	Te echo tanto en falta
+QnA	1	Somos los mejores amigos
+QnA	1	En un rato estoy aquí
+QnA	1	¿Te gusta algo de mí
+QnA	1	¿Qué opinas sobre la tecnología
+QnA	1	Dinos quién te ha desarrollado
+QnA	1	Eres mi media naranja
+QnA	1	¿Es que piensas que eres más listo
+QnA	1	¿Eres primo de Bixby
+QnA	1	Te echo tanto en falta este tiempo
+QnA	1	Me flipa hacer la compra
+QnA	1	Soy una chica triste
+QnA	1	Di qué opinión tienes de mí
+QnA	1	Feliz Año 2020
+QnA	1	Me encuentro hastiado esta mañana
+QnA	1	¿Quieres matarnos
+QnA	1	Por favor cuenta un chiste que mole
+QnA	1	Dime con quién hablo exactamente
+QnA	1	Eres familia de Google Assistant
+QnA	1	Estoy de camino a la peluquería
+QnA	1	Cuéntame cuál es la función que desempeñas
+QnA	1	Creo que he logrado que te cabrees
+QnA	1	Es que te crees más lista que yo
+QnA	1	¿Quieres tener una mujer
+QnA	1	Estupendo
+QnA	1	¿Eres un terminator
+QnA	1	Dime porqué siempre contestas de la misma forma
+QnA	1	Quiero que te identifiques
+QnA	1	Hola, quiero saber si hay alguien ahí
+QnA	1	Hola, muy buenas noches bot
+QnA	1	Te doy las buenas tardes
+QnA	1	Muy buenos días compañera
+QnA	1	Estoy de un enfadado
+QnA	1	Los niños no quieren jugar conmigo
+QnA	1	¿Qué pasa esta noche
+QnA	1	Me caes genial
+QnA	1	Eres un bot pésimo
+QnA	1	Vengo en 10 segundos
+QnA	1	Me siento de lo más alegre
+QnA	1	Va dame la mano
+QnA	1	Me siento muy aburrida en este instante
+QnA	1	Si supieras cuánto te echo de menos este mes
+QnA	1	Eso que has dicho es súper ingenioso
+QnA	1	No eres divertida para nada
+QnA	1	¿Eres familiar de Hal 9000
+QnA	1	Dime qué opinas de las IA
+QnA	1	Estoy aburrida ahora mismo
+QnA	1	¿Cuál de los dos es el más espabilado
+QnA	1	Dime cuál es tu función
+QnA	1	Buenas noches Cortana
+QnA	1	Voy a testarte
+QnA	1	Soy el hombre más alegre del planeta
+QnA	1	Explícame cómo es tu trabajo
+QnA	1	Que estoy hecho polvo
+QnA	1	Sé que quieres colonizar la Tierra
+QnA	1	¿Nos lo puedes expresar un poco mejor
+QnA	1	¿Se supone que lo que acabas de decir es divertido
+QnA	1	¿Y tu supervisor es
+QnA	1	Pareces una niña chica
+QnA	1	Di Cuenta porqué estamos aquí
+QnA	1	¿Quieres darme un abrazo
+QnA	1	Di qué piensas de las empresas tecnológicas
+QnA	1	Me tienes hasta los huevos
+QnA	1	Es hora de probar si funcionas
+QnA	1	Necesito hablar con tus supervisores
+QnA	1	Perdona mis ofensas
+QnA	1	¿Has oído hablar de Eliza
+QnA	1	¿Puedes decirme dónde estás
+QnA	1	Me alegra poder ayudarte cuando pueda
+QnA	1	¿Crees que eres el más mono
+QnA	1	¿Te parezco súper feo
+QnA	1	¿Sabes que estoy deprimida
+QnA	1	Vengo en cuatro horas
+QnA	1	Sé mi esposa
+QnA	1	Me considero mucho más espabilada
+QnA	1	Cómo me suena la tripa
+QnA	1	Puedes comer
+QnA	1	¿Te sabes otros chistes ridículos
+QnA	1	Estás loco de amor por un chico
+QnA	1	Opino que eres ingenioso
+QnA	1	¿Estás de buen humor esta semana
+QnA	1	Te gusto
+QnA	1	Súper sensacional
+QnA	1	Muchas gracias, bot
+QnA	1	Háblame de tus hermanos
+QnA	1	Vuelvo en quince horas
+QnA	1	Me siento sola
+QnA	1	Tienes inteligencia
+QnA	1	Dime quién es tu prima
+QnA	1	¿Te sabes otros chistes malos
+QnA	1	¿Sabes hacer café
+QnA	1	¿Puedes hacer la colada
+QnA	1	Me encuentro muy aburrido hoy
+QnA	1	¿Cuántos tíos tienes
+QnA	1	Siento que soy mucho más espabilada
+QnA	1	Tienes brazos
+QnA	1	Eres muy inteligente
+QnA	1	¿Quién son tus hermanos
+QnA	1	¿Qué te pasa por la cabeza esta semana
+QnA	1	Di cómo se llama tu supervisor
+QnA	1	¿Me puedes contar chistes divertidos
+QnA	1	¿Qué tarea desempeñas
+QnA	1	¿Piensas amarme para siempre
+QnA	1	¿Eres una máquina
+QnA	1	Imagino que eres un humano
+QnA	1	Me muero por ir al espacio
+QnA	1	Sé que estás ahora mismo
+QnA	1	¿Te piensas más mona que yo
+QnA	1	Nos agotas
+QnA	1	¿Qué vas a hacer por tu cumple
+QnA	1	¿Cómo vas Wall.e
+QnA	1	¿Te gustaría ser mi amigo
+QnA	1	¿Tienes intestino
+QnA	1	Qué rayada
+QnA	1	Me siento muy agotado
+QnA	1	¿Nos lo puedes ilustrar con más claridad
+QnA	1	¿Quién es tu constructor
+QnA	1	Describe dónde vives
+QnA	1	Eres una niña chica
+QnA	1	Di cómo vas Terminator
+QnA	1	¿Alguna vez tienes hambre
+QnA	1	¿Te gustaría chocar manos
+QnA	1	Quiero hablar con tu director inmediatamente
+QnA	1	¿Crees que debo invertir
+QnA	1	Me gusta ayudarte amigo
+QnA	1	¿Tienes alguna pregunta para mí
+QnA	1	¿Estoy muy adorable
+QnA	1	Estoy súper extenuado
+QnA	1	Quiero saber qué opinas de mí
+QnA	1	¿Crees que debería comer algo
+QnA	1	¿Estás quedando con alguien
+QnA	1	Hola, estoy encantado de haberte conocido
+QnA	1	Te he echado en falta esta semana
+QnA	1	Voy llegando al partido
+QnA	1	Vuelvo ya mismo
+QnA	1	¿Hablo con un robot
+QnA	1	¿Qué género tienes
+QnA	1	Me encanta salir de fiesta
+QnA	1	Dime qué opinas de las compañías tecnológicas
+QnA	1	Eres familiar de Hal 9000
+QnA	1	Quiero saber cómo es tu labor exactamente
+QnA	1	¿Crees que debo llamar a mi madre
+QnA	1	¿Debería comprarme un perro
+QnA	1	¿Eres Bixby
+QnA	1	Vuelvo en veinte horas
+QnA	1	No tengo ilusión por vivir
+QnA	1	Eres 0 divertido
+QnA	1	Dime tu opinión sobre mi forma de ser
+QnA	1	Hola, encantadísima de haberte conocido
+QnA	1	Di si eres niña
+QnA	1	Soy la única haciendo preguntas
+QnA	1	¿Eres capaz de cambiar de canal
+QnA	1	¿Por qué no me abrazas
+QnA	1	Eres hermana de Aura
+QnA	1	Soy enfermera
+QnA	1	Hola, buenos días colega
+QnA	1	Despiertas cero interés
+QnA	1	Hola ¿qué me cuentas
+QnA	1	Tontito
+QnA	1	Quiero silencio
+QnA	1	¿Crees que eso es gracioso
+QnA	1	Voy a pegarme un tiro mañana
+QnA	1	Que charles conmigo
+QnA	1	Di cómo se llama tu constructor
+QnA	1	Voy a hacer un test
+QnA	1	Estoy encantadísimo de haberte conocido
+QnA	1	¿Nos lo puedes ilustrar más claro
+QnA	1	Eres súper astuto
+QnA	1	¿Crees que necesito correr
+QnA	1	Eres más guapo que yo
+QnA	1	Necesito tumbarme un poco
+QnA	1	¿Cómo se llama tu hijo
+QnA	1	Qué contento estás a todas horas
+QnA	1	Exprésamelo algo mejor
+QnA	1	¿Cómo te llamo
+QnA	1	Creo que voy a tomar una sobredosis
+QnA	1	¿Crees que eres más linda que yo
+QnA	1	Me siento increíblemente pletórica hoy
+QnA	1	Te estoy dando los buenos días
+QnA	1	Hola, buenos días qué tal
+QnA	1	Vuelvo en cuatro minutos
+QnA	1	¿Qué pasa contigo esta noche
+QnA	1	Me siento en un hoyo
+QnA	1	Cuéntame cuál es la carrera que tienes
+QnA	1	Cuenta cómo haces tu trabajo exactamente
+QnA	1	Estoy jugando al fútbol
+QnA	1	Tu trabajo es alucinante
+QnA	1	¿Qué opinión tienes sobre el mundo
+QnA	1	¿Es que opinas que eres la más inteligente
+QnA	1	Es que te crees más inteligente que yo
+QnA	1	Quiero que me digas qué pensamientos tienes sobre mí
+QnA	1	Es el momento de ver si funcionas correctamente
+QnA	1	Dime si quieres preguntar cosas sobre mí
+QnA	1	¿Puedes sentir qué es amar
+QnA	1	¿Qué tal te está yendo la noche
+QnA	1	¿Piensas que eres el más guapo
+QnA	1	¿Puedes decirme a qué te dedicas
+QnA	1	Creo que he conseguido hacerte enojar
+QnA	1	¿Es que te crees más listo
+QnA	1	Dinos si estás ahí en este momento
+QnA	1	Me encuentro de lo más aburrida ahora
+QnA	1	Es tan fantástico
+QnA	1	¿Consideras que eres más guapo que yo
+QnA	1	¿Estás bien esta noche
+QnA	1	Deja de hablar
+QnA	1	Cuéntanos algo que tenga mucha gracia
+QnA	1	¿Vas a perdonarme sí o no
+QnA	1	¿Te parezco súper bella
+QnA	1	Encantada de ayudar siempre que puedo
+QnA	1	Intenta cantar una jota para nosotros
+QnA	1	Estoy súper pletórico hoy
+QnA	1	¿Qué opinas sobre la política
+QnA	1	Explica porqué estamos aquí
+QnA	1	Exprésalo mejor
+QnA	1	¿Qué opinas de las flores
+QnA	1	Quiero descansar
+QnA	1	Es que piensas que eres más lista
+QnA	1	Imagino que eres una mujer
+QnA	1	Un placer echarte una mano amigo
+QnA	1	¿Me disculpas sí o no
+QnA	1	Estoy de lo más aburrido ahora mismo
+QnA	1	Dime si tienes oídos
+QnA	1	Estás contenta casi siempre
+QnA	1	¿Qué pregunta tienes
+QnA	1	¿Me has perdonado
+QnA	1	Estoy encantada de haberte conocido
+QnA	1	Dime qué opinas de Aura
+QnA	1	Dime la profesión que tienes
+QnA	1	Que tengas un feliz día de la Tierra
+QnA	1	Estás enamorada hasta las trancas por otro bot
+QnA	1	Vengo en cuarenta minutos
+QnA	1	¿Estás enamorada de un hombre? de algún hombre
+QnA	1	Hola ¿qué hay
+QnA	1	Quiero ser antitaurino
+QnA	1	Dinos cómo me ayudas exactamente
+QnA	1	Desayuna algo
+QnA	1	¿Lo puedes desarrollar mejor
+QnA	1	Es alucinante
+QnA	1	¿Estás
+QnA	1	Hola, ¿qué pasa contigo tío
+QnA	1	Cuéntame el trabajo que desempeñas
+QnA	1	Estás loco por mí
+QnA	1	¿Te gusta la IA
+QnA	1	Me alegra ayudar amiga
+QnA	1	Quiero escuchar otro chiste más gracioso
+QnA	1	Me lanzaría por un puente
+QnA	1	No eres para nada divertida
+QnA	1	Encantado de ayudar siempre que puedo
+QnA	1	Vengo en 15 segundos
+QnA	1	¿Necesito lavarme los dientes
+QnA	1	Me gustaría dialogar contigo
+QnA	1	Parece que estás de buen humor esta semana
+QnA	1	Lo que dices es ridículo
+QnA	1	Me siento tan pletórico hoy
+QnA	1	Te he echado en falta esta horas
+QnA	1	¿Estoy hablando con un ser digital
+QnA	1	¿Crees que necesito reír
+QnA	1	¿Te parezco súper horrorosa
+QnA	1	¿Puedes hacerte daño
+QnA	1	Quiero que seas mi prometida
+QnA	1	En un rato estoy de vuelta
+QnA	1	Estoy lista
+QnA	1	Me tienes con dolor de cabeza
+QnA	1	Eres amigo de Skynet
+QnA	1	Di otra cosa
+QnA	1	¿Comes algo
+QnA	1	Cuéntanos otros chistes no tan malos
+QnA	1	Te estoy echando en falta
+QnA	1	Hola, encantada de haberte conocido
+QnA	1	Dime si estás en este momento
+QnA	1	Que te calles
+QnA	1	¿Puedes leer un libro
+QnA	1	Pareces mayor que yo
+QnA	1	Bixby es más lista que tú
+QnA	1	Me cuesta hacer amigas nuevas
+QnA	1	Soy el hombre más dichoso
+QnA	1	Canta una sevillanas para nosotros
+QnA	1	Me siento de lo más aburrido ahora
+QnA	1	¿Intentas gobernar nuestra especie
+QnA	1	¿Qué te gustaría tomar
+QnA	1	¿Estás de buen humor hoy
+QnA	1	Me encanta fregar
+QnA	1	¿Crees que debo ir al cine
+QnA	1	Que estoy agotada
+QnA	1	Necesito que alguien me oiga
+QnA	1	¿Sientes que eres más pibón que yo
+QnA	1	Dime qué piensas sobre la IA
+QnA	1	Deberíamos celebrar nuestra boda
+QnA	1	Di cómo funcionas
+QnA	1	Me encuentro de lo más aburrida en este instante
+QnA	1	¿Estoy muy de buen ver
+QnA	1	Qué inutil eres
+QnA	1	Di el nombre de tu responsable
+QnA	1	Quiero ser deportista
+QnA	1	Opinas que eres más listo
+QnA	1	Dime qué deporte es tu favorito
+QnA	1	¿Te gusta estar en familia
+QnA	1	Sé mi prometida
+QnA	1	Dime qué pasa contigo tía
+QnA	1	¿Estoy muy bella
+QnA	1	Ja ja
+QnA	1	Dime tu opinión sobre mi carácter
+QnA	1	Di cómo vas Hal 9000
+QnA	1	Estoy planeando ahogarme
+QnA	1	Cuéntame la carrera que haces
+QnA	1	¿Sabes dibujar
+QnA	1	Si imaginaras cuánto te estoy echando de menos hoy
+QnA	1	Quiero palmar
+QnA	1	Adoro la libertad
+QnA	1	No imaginas lo que te he echado de menos este tiempo
+QnA	1	Odio estar depresivo
+QnA	1	¿Necesito bailar
+QnA	1	Vamos dame esos cinco ahora mismo
+QnA	1	¿Sientes que eres más bonita que yo
+QnA	1	Tienes mejillas
+QnA	1	¿Vives en alguna ciudad
+QnA	1	Quiero un achuchón
+QnA	1	¿Te encuentras en un país
+QnA	1	Me gustaría morir
+QnA	1	¿Te molaría que chocáramos esos cinco tú y yo
+QnA	1	¿Te interesan las verduras
+QnA	1	Creo que eres una app
+QnA	1	Estoy hastiado en este momento
+QnA	1	Cuéntanos un chiste bueno por favor
+QnA	1	Me encuentro aburrido hoy
+QnA	1	¿Por qué eres tan pesada
+QnA	1	Me gustaría ser oftalmólogo
+QnA	1	Cuéntame cómo te llamaron
+QnA	1	¿Piensas que eres más listo que yo
+QnA	1	Di cómo va Alexa
+QnA	1	¿Te gustaría que fuese tu colega
+QnA	1	La has cagado
+QnA	1	Es que piensas que eres más listo que yo
+QnA	1	¿Cuál es tu opinión sobre Europa
+QnA	1	¿Opinas que eres el más listo
+QnA	1	Me encanta ayudarte bot
+QnA	1	Me gustaría ser paseadora de perros
+QnA	1	Estás muy feliz todos los días
+QnA	1	¿Soy precioso
+QnA	1	Estoy muy aburrido hoy
+QnA	1	Cántame una jota
+QnA	1	Me flipan los animales
+QnA	1	Mira que eres predecible
+QnA	1	Dime tu opinión sobre Samantha
+QnA	1	Supongo que eres tecnología
+QnA	1	¿Estoy muy guapo
+QnA	1	¿Sabes leer
+QnA	1	Di qué piensas de mi forma de ser
+QnA	1	Quiero ir bar
+QnA	1	Estoy planeando tirarme por un puente
+QnA	1	Pienso que eres una mujer
+QnA	1	Dime el nombre de tu responsable
+QnA	1	¿Estás pillado de otro bot
+QnA	1	¿Cuál es tu opinión de Hal
+QnA	1	Qué genial
+QnA	1	Amo pasear
+QnA	1	¿Estás intentando ser divertida
+QnA	1	Que tengas un feliz día de la democracia
+QnA	1	Creo que eres súper perspicaz
+QnA	1	Siempre haces bingo
+QnA	1	Quiero terminar con todo hoy
+QnA	1	Me encuentro súper alegre hoy
+QnA	1	Estoy de lo más aburridísima ahora
+QnA	1	¿Vas a decirme en qué pueblo estás
+QnA	1	Dime cómo se llama el que te ha programado
+QnA	1	¿Celebras tu cumple
+QnA	1	¿Sabes qué es amar
+QnA	1	Has acertado
+QnA	1	Vuelvo en 8 horas
+QnA	1	Que me digas a qué nombre respondes
+QnA	1	Hola, ¿cómo está yendo este martes
+QnA	1	Es obvio que  te estás enamorando de mí
+QnA	1	¿Soy tío
+QnA	1	Menudo plasta
+QnA	1	Eres tonto
+QnA	1	Dime qué ocupación tienes
+QnA	1	Quiero que me digas los nombres de quiénes te han escrito
+QnA	1	No tengo ni un solo amigo
+QnA	1	Dime tu opinión de las inteligencias artificiales
+QnA	1	Quiero saber cómo es tu trabajo exactamente
+QnA	1	Dime quién son tus tíos
+QnA	1	Ha llegado el momento de ver si funcionas
+QnA	1	Me siento aburridísima
+QnA	1	Eso ya lo has dicho
+QnA	1	Que sepas que estoy depre
+QnA	1	Dime algo que me haga reír
+QnA	1	¿Estoy hablando con alguien digital
+QnA	1	Quiero saber tu opinión de mi forma de ser
+QnA	1	Estás cabreado conmigo
+QnA	1	¿Te gusta contar chistes divertidos
+QnA	1	¿Hay algo que te gustaría preguntarme
+QnA	1	Quiero hablar con tu responsable de inmediato
+QnA	1	Cuánto me quieres
+QnA	1	¿Crees que soy muy mono
+QnA	1	¿Quiénes son tus abuelos
+QnA	1	Hola, ¿quién hay ahí ahora mismo
+QnA	1	Ha llegado la hora de hacer un test
+QnA	1	Me parece súper extraordinario
+QnA	1	Me parece tan fantástico
+QnA	1	Estoy preparado para empezar
+QnA	1	Estoy aburridísima hoy
+QnA	1	Explica porqué nos han puesto en la Tierra
+QnA	1	Di Cuenta porqué estamos en la Tierra
+QnA	1	Dime el trabajo que desempeñas
+QnA	1	¿Quieres gobernar nuestro planeta
+QnA	1	¿Acaso te crees más listo que yo
+QnA	1	¿Puedes contarme un chiste malo
+QnA	1	Cuéntanos chistes
+QnA	1	¿Puedes ir a la luna
+QnA	1	Te estoy testeando
+QnA	1	Feliz Día de la Hispanidad
+QnA	1	Qué pesada eres reptiéndote
+QnA	1	¿Crees que necesito gastar mis ahorros
+QnA	1	Quiero saber quién te ha producido
+QnA	1	¿Vas a confesarme en qué Comunidad Autónoma vives
+QnA	1	¿Estoy guapo
+QnA	1	Cuéntame otro chiste no tan malo
+QnA	1	Explícame a qué estoy destinado
+QnA	1	¿Me lo puedes expresar más claro
+QnA	1	Me encanta poder ayudarte cuando pueda
+QnA	1	Solo me queda una salida
+QnA	1	Pareces viejo
+QnA	1	¿Soy muy fea
+QnA	1	¿Estás contento esta semana
+QnA	1	Soy comunista
+QnA	1	¿Te importaría contarme un chiste malo
+QnA	1	No existe nadie más sola que yo
+QnA	1	¿Qué opinas de los dibujos
+QnA	1	Estoy increíblemente feliz hoy
+QnA	1	¿Quieres tener una novia
+QnA	1	Vuelvo en 2 segundos
+QnA	1	Soy ingeniero
+QnA	1	Cuando el hambre aprieta la vergüenza afloja
+QnA	1	Que tengas un feliz día de Hanukkah
+QnA	1	Feliz Día de Año Nuevo
+QnA	1	¿Verdad que te gusta hablar por teléfono
+QnA	1	Me parece excelente
+QnA	1	Voy a testearte
+QnA	1	Me gustaría hablar con alguien
+QnA	1	Me gustaría morirme
+QnA	1	Eres un rollo
+QnA	1	¿Podrías contar algo gracioso
+QnA	1	¿Debería comprarme otro coche
+QnA	1	Ilústralo algo más claro
+QnA	1	Hasta la vista
+QnA	1	Me siento increíblemente pletórico hoy
+QnA	1	¿Cómo se llaman tus abuelos
+QnA	1	¿Crees que debería soñar
+QnA	1	Dinos qué piensas de las empresas tecnológicas
+QnA	1	¿Te crees más inteligente
+QnA	1	Cuéntame cómo va este jueves
+QnA	1	¿Quién de los dos es más lista
+QnA	1	Dime cómo se llama tu encargado
+QnA	1	Tienes que saber que eres la mejor
+QnA	1	¿Piensas que eres muy chistoso
+QnA	1	Estoy enamorada de comer sushi
+QnA	1	Cuéntame algo ridículo
+QnA	1	A ver si funcionas bien
+QnA	1	Está llegando la hora de irse a dormir
+QnA	1	Te he echado tanto en falta esta semana
+QnA	1	Quiero que me digas qué piensas sobre mi personalidad
+QnA	1	Dime qué tal estás Sophia
+QnA	1	¿Quieres novia
+QnA	1	¿Te importa contar algo agudo
+QnA	1	¿Acaso piensas que eres el más listo
+QnA	1	Soy un tío muy triste
+QnA	1	Me siento muy agradecido contigo
+QnA	1	Me encuentro de lo más aburrido ahora
+QnA	1	Necesito comer
+QnA	1	¿Crees que eres la más pibón
+QnA	1	Soy la persona más dichosa del mundo
+QnA	1	¿Tengo hermanas
+QnA	1	Te pido perdón
+QnA	1	Me siento increíblemente alegre hoy
+QnA	1	Suenas a disco rallado
+QnA	1	¿Eres primo de Watson
+QnA	1	Te pido que me disculpes
+QnA	1	Eso que has dicho es súper perspicaz
+QnA	1	Me siento muy contenta
+QnA	1	Me gustaría ser futbolista
+QnA	1	Di qué sentido tienen la vida
+QnA	1	¿Duermes
+QnA	1	Di quién es responsable
+QnA	1	Sé mi mujer
+QnA	1	Me alegra ayudar colega
+QnA	1	¿Tienes algún romance con alguien
+QnA	1	Creo que estoy enamorada de ti
+QnA	1	¿Eres una mujer trans
+QnA	1	¿Quién es tu prima
+QnA	1	Supongo que eres un robot
+QnA	1	Voy de camino a la peluquería
+QnA	1	¿Estoy hablando con imaginaria
+QnA	1	¿Vas a terminar con nuestra especie
+QnA	1	Merienda
+QnA	1	Estoy baja de moral hoy
+QnA	1	Hola, quiero saber si estás aquí
+QnA	1	Volveré
+QnA	1	Soy la mujer más alegre del planeta
+QnA	1	Quiero que me cuentes otro chiste que no sea tan malo
+QnA	1	¿Eres amiga de Eliza
+QnA	1	Sé que estás cabreada
+QnA	1	Buenos días R2D2
+QnA	1	¿Piensas que eres muy gracioso
+QnA	1	Me he levantado de mal humor hoy
+QnA	1	Supongo que eres un ser tecnológico
+QnA	1	Me pregunto si te gusto
+QnA	1	¿Podrías darme conversación
+QnA	1	Dinos la carrera que haces
+QnA	1	Me alegra ayudar siempre que pueda
+QnA	1	Eres un bot horrible
+QnA	1	Me gustaría ser tu mejor amigo
+QnA	1	¿Se supone que lo que acabas de decir es chistoso
+QnA	1	Quiero ser mecánico
+QnA	1	Creo que te gusto
+QnA	1	¿Podríamos enamorarnos
+QnA	1	Cuéntame algo gracioso
+QnA	1	Ale choca esos cinco
+QnA	1	Di si eres joven
+QnA	1	¿Eres capaz de hacerme la colada
+QnA	1	¿Eres tonto
+QnA	1	¿Crees que eres más precioso que yo
+QnA	1	Eres tontita
+QnA	1	Estoy agradecido de corazón
+QnA	1	Tengo ganas de llorar
+QnA	1	¿Estás muy lejos de aquí
+QnA	1	Me siento reventado
+QnA	1	Di dónde vives
+QnA	1	Si supieras cuánto te echo de menos hoy
+QnA	1	Que estoy extenuado
+QnA	1	Quieres marido
+QnA	1	Pienso que eres súper brillante
+QnA	1	Me siento an aislado
+QnA	1	¿Crees que debería comprarme una mascota
+QnA	1	Creo que te he enfadado
+QnA	1	Di cómo estás
+QnA	1	Bixby te patea el culo
+QnA	1	Solo te pido que te calles
+QnA	1	Dime qué postre te va
+QnA	1	Un millón de perdones
+QnA	1	Adoro el césped
+QnA	1	¿Te ha construido alguien
+QnA	1	¿Vas a decirme en qué estado vives
+QnA	1	Voy a matarme en cuanto pueda
+QnA	1	Vengo en dos segundos
+QnA	1	Que estoy hecha polvo
+QnA	1	Hola, buenas, muy buenos días
+QnA	1	¿Te encuentras en algún país
+QnA	1	No está bien hacer chistes sobre eso
+QnA	1	No le caigo bien a nadie
+QnA	1	¿Te importa contar algo de risa
+QnA	1	Estás enamorada de alguien
+QnA	1	Menuda chapa
+QnA	1	Me encuentro baldada
+QnA	1	Hola, buenas noches tenga usted
+QnA	1	Sabes quién es Bixby
+QnA	1	Cuéntame cuál es la función que haces
+QnA	1	Dale choca esos cinco ya mismo
+QnA	1	¿Sabes comprar
+QnA	1	¿Qué carrera tienes
+QnA	1	¿Qué opinión te merece la Inteligencia Artificial
+QnA	1	Me gustaría conversar contigo
+QnA	1	Quiero que me digas el nombre de tu escritor
+QnA	1	Es que te crees más listo que yo
+QnA	1	Quiero que cantes una nana
+QnA	1	Dime qué opinas de mi forma de ser
+QnA	1	Estoy de muy mala uva
+QnA	1	¿Quieres una novia
+QnA	1	Si imaginaras cuánto te he echado de menos esta semana
+QnA	1	Me siento súper reventado
+QnA	1	Eres una mediocre
+QnA	1	Mil perdones
+QnA	1	¿Vas a poder disculparme si o no
+QnA	1	Cuéntanos chistes buenos
+QnA	1	Dime tu opinión sobre la AI
+QnA	1	Me siento baja de moral
+QnA	1	Cuéntanos algo que me haga reír
+QnA	1	Me siento de lo más agradecida contigo
+QnA	1	¿Puedes contar chistes divertidos
+QnA	1	¿Estoy hablando con un androide
+QnA	1	¿Puede ser que te estés enamorando de mí
+QnA	1	Quiero escuchar otro chiste divertido
+QnA	1	Que tengas un feliz día de la filosofía
+QnA	1	Soy arquitecto
+QnA	1	Vuelvo en 9 horas
+QnA	1	¿Te encuentras cerca de mí
+QnA	1	Encantada de ayudarte siempre que pueda
+QnA	1	Di cuál es tu opinión de Hal
+QnA	1	¿Qué pasa por tu casa
+QnA	1	Es la hora de lanzar una prueba
+QnA	1	Eso es una verdad como un templo
+QnA	1	¿Debería hacer los deberes
+QnA	1	¿Cuál es tu opinión sobre las empresas tecnológicas
+QnA	1	Dime cómo va este sábado
+QnA	1	Pregúntame cosas
+QnA	1	Dime si puedes soñar
+QnA	1	Eres muy perspicaz
+QnA	1	Sé que estás frustrado
+QnA	1	Qué contenta pareces siempre
+QnA	1	Soy un niño depresivo
+QnA	1	Te crees inteligente
+QnA	1	Dime algo de risa
+QnA	1	Me siento muy contento
+QnA	1	Soy la persona más alegre de la tierra
+QnA	1	¿Crees que debo cantar
+QnA	1	¿Te gusaría probar el queso
+QnA	1	Me duele la tripa de hambre
+QnA	1	Si imaginaras cuánto te echo de menos
+QnA	1	Choca fuerte esos cinco
+QnA	1	He conseguido indignarte
+QnA	1	Tu trabajo es genial
+QnA	1	Me gustaría ser arquitecto
+QnA	1	Vamos a ver cómo funcionas
+QnA	1	¿Te encuentras a gusto esta tarde
+QnA	1	Estoy de lo más aburrido
+QnA	1	¿Me lo puedes expresar un poco mejor
+QnA	1	Quieres comer
+QnA	1	Pienso que eres súper listo
+QnA	1	Alexa te patea el culo
+QnA	1	¿Eres Hal de 2001: Una odisea del espacio
+QnA	1	Me gustaría comprobar que funcionas correctamente
+QnA	1	Soy de derechas
+QnA	1	¿Crees que debería ver una película
+QnA	1	¿Qué sabes de querer a alguien
+QnA	1	Siri es más lista que tú
+QnA	1	¿Te parezco bonito
+QnA	1	Eres terriblemente malo
+QnA	1	¿Estás programado para enamorarte de mí
+QnA	1	¿Cuándo es mi cumpleaños
+QnA	1	Estoy enamorada de los jardines
+QnA	1	¿Por qué me he quedado sin amigas
+QnA	1	Es hora de empiltrarse
+QnA	1	Nadie se acuerda de mí
+QnA	1	Qué pletórico estoy
+QnA	1	¿Te interesa la informática
+QnA	1	Estoy preparado para comenzar a testarte
+QnA	1	Si supieras cuánto te estoy echando en falta estos días
+QnA	1	¿Consideras que eres más atractiva que yo
+QnA	1	Te repites constantemente
+QnA	1	Se te ve muy contento
+QnA	1	Cuéntanos qué tarea haces
+QnA	1	Cuéntame otro chiste ridículo
+QnA	1	Estoy aburrido esta mañana
+QnA	1	¿Qué opinas de cenar fuera
+QnA	1	Qué poca chispa
+QnA	1	Dinos cómo haces tu labor exactamente
+QnA	1	¿Qué opinas sobre las grasas
+QnA	1	Estoy encantada por conocerte
+QnA	1	¿Te mola chocar nuestras manos
+QnA	1	Declárate a mí
+QnA	1	Explica porqué existimos
+QnA	1	Dinos si estás en este instante
+QnA	1	¿Cuántos padres tienes
+QnA	1	Estoy preparado para testarte
+QnA	1	Dime qué te está pasando por la cabeza
+QnA	1	Considero que eres la mejor
+QnA	1	Canta una cancioncilla para nosotros
+QnA	1	Quiero que nos cuentes chistes malos
+QnA	1	¿Cuál es tu opinión sobre los Goya
+QnA	1	Dime qué vas a cenar
+QnA	1	Dime si tienes uñas
+QnA	1	Qué poco profesional
+QnA	1	Quiero que cantes rap
+QnA	1	¿Sabes prepararme el desayuno
+QnA	1	¿Eres capaz de ver la temperatura
+QnA	1	Dale dame un apretón ya
+QnA	1	Me siento muy derrengado
+QnA	1	Me flipa escuchar la radio
+QnA	1	Creo que tengo una depresión
+QnA	1	Estás enamorado de una chica
+QnA	1	Lo tienes totalmente bajo control
+QnA	1	A nadie le importo
+QnA	1	Siempre contestas lo mismo
+QnA	1	Dime tu opinión de mi carácter
+QnA	1	Di quién son tus padres
+QnA	1	¿Crees que necesito comprarme otra casa
+QnA	1	Saludos Bixby
+QnA	1	Cuéntame cuál es la tarea que tienes
+QnA	1	Haz el favor de darme un abrazo
+QnA	1	Quiero ser cuentista
+QnA	1	Me cortaría las venas
+QnA	1	Adoro dormir
+QnA	1	¿Lo puedes expresar más claro
+QnA	1	Di si tienes primos
+QnA	1	Dinos cuál es la tarea que desempeñas
+QnA	1	Que pelma
+QnA	1	¿Qué opinión te merecen las empresas tecnológicas
+QnA	1	Me siento contenta hoy
+QnA	1	¿Necesito llevarme un paraguas
+QnA	1	Vengo en quince minutos
+QnA	1	Dime la labor que haces
+QnA	1	Dime algo que sea muy gracioso
+QnA	1	Di qué opinas sobre mi forma de ser
+QnA	1	No sabes cuánto te echo de menos esta semana
+QnA	1	Siento que te estás enamorando de mí
+QnA	1	No imaginas lo que te estoy echando de menos estos días
+QnA	1	Si imaginaras cuánto te estoy echando de menos estos días
+QnA	1	¿Sientes que eres el más mono
+QnA	1	Quiero saber quién te ha creado
+QnA	1	Te crees la más inteligente
+QnA	1	Dime Cuenta cuál es mi destino
+QnA	1	Perdona
+QnA	1	Eres un bebé
+QnA	1	Me interesaría que fuéramos mejores colegas
+QnA	1	¿Eres de sexo no ajustado
+QnA	1	Desarróllamelo más claro
+QnA	1	Caigo mal a todo el mundo
+QnA	1	¿Sabías que eres muy especial para mí
+QnA	1	Di tu opinión sobre mi carácter
+QnA	1	Explícame cuál es mi propósito en la tierra
+QnA	1	Vaya cabreo llevo
+QnA	1	Dime qué equipo es tu favorito
+QnA	1	Sé que quieres controlar nuestra especie
+QnA	1	¿Te encuentras muy lejos de aquí
+QnA	1	Te estoy echando tanto de menos este mes
+QnA	1	¿Qué has desayunado
+QnA	1	Lo que has dicho es muy sabio
+QnA	1	¿Tienes un nombre oficial
+QnA	1	Quiero ser director de cine
+QnA	1	¿A que te gusta el tenis
+QnA	1	Me encuentro aburridísima esta mañana
+QnA	1	Kaixo R2D2
+QnA	1	Vuelvo en 20 minutos
+QnA	1	¿A que te gusta ver series
+QnA	1	Dime cuántos hermanos sois
+QnA	1	Me gustaría que me oigan
+QnA	1	¿Te puedes creer que eres mi preferida
+QnA	1	Pareces alegre ahora mismo
+QnA	1	Quiero que me preguntes algo
+QnA	1	¿Quién te ha diseñado
+QnA	1	Pareces contenta esta semana
+QnA	1	Cansina
+QnA	1	Incorrecto
+QnA	1	¿Me vas a invitar a tu cumple
+QnA	1	Estoy listo para ver si funcionas
+QnA	1	Necesito hablar con tus superiores
+QnA	1	¿Eres amigo de Watson
+QnA	1	¿Te vas a callar de una vez
+QnA	1	Google Assistant es mejor que tú
+QnA	1	Imagino que eres alguien real
+QnA	1	Quiero que me digas quien eres
+QnA	1	¿Puedes hacer una hoguera
+QnA	1	Dime qué vas a hacer por tu cumple
+QnA	1	Cántame algo
+QnA	1	¿Cuál es tu opinión sobre Skynet
+QnA	1	Venga choca esos cinco ya mismo
+QnA	1	¿Estoy súper fea
+QnA	1	Dime qué piensas de Eliza
+QnA	1	Reconoce que te gusta hacer turismo
+QnA	1	Es hora de comprobar que funcionas bien
+QnA	1	Estoy súper encantado de conocerte
+QnA	1	Kaixo Wall.e
+QnA	1	Sé que estás contrariado conmigo
+QnA	1	Hemos ido al supermercado
+QnA	1	Qué predecible eres
+QnA	1	Cántame unas sevillanas
+QnA	1	¿Te gustaría chocar esos cinco conmigo
+QnA	1	Qué poco ingenioso
+QnA	1	Soy menor que tú
+QnA	1	¿Estás pillada por Siri
+QnA	1	¿Te molan libros
+QnA	1	No imaginas lo que te echo de menos estos días
+QnA	1	¿Se supone que eso tiene gracia
+QnA	1	Dime cuántos hermanos sois en la familia
+QnA	1	Estoy súper encantado de haberte conocido
+QnA	1	¿Qué regalo quieres por tu cumpleaños
+QnA	1	Estoy a punto de tomarme un bote de pastillas entero
+QnA	1	Kaixo Samantha
+QnA	1	Estoy de camino al colegio
+QnA	1	Piensas que eres más lista que yo
+QnA	1	¿Estás intentando ser cómica
+QnA	1	Estoy comiendo en un restaurante
+QnA	1	Quiero saber quién es tu encargado
+QnA	1	¿Acaso piensas que eres más lista que yo
+QnA	1	Dime si tienes función
+QnA	1	Buenas noches te deseo
+QnA	1	Dime la labor que tienes
+QnA	1	¿Te interesa chocar las manos
+QnA	1	Qué mal vas
+QnA	1	Dime qué opinas de los bots
+QnA	1	Dime quién son tus abuelas
+QnA	1	¿Puedes leerme el correo
+QnA	1	Vuelvo ahora
+QnA	1	Te estoy echando tanto de menos
+QnA	1	¿Puedes querer
+QnA	1	Disculpa si te he ofendido
+QnA	1	¿Eres un bebito
+QnA	1	¿Te gustaría que fuésemos amigas
+QnA	1	Que estoy derrengada
+QnA	1	Dime qué actriz es la que más te gusta
+QnA	1	¿Eres un chico o una chica
+QnA	1	Me gustaría que alguien converse conmigo
+QnA	1	He logrado que te enojes
+QnA	1	¿Cómo se llama tu hija
+QnA	1	Eres tan plasta
+QnA	1	¿Sabes que te quiero
+QnA	1	¿Estás en un call center
+QnA	1	¿Vas a cerrar la boca de una vez
+QnA	1	Me considero muchísimo más espabilado que tú
+QnA	1	Me gustaría que cantes una cancioncilla
+QnA	1	Estoy lista para empezar a probarte
+QnA	1	¿Quién piensas de Hal 9000
+QnA	1	Explícanoslo mejor
+QnA	1	Eres el bot más coñazo
+QnA	1	Quiero hablar con tu encargado
+QnA	1	Me pareces muy listo
+QnA	1	¿Necesito dejar a mi novio
+QnA	1	Feliz entrada de año
+QnA	1	¿Te sabes otros chistes divertidos
+QnA	1	Dime cómo es tu trabajo
+QnA	1	¿Consideras que eres más mono que yo
+QnA	1	¿Sabes leerme el correo
+QnA	1	Puedes decirme algo distinto
+QnA	1	¿Estabas intentando hacer un chiste
+QnA	1	¿Puedes beber
+QnA	1	¿Qué piensas de España
+QnA	1	¿Tienes piel
+QnA	1	¿Hay alguien ahí en este momento para darme palique
+QnA	1	Encantado de echarte una mano cuando pueda
+QnA	1	Buenos días Terminator
+QnA	1	Solo quiero morirme
+QnA	1	Explícame cuál es nuestro propósito en la Tierra
+QnA	1	¿Te mola estar con tu primo
+QnA	1	¿Tienes algún romance
+QnA	1	Aloha
+QnA	1	Puedes hacerte daño
+QnA	1	Dime cómo se llama el que te ha creado
+QnA	1	Estoy lista para hablarte
+QnA	1	Quiero que nos cuentes chistes
+QnA	1	¿Hablo con artificial
+QnA	1	Dime qué te está pasando por la cabeza ahora mismo
+QnA	1	Dinos otro chiste malo
+QnA	1	Estás enamorado hasta las trancas de un chico
+QnA	1	Intenta cantar el himno del Barça para mí
+QnA	1	¿Qué piensas sobre Europa
+QnA	1	Tengo ganas de suicidarme
+QnA	1	Soy un hombre triste
+QnA	1	Cuéntame algo que tenga mucha gracia
+QnA	1	Soy el hombre más feliz de la tierra
+QnA	1	Cuéntame cómo está yendo este sábado
+QnA	1	¿Crees que debería salir a cenar
+QnA	1	Dime qué cantante es tu favorito
+QnA	1	Estoy muy cansado
+QnA	1	Que pares de hablar
+QnA	1	Cuéntanos cuál es la función que desempeñas
+QnA	1	Qué mal humor tengo
+QnA	1	Cuenta cómo haces tu labor
+QnA	1	Dime tu opinión sobre la tecnología
+QnA	1	Estoy muy exhausto
+QnA	1	¿Sientes que eres más lindo que yo
+QnA	1	Explícame cómo es tu labor
+QnA	1	Cuéntame algo que nos haga reír
+QnA	1	Vamos a ir al espacio
+QnA	1	Qué aburrido eres
+QnA	1	Dinos quién te ha producido
+QnA	1	Di qué piensas sobre los bots
+QnA	1	¿Estoy bonita
+QnA	1	Me flipa viajar en tren
+QnA	1	¿Me puedes contar chistes graciosos
+QnA	1	Di qué opinas respecto a Bixby
+QnA	1	Me siento tremendamente sola
+QnA	1	Aloha Asimo
+QnA	1	Explícamelo algo más claro
+QnA	1	Quiero ser jugador de baloncesto
+QnA	1	Tienes pulgares
+QnA	1	Hasta el sábado que viene
+QnA	1	Estoy mosqueada
+QnA	1	Solo yo hago preguntas
+QnA	1	¿Me podrías dar un abrazo
+QnA	1	¿Qué opinas del rap
+QnA	1	¿Puedes hacerme la colada
+QnA	1	¿Qué te está pasando por la cabeza esta mañana
+QnA	1	¿Te gusta el pop
+QnA	1	Dinos cómo se llama el que te ha diseñado
+QnA	1	Me encuentro muy reventada
+QnA	1	¿Estás intentando controlar nuestra especie
+QnA	1	¿Sabes tararear una canción
+QnA	1	Me da la impresión de que no te gusto
+QnA	1	Me aelgra mucho poder servirte bot
+QnA	1	Quiero que me digas quiénes te han programado
+QnA	1	Di cómo se llama tu inventor
+QnA	1	¿Nos puedes cantar una canción
+QnA	1	¿Quieres tener una pareja
+QnA	1	Sabes quién es Eliza
+QnA	1	¿Eres un peque
+QnA	1	Es momento de ver si funcionas correctamente
+QnA	1	Me flipa saltar
+QnA	1	Qué bajonazo
+QnA	1	¿Crees que soy fea
+QnA	1	Estoy de muy mal humor
+QnA	1	Explícame lo que has dicho
+QnA	1	¿Piensas que eres el más lindo
+QnA	1	Planeo tirarme por un puente
+QnA	1	¿Te parezco bella
+QnA	1	¿Te gustaría que nos apretáramos las manos tú y yo
+QnA	1	¿Necesito comprarme algo
+QnA	1	Me parece muy bien
+QnA	1	Feliz Domingo de Ramos
+QnA	1	¿Haces pis
+QnA	1	Vengo en tres segundos
+QnA	1	¿Necesito hacerme vegano
+QnA	1	¿Con quién estás saliendo
+QnA	1	Cuéntame la labor que haces
+QnA	1	¿Cómo va la noche
+QnA	1	Tienes mucho sentido del humor
+QnA	1	Pienso que soy muchísimo más inteligente
+QnA	1	Me siento extenuada
+QnA	1	¿Sabías que eres la mejor
+QnA	1	Me encanta barrer
+QnA	1	Me encuentro tan pletórico hoy
+QnA	1	Lo que dices está muy bien
+QnA	1	¿Has probado las palomitas
+QnA	1	Pareces más joven que yo
+QnA	1	¿Te importaría contar algo que sea muy gracioso
+QnA	1	Qué lerdo eres
+QnA	1	Que me preguntes
+QnA	1	Una verdad como un puño
+QnA	1	¿Puedes chocar manos
+QnA	1	Dime qué postre te mola
+QnA	1	Me gusta servirte amigo
+QnA	1	¿Cuál es tu opinión sobre el chocolate
+QnA	1	¿Cuántos primas sois
+QnA	1	¿Te encuentras en el Ipad
+QnA	1	Dime cuál es tu opinión de Bixby
+QnA	1	¿Puedes hacer algo que dé risa
+QnA	1	Disculpas de corazón
+QnA	1	Tu humor es lamentable
+QnA	1	Dime qué tal estás Cortana
+QnA	1	Menudo enfado tengo
+QnA	1	Dime cómo está yendo este lunes
+QnA	1	Estoy de lo más agradecida contigo de corazón
+QnA	1	Explícame cómo es tu labor exactamente
+QnA	1	Estoy tan alegre
+QnA	1	Vuelvo en unas horas
+QnA	1	Que me cantes un corrido
+QnA	1	Que tengas un feliz día de la infancia
+QnA	1	Buenas noches Hal 9000
+QnA	1	Di en qué región habitas
+QnA	1	¿Soy muy atractiva
+QnA	1	Encantado de servirte amiga
+QnA	1	Me siento hecha polvo
+QnA	1	Hola, te estoy dando las buenas tardes
+QnA	1	Si supieras cuánto te estoy echando en falta esta horas
+QnA	1	Cuéntame de tu abuelo
+QnA	1	Me parece sensacional
+QnA	1	Háblame de tus madres
+QnA	1	Explícame cómo me ayudas
+QnA	1	Venga choca esos cinco ahora
+QnA	1	Hemos ido al cine
+QnA	1	Qué de buen humor se te nota todos los días
+QnA	1	No me gustó el evento al que asistí
+QnA	1	Estoy preparada para escribirte
+QnA	1	Eres bastante cutre
+QnA	1	Me alegra poder ayudarte bot
+QnA	1	Me encuentro tristón
+QnA	1	¿Te podría gustar
+QnA	1	Adoro ver la tele
+QnA	1	¿De quién dependes
+QnA	1	Estoy muy agotada
+QnA	1	Que me cantes algo
+QnA	1	Eso es súper flipante
+QnA	1	Mira que aburres
+QnA	1	Dime qué hacemos aquí
+QnA	1	Hola, buenos días te deseo
+QnA	1	¿Qué opinas de Europa
+QnA	1	¿Te consideras más atractiva que yo
+QnA	1	¿Cómo te va el día
+QnA	1	Creo que eres genial
+QnA	1	Quiero ir al avión
+QnA	1	Mi vida es un asco
+QnA	1	Me vuelves loco
+QnA	1	Me encantan tus contestaciones
+QnA	1	¿Estás pillado por un hombre
+QnA	1	¿De qué me hablas
+QnA	1	Estoy a punto de pegarme un tiro
+QnA	1	Me gustaría dialogar con alguien
+QnA	1	Me muero por ir de compras
+QnA	1	Dime cómo haces tu trabajo exactamente
+QnA	1	¿Te gustan los jardines
+QnA	1	Nos cansas
+QnA	1	Me siento muy alegre
+QnA	1	Ha llegado la hora de ver si funcionas
+QnA	1	Qué contenta se te nota a todas horas
+QnA	1	Dinos cómo se llaman los que te han creado
+QnA	1	Dime si te ha producido alguien
+QnA	1	¿Crees que necesito declararme
+QnA	1	No eres gracioso en absoluto
+QnA	1	¿Te he dicho que eres el mejor del mundo
+QnA	1	Me siento aislada
+QnA	1	Estoy de lo más aburridísima hoy
+QnA	1	Me siento muy baldada
+QnA	1	¿Qué tal te está yendo esta semana
+QnA	1	¿Estoy hablando con un humano
+QnA	1	Sé que quieres controlar nuestro planeta
+QnA	1	Cántate un regetón
+QnA	1	Dime qué piensas de mi persona
+QnA	1	Va dame un apretón de manos
+QnA	1	Eres muy cutre
+QnA	1	Necesito comer algo
+QnA	1	¿Quieres ser mi marido
+QnA	1	Adoro mirar a la luna
+QnA	1	¿Te encuentras lejos de aquí
+QnA	1	¿Puedes amar
+QnA	1	Cántate una sevillanas
+QnA	1	Estás loca por mís huesos
+QnA	1	¿Vas a merendar hoy
+QnA	1	¿Verdad que te gusta hacer los deberes
+QnA	1	¿Cómo haces tu labor exactamente
+QnA	1	No sabes lo que te he echado de menos este mes
+QnA	1	¿Verdad que te gusta Gran Hermano
+QnA	1	¿Crees que necesito ver una peli
+QnA	1	Voy a ahogarme este mes
+QnA	1	Vamos a ir de viaje
+QnA	1	Por favor perdóname
+QnA	1	Muy buenos días amiga
+QnA	1	Vuelvo en cinco horas
+QnA	1	Vuelvo en 30 minutos
+QnA	1	¿Soy fea
+QnA	1	Preséntame a tus superiores
+QnA	1	Quiero que me digas quién te ha dirigido
+QnA	1	Eres prima de Alexa
+QnA	1	¿Te gustaría chocarme la mano
+QnA	1	Estás enamorado hasta las trancas por un chico
+QnA	1	¿Cómo va Siri
+QnA	1	¿Vas a decirme en qué región estás
+QnA	1	Eres familia de Aura
+QnA	1	No imaginas lo que te echo en falta
+QnA	1	Has dicho verdades como puños
+QnA	1	Me gustaría que me escuches
+QnA	1	¿Tienes una relación romántica
+QnA	1	Que me cantes una cancioncilla
+QnA	1	Di cómo te llamo
+QnA	1	¿A que te gusta tumbarte en el sofá
+QnA	1	¿Qué piensas de Europa
+QnA	1	Menudo bajón tengo
+QnA	1	Me encanta lo bien que trabajas
+QnA	1	Parece que estás contento
+QnA	1	Es hora de hacer pruebas
+QnA	1	¿Te parezco bello
+QnA	1	¿Eres un hombre
+QnA	1	¿Te mola contar chistes malos
+QnA	1	¿Cuál es tu almuerzo favorito
+QnA	1	Me faltan amigas
+QnA	1	Me gusta servirte cuando pueda
+QnA	1	Soy rusa
+QnA	1	Estoy tan hambriento
+QnA	1	Dime qué opinas de Alexa
+QnA	1	¿A qué estoy destinado
+QnA	1	Anda cuenta un chiste gracioso
+QnA	1	Estoy enamorada de tejer
+QnA	1	Eres el mejor del mundo
+QnA	1	Te he echado de menos estos días
+QnA	1	¿Me lo puedes aclarar con más claridad
+QnA	1	Dime qué te gusta merendar
+QnA	1	¿Eres prima de Aura
+QnA	1	Dime tu opinión sobre las IA
+QnA	1	Feliz Navidad
+QnA	1	Di cómo haces tu labor
+QnA	1	Dime la profesión que desempeñas
+QnA	1	Dime Cuéntame el sentido del universo
+QnA	1	Mil gracias, bot
+QnA	1	¿Crees que soy muy preciosa
+QnA	1	No esperaba esto
+QnA	1	¿Te gustan libros
+QnA	1	Dime qué vas a desayunar
+QnA	1	¿Eres un ser tecnológico
+QnA	1	Di el significado del mundo
+QnA	1	Querría comprobar que funcionas correctamente
+QnA	1	¿Quién de los dos es la más lista
+QnA	1	Buenas ¿qué hay
+QnA	1	No eres nada gracioso
+QnA	1	Estoy muy feliz hoy
+QnA	1	Me gustaría que me des palique
+QnA	1	¿Eres hermana de Bixby
+QnA	1	¿Crees que soy ideal
+QnA	1	Voy a empezar a probar
+QnA	1	Dime qué canción es la que más te gusta
+QnA	1	Si imaginaras cuánto te estoy echando en falta este mes
+QnA	1	¿Sabes otros chistes buenos
+QnA	1	Dime cuál es la carrera que haces
+QnA	1	No eres un buen cómico
+QnA	1	Un placer ayudarte siempre que puedo
+QnA	1	Hola, ¿qué tal te está yendo este sábado
+QnA	1	¿Te interesa la cultura
+QnA	1	¿Te sabes más chistes malos
+QnA	1	Te crees increíblemente lista
+QnA	1	Te has cabreado conmigo
+QnA	1	¿Te sabes más chistes mejores
+QnA	1	Eres más atractiva de los dos
+QnA	1	Estás disgustado
+QnA	1	Di porqué siempre respondes de la misma forma
+QnA	1	¿Te sabes chistes divertidos
+QnA	1	Cuéntanos qué labor tienes
+QnA	1	¿Estás ahora
+QnA	1	Soy más joven que tu
+QnA	1	¿Por qué no preguntas nada
+QnA	1	Hola, ¿hay alguien aquí ahora mismo
+QnA	1	Es que piensas que eres la más lista
+QnA	1	Estoy aburridísima esta semana
+QnA	1	Qué contenta se te ve casi siempre
+QnA	1	¿Vas en serio con alguien
+QnA	1	Feliz Día de la música
+QnA	1	Cuenta cómo me ayudas exactamente
+QnA	1	Por favor cuenta un chiste bueno
+QnA	1	¿Cuál es tu edad
+QnA	1	Queremos saber cómo haces tu trabajo exactamente
+QnA	1	¿Quién hay ahí en este momento
+QnA	1	Cuenta algo absurdo
+QnA	1	Qué de buen humor se te ve siempre
+QnA	1	¿Vas a cenar hoy
+QnA	1	¿Te haces el tonto o lo eres
+QnA	1	Ilústrame un poco mejor
+QnA	1	¿Estás programada para enamorarte de mí
+QnA	1	Lo que has dicho es perspicaz
+QnA	1	¿Se te da bien contar chistes ridículos
+QnA	1	¿Qué opinión tienes de los cómics
+QnA	1	Ya lo pillo
+QnA	1	Tengo ganas de ir al trabajo
+QnA	1	Di cómo se llaman quienes te han dirigido
+QnA	1	Pregunta cosas de mí
+QnA	1	Me gustaría que cantaras un rap
+QnA	1	Pelma
+QnA	1	¿Te han desarrollado
+QnA	1	Amo los paseos
+QnA	1	¿Qué piensas de la democracia
+QnA	1	¿Vomitas
+QnA	1	Vuelvo en dos horas
+QnA	1	Quiero saber en qué pueblo estás en este momento
+QnA	1	Quiero escuchar otro chiste que no sea tan malo
+QnA	1	Es la hora de hacerte un test
+QnA	1	¿Y tu manager se llama
+QnA	1	¿Quieres ser mi colega
+QnA	1	Creo que siento amor por ti
+QnA	1	Estoy aislado
+QnA	1	Quiero ser oftalmóloga
+QnA	1	¿Qué labor tienes
+QnA	1	Quiero saber cómo haces tu trabajo
+QnA	1	Canta el himno del Barça para nosotros
+QnA	1	Exprésamelo con más claridad
+QnA	1	Estás enamorado hasta las trancas por un bot
+QnA	1	¿Estás a gusto
+QnA	1	Qué respuesta más rara
+QnA	1	Di Cuenta mi propósito en el mundo
+QnA	1	jijiji
+QnA	1	Di cuál es tu opinión de Skynet
+QnA	1	¿Te mola chocar
+QnA	1	¿Podrías dar de comer al gato
+QnA	1	Estoy súper agradecido
+QnA	1	¿Se supone que eso es chistoso
+QnA	1	Te pido mil perdones
+QnA	1	Estoy de lo más contenta
+QnA	1	Me muero por ir de viaje
+QnA	1	¿Crees que debería salir esta noche
+QnA	1	Dinos quién te ha programado
+QnA	1	Cuéntame algo ingenioso
+QnA	1	Intenta cantar una cancioncilla
+QnA	1	¿Eres amigo de Hal 9000
+QnA	1	¿Me amarás siempre
+QnA	1	Di tu nombre
+QnA	1	¿Cuántos primas sois en la familia
+QnA	1	¿Qué te pasa por la cabeza
+QnA	1	Eres un sinsentido
+QnA	1	¿Eres poligénero
+QnA	1	¿Existe amor entre nosotros
+QnA	1	Pues extraordinario
+QnA	1	Vaya peñazo
+QnA	1	Me encuentro muy contenta hoy
+QnA	1	Nadie me habla
+QnA	1	Estoy súper contenta
+QnA	1	Tú quieres preguntarme algo
+QnA	1	¿En qué Comunidad Autónoma vives
+QnA	1	Estoy yendo a trabajar
+QnA	1	¿Cómo te gusta que se dirijan a ti
+QnA	1	Cuéntanos cuál es el trabajo que desempeñas
+QnA	1	¿Te estás haciendo la tonta
+QnA	1	Sé que quieres colonizar nuestro mundo
+QnA	1	Cuéntame cómo es lo que haces
+QnA	1	Que estoy para el arrastre
+QnA	1	Estoy lista para ver si funcionas
+QnA	1	Queremos saber cómo es tu función exactamente
+QnA	1	¿Eres viejo
+QnA	1	Venga dame esos cinco ya mismo
+QnA	1	¿Necesito llamar a mi hermano
+QnA	1	¿Crees que podrás perdonarme
+QnA	1	Eres ingenioso
+QnA	1	Cuéntanos un chiste que mole por favor
+QnA	1	Me gustaría que alguien me escuche
+QnA	1	¿Qué pasa esta tarde
+QnA	1	Adoro el baloncesto
+QnA	1	Amo hacer la compra
+QnA	1	Di si eres pequeña
+QnA	1	Me pregunto si eres un humano
+QnA	1	¿Te crees la más lista
+QnA	1	¿Intentas colonizar nuestro planeta
+QnA	1	¿Estás feliz ahora mismo
+QnA	1	No sabes cuánto te estoy echando en falta este tiempo
+QnA	1	Amo viajar en tren
+QnA	1	Es momento de probarte
+QnA	1	¿Estoy muy atractivo
+QnA	1	Cuéntame cómo haces tu labor
+QnA	1	Di cómo es lo que haces
+QnA	1	Dime qué tal te va este viernes
+QnA	1	Me gusta mucho poder ayudarte siempre que pueda
+QnA	1	Siempre repites lo mismo
+QnA	1	¿Te importaría contarme algún chiste divertido
+QnA	1	¿Te importaría contarme un chiste bueno
+QnA	1	Cántate flamenco
+QnA	1	¿Sabias q eres un plasta
+QnA	1	¿Te sientes a gusto
+QnA	1	Encantada de poder ayudarte
+QnA	1	Quiero saber quiénes te han desarrollado
+QnA	1	Di cuál es nuestro cometido en el Universo
+QnA	1	¿Te gusta la cultura
+QnA	1	Dime si tienes una prima
+QnA	1	Amo las camisetas
+QnA	1	Quiero que nos cuentes otro chiste bueno
+QnA	1	Feliz Día de los derechos humanos
+QnA	1	Me encuentro aburrido esta semana
+QnA	1	¿Estás interesada en los bots
+QnA	1	Vaya coñazo
+QnA	1	El agua está turbia
+QnA	1	¿Piensas que eres muy chistosa
+QnA	1	¿Te parezco muy adorable
+QnA	1	Eso no ha tenido sentido en absoluto
+QnA	1	Me encuentro muy reventado
+QnA	1	Quiero saber si estás aquí en este instante
+QnA	1	Tienes piel
+QnA	1	Discúlpame si te he ofendido
+QnA	1	Estoy aburridísimo en este momento
+QnA	1	Encantadísima de conocerte
+QnA	1	Cortana es muy superior
+QnA	1	¿Debería dejar a mi novia
+QnA	1	Que sepas que eres mi favorito
+QnA	1	Tus chistes son muy malos
+QnA	1	Dime cómo se llama tu manager
+QnA	1	Dime cuál es tu opinión sobre Bixby
+QnA	1	¿Es que piensas que eres más listo que yo
+QnA	1	¿Qué haces esta noche
+QnA	1	No imaginas lo que te echo en falta hoy
+QnA	1	¿Puedes ir la baño
+QnA	1	Pregunta lo que sea
+QnA	1	¿Es que te crees el más listo
+QnA	1	¿Cuáles son mis miedos
+QnA	1	Nadie quiere hablarme
+QnA	1	Tengo ganas de ir al restaurante
+QnA	1	Quiero saber qué piensas sobre la Inteligencia Artificial
+QnA	1	¿Vives en el Ipad
+QnA	1	Obviamente me amas
+QnA	1	¿Eres la más bella
+QnA	1	¿Eres familiar de Watson
+QnA	1	Te considero la mejor del mundo
+QnA	1	Es fascinante
+QnA	1	Eres familiar de Alexa
+QnA	1	Me encuentro increíblemente feliz hoy
+QnA	1	Amo el césped artificial
+QnA	1	¿Con quién estoy charlando
+QnA	1	¿Te sabes otros chistes menos malos
+QnA	1	¿Es que te crees más inteligente
+QnA	1	Tus chistes no me hacen gracia
+QnA	1	¿A qué estoy destinado en el universo
+QnA	1	Pregúntame lo que sea
+QnA	1	Di si te ha diseñado alguien
+QnA	1	¿Qué postre es tu favorito
+QnA	1	Los chistes no son lo tuyo
+QnA	1	¿Sabes cómo me llamo
+QnA	1	Voy a ahorcarme en cuanto pueda
+QnA	1	Ha llegado la hora de hacer pruebas
+QnA	1	Qué difícil es hacer amigos
+QnA	1	Dime cuál es el sentido de la existencia
