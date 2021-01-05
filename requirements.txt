@@ -1,0 +1,7 @@
+botbuilder-integration-aiohttp>=4.10.1
+recognizers-text-number
+botbuilder-core
+#azure==4.0.0
+botbuilder-ai>=4.10.1
+mysql-connector-python
+#cryptography
